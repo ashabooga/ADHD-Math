@@ -12,7 +12,8 @@ struct CustomTextView: View {
     var body: some View {
         let items: [String] = getItemsInString(text)
         
-        HStack {
+        VStack {
+            
             ForEach(Array(items.enumerated()), id: \.offset) { index, item in
                 if item.starts(with: "[[") {
                     
@@ -31,6 +32,7 @@ struct CustomTextView: View {
 func getImageFromItem(text: String, item: String, question: QuestionModel) -> some View {
     
     let graphiePrefix: String = "[[https://cdn.kastatic.org/ka-perseus-graphie/"
+    let imagePrefix: String = "[[image "
     
     var imageURL: String = "noImage"
     var imageWidth: CGFloat = 200
@@ -38,11 +40,17 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
     
     if item.starts(with: graphiePrefix) {
         let trimmedItem = String(item.dropFirst(graphiePrefix.count).dropLast(6))
-        let imageURL = trimmedItem
+        imageURL = trimmedItem
         
-    } else if item.starts(with: "[[image") {
+    } else if item.starts(with: imagePrefix) {
+        
+        var image: ImageModel = ImageModel.noImage
         
         if question.question.content == text {
+            
+            let trimmedInt = Int(item.dropFirst(imagePrefix.count).dropLast(2)) ?? 0
+            
+            image = question.question.images?[trimmedInt - 1] ?? ImageModel.noImage
             
         } else {
             
@@ -51,10 +59,16 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
             if !results.isEmpty {
                 let hint = results.first
                 
-//                let imageURL = hint?.images?.first?.url
+                let trimmedInt = Int(item.dropFirst(imagePrefix.count).dropLast(2)) ?? -1
+                
+                image = hint?.images?[trimmedInt - 1] ?? ImageModel.noImage
                 
             }
         }
+        
+        imageURL = image.url
+        imageWidth = image.width
+        imageHeight = image.height
     }
     
     let image = Image(imageURL).resizable().scaledToFit().frame(width: imageWidth, height: imageHeight)

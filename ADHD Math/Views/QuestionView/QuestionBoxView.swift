@@ -15,7 +15,7 @@ struct QuestionBoxView: View {
                     
                 case QuestionType.dropdown:
                     Picker("Pick One", selection: $selectedAnswer[0]) {
-                        ForEach(question.options ?? [""], id: \.self) {
+                        ForEach(question.options, id: \.self) {
                             Text($0)
                         }
                     }
@@ -37,8 +37,8 @@ struct QuestionBoxView: View {
                         .frame(width: 100)
                     
                 default:
-                    ForEach(question.options ?? [""], id: \.self) { option in
-                        QuestionChoiceView(option: option, isSelected: false, questionType: question.questionType)
+                    ForEach(question.options, id: \.self) { option in
+                        QuestionChoiceView(option: option, isSelected: false, question: question)
                             .frame(width: 300)
                             .contentShape(Rectangle()).gesture(DragGesture())
                     }
@@ -69,13 +69,15 @@ struct QuestionBoxView: View {
                 
             }
             .padding(.trailing, 10)
-            .padding(.bottom, 300)
+            .padding(.bottom, 350)
             
         }
         
     }
 }
 
-//#Preview {
-//    QuestionBoxView(question: QuestionModel(questions:/* ["Check this hotdog out", "Didja know that my name is ben?"], answers: ["That's cool man"], hints: ["It's true, my name is ben"], hasBeenAsked: false, questionType: QuestionType.singleChoice, options: ["13", "15", "22"]))*/
-//}
+#Preview {
+    let question: QuestionModel = QuestionModel(id: 0, question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "test", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], correctAnswers: ["option 2"], hints: [HintModel(content: "Hint 1")], questionType: .multipleChoice, videos: ["test"])
+    
+    return QuestionBoxView(question: question)
+}

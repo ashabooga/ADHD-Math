@@ -40,8 +40,8 @@ struct HintModel: Identifiable, Decodable {
 struct ImageModel: Identifiable, Decodable {
     var id = UUID()
     var url: String
-    var height: Int
-    var width: Int
+    var height: CGFloat
+    var width: CGFloat
     
-    static let noImage = ImageModel(id: UUID(), url: "noImage", height: 100, width: 100)
+    static let noImage = ImageModel(id: UUID(), url: "noImage", height: 100.0, width: 100.0)
 }

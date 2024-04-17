@@ -34,6 +34,7 @@
 		04AA93D12BCFF52200618E3C /* VideoIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93CE2BCFF52200618E3C /* VideoIconView.swift */; };
 		04AA93D42BCFF5B500618E3C /* LaTeXSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 04AA93D32BCFF5B500618E3C /* LaTeXSwiftUI */; };
 		04AA93D72BCFF78600618E3C /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 04AA93D62BCFF78600618E3C /* test.mp4 */; };
+		04AA93DE2BD0072900618E3C /* ViewFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93DD2BD0072800618E3C /* ViewFactory.swift */; };
 		04B4D21B2BCED4A4007538DB /* ADHD_MathApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B4D21A2BCED4A4007538DB /* ADHD_MathApp.swift */; };
 		04B4D21F2BCED4A6007538DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B4D21E2BCED4A6007538DB /* Assets.xcassets */; };
 		04B4D2222BCED4A6007538DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B4D2212BCED4A6007538DB /* Preview Assets.xcassets */; };
@@ -66,6 +67,7 @@
 		04AA93CD2BCFF52200618E3C /* LearnView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LearnView.swift; sourceTree = "<group>"; };
 		04AA93CE2BCFF52200618E3C /* VideoIconView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoIconView.swift; sourceTree = "<group>"; };
 		04AA93D62BCFF78600618E3C /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
+		04AA93DD2BD0072800618E3C /* ViewFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewFactory.swift; sourceTree = "<group>"; };
 		04B4D2172BCED4A4007538DB /* ADHD Math.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ADHD Math.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B4D21A2BCED4A4007538DB /* ADHD_MathApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADHD_MathApp.swift; sourceTree = "<group>"; };
 		04B4D21E2BCED4A6007538DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 		04AA93A32BCFEB4900618E3C /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				04AA93DD2BD0072800618E3C /* ViewFactory.swift */,
 				04AA93CB2BCFF52200618E3C /* LearnView */,
 				04AA93BA2BCFF51900618E3C /* QuestionView */,
 				04AA93A42BCFEB4900618E3C /* TaskView */,
@@ -303,6 +306,7 @@
 				04AA93AC2BCFEB4900618E3C /* Extensions.swift in Sources */,
 				04AA93C62BCFF51900618E3C /* PracticeView.swift in Sources */,
 				04AA93B52BCFEB4900618E3C /* TaskRowView.swift in Sources */,
+				04AA93DE2BD0072900618E3C /* ViewFactory.swift in Sources */,
 				04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */,
 				04AA93B22BCFEB4900618E3C /* VideoViewModel.swift in Sources */,
 				04AA93C92BCFF51900618E3C /* QuestionBoxView.swift in Sources */,

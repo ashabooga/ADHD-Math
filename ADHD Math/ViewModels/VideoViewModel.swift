@@ -54,6 +54,10 @@ class VideoViewModel: ObservableObject {
     }
     
     func getVideoFromFileTitle(fileTitle: String) -> VideoModel {
-        return videos.filter{ $0.fileTitle == fileTitle }.first ?? VideoModel.noVideo
+        let video: VideoModel = videos.filter{ $0.fileTitle == fileTitle }.first ?? VideoModel.noVideo
+        
+        print(video.displayTitle)
+        
+        return video
     }
 }

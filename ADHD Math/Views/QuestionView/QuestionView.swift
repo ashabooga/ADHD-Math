@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import LaTeXSwiftUI
 
 struct QuestionView: View {
     
@@ -15,39 +16,23 @@ struct QuestionView: View {
                 
         ScrollView {
             
-//            HStack {
-//                Text(question.question)
-//                    .questionTitleText(isBold: false)
-//                    .padding(20)
-//                 
-//                Spacer()
-//            }
-//            
-//            Spacer()
-//            
-//            Image("image")
-//                .resizable()
-//                .frame(width: 350, height: 300)
-//            
-//            HStack {
-//                Text(question.questions[1])
-//                    .questionTitleText(isBold: true)
-//                    .padding(20)
-//                 
-//                Spacer()
-//            }
+            VStack {
+
+                viewForString(string: question.question.content, question: question)
+                
+                Spacer()
+            }
             
             Spacer()
             
             QuestionBoxView(question: question)
-                .contentShape(Rectangle()).gesture(DragGesture())
         }
         .padding(.top, 20)
     }
 }
 
-//#Preview {
-//    
-//    QuestionView(question: QuestionModel(questions: ["Check this hotdog out:", "Didja know that my name is ben?"], answers: ["That's cool man"], hints: ["It's true, my name is ben"], hasBeenAsked: false, questionType: QuestionType.multipleChoice, options: ["That's cool man", "Who gives a grap", "Are you sure that's true?"]))
-//        .background(Color.background3.ignoresSafeArea())
-//}
+#Preview {
+    
+    QuestionView(question: QuestionModel(id: 0, question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]above is a lovely picture of $\\color{blue}FLOWERS\\color{black}$!!!", images: [ImageModel(url: "test2", height: 250, width: 300)]), options: ["option 1", "option 2", "option 3", "option 4"], correctAnswers: ["option 2"], hints: [HintModel(content: "Hint 1")], questionType: .multipleChoice, videos: ["test"]))
+        .background(Color.background3.ignoresSafeArea())
+}

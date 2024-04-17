@@ -14,8 +14,6 @@ struct VideoIconView: View {
     
     var body: some View {
         
-        let url = Bundle.main.url(forResource: video.fileTitle, withExtension: "mp4")!
-        
         GeometryReader { geometry in
             ZStack {
                 Image(video.fileTitle)
