@@ -19,13 +19,14 @@ struct TaskRowView: View {
             
             HStack {
                 Text(lesson.displayTitle)
+                    .font(.system(size: 25))
+//                    .font(.title)
                     .bold()
                     .foregroundStyle(Color.black)
                 Spacer()
                 TaskCompletionIconView(isCompleted: lesson.isCompleted)
             }
             .padding(.horizontal, 40)
-            .font(.title)
             
         }
     }

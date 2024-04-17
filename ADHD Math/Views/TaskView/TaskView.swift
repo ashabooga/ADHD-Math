@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct TaskView: View {
-    @EnvironmentObject var lessonViewModel: LessonViewModel
+    @ObservedObject var lessonViewModel = LessonViewModel()
     
     var body: some View {
         
@@ -34,7 +34,19 @@ struct TaskView: View {
                             .transition(AnyTransition.opacity.animation(.easeIn))
                     } else {
                         ForEach(lessonViewModel.lessons) { item in
-                            TaskRowView(lesson: item)
+                            
+                            NavigationLink {
+
+                                if item.type == LessonType.video {
+                                    LearnView(lesson: item)
+                                } else if item.type == LessonType.quiz {
+//                                    PracticeView(lesson: item)
+                                    Text("working on it")
+                                }
+                            } label: {
+                                TaskRowView(lesson: item)
+                                    .padding(.horizontal, 20)
+                            }
                         }
                     }
                     

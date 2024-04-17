@@ -4,11 +4,7 @@ import Foundation
 
 class VideoViewModel: ObservableObject {
     
-    @Published var videos = [VideoModel]() {
-        didSet {
-            saveVideos()
-        }
-    }
+    @Published var videos = [VideoModel]()
     
     var fileName = "videos"
     var videoKey = "videos"

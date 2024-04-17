@@ -7,16 +7,67 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04AA93AC2BCFEB4900618E3C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93992BCFEB4900618E3C /* Extensions.swift */; };
+		04AA93AD2BCFEB4900618E3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */; };
+		04AA93AE2BCFEB4900618E3C /* QuestionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939C2BCFEB4900618E3C /* QuestionModel.swift */; };
+		04AA93AF2BCFEB4900618E3C /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939D2BCFEB4900618E3C /* VideoModel.swift */; };
+		04AA93B02BCFEB4900618E3C /* LessonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939E2BCFEB4900618E3C /* LessonModel.swift */; };
+		04AA93B12BCFEB4900618E3C /* LessonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A02BCFEB4900618E3C /* LessonViewModel.swift */; };
+		04AA93B22BCFEB4900618E3C /* VideoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A12BCFEB4900618E3C /* VideoViewModel.swift */; };
+		04AA93B32BCFEB4900618E3C /* ExerciseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A22BCFEB4900618E3C /* ExerciseViewModel.swift */; };
+		04AA93B42BCFEB4900618E3C /* TaskCompletionIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A52BCFEB4900618E3C /* TaskCompletionIconView.swift */; };
+		04AA93B52BCFEB4900618E3C /* TaskRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A62BCFEB4900618E3C /* TaskRowView.swift */; };
+		04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A72BCFEB4900618E3C /* TaskView.swift */; };
+		04AA93B72BCFEB4900618E3C /* NoLessonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A82BCFEB4900618E3C /* NoLessonsView.swift */; };
+		04AA93B82BCFEB4900618E3C /* lessons.json in Resources */ = {isa = PBXBuildFile; fileRef = 04AA93AA2BCFEB4900618E3C /* lessons.json */; };
+		04AA93B92BCFEB4900618E3C /* videos.json in Resources */ = {isa = PBXBuildFile; fileRef = 04AA93AB2BCFEB4900618E3C /* videos.json */; };
+		04AA93C32BCFF51900618E3C /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93BB2BCFF51900618E3C /* QuestionView.swift */; };
+		04AA93C42BCFF51900618E3C /* QuestionChoiceBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93BC2BCFF51900618E3C /* QuestionChoiceBox.swift */; };
+		04AA93C52BCFF51900618E3C /* QuestionChoiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93BD2BCFF51900618E3C /* QuestionChoiceView.swift */; };
+		04AA93C62BCFF51900618E3C /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93BE2BCFF51900618E3C /* PracticeView.swift */; };
+		04AA93C72BCFF51900618E3C /* HelpButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93BF2BCFF51900618E3C /* HelpButtonView.swift */; };
+		04AA93C82BCFF51900618E3C /* HintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93C02BCFF51900618E3C /* HintView.swift */; };
+		04AA93C92BCFF51900618E3C /* QuestionBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93C12BCFF51900618E3C /* QuestionBoxView.swift */; };
+		04AA93CA2BCFF51900618E3C /* BreakView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93C22BCFF51900618E3C /* BreakView.swift */; };
+		04AA93CF2BCFF52200618E3C /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93CC2BCFF52200618E3C /* VideoPlayerView.swift */; };
+		04AA93D02BCFF52200618E3C /* LearnView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93CD2BCFF52200618E3C /* LearnView.swift */; };
+		04AA93D12BCFF52200618E3C /* VideoIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93CE2BCFF52200618E3C /* VideoIconView.swift */; };
+		04AA93D42BCFF5B500618E3C /* LaTeXSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 04AA93D32BCFF5B500618E3C /* LaTeXSwiftUI */; };
+		04AA93D72BCFF78600618E3C /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 04AA93D62BCFF78600618E3C /* test.mp4 */; };
 		04B4D21B2BCED4A4007538DB /* ADHD_MathApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B4D21A2BCED4A4007538DB /* ADHD_MathApp.swift */; };
-		04B4D21D2BCED4A4007538DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B4D21C2BCED4A4007538DB /* ContentView.swift */; };
 		04B4D21F2BCED4A6007538DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B4D21E2BCED4A6007538DB /* Assets.xcassets */; };
 		04B4D2222BCED4A6007538DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B4D2212BCED4A6007538DB /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04AA93992BCFEB4900618E3C /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04AA939C2BCFEB4900618E3C /* QuestionModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionModel.swift; sourceTree = "<group>"; };
+		04AA939D2BCFEB4900618E3C /* VideoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
+		04AA939E2BCFEB4900618E3C /* LessonModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LessonModel.swift; sourceTree = "<group>"; };
+		04AA93A02BCFEB4900618E3C /* LessonViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LessonViewModel.swift; sourceTree = "<group>"; };
+		04AA93A12BCFEB4900618E3C /* VideoViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoViewModel.swift; sourceTree = "<group>"; };
+		04AA93A22BCFEB4900618E3C /* ExerciseViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExerciseViewModel.swift; sourceTree = "<group>"; };
+		04AA93A52BCFEB4900618E3C /* TaskCompletionIconView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskCompletionIconView.swift; sourceTree = "<group>"; };
+		04AA93A62BCFEB4900618E3C /* TaskRowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskRowView.swift; sourceTree = "<group>"; };
+		04AA93A72BCFEB4900618E3C /* TaskView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskView.swift; sourceTree = "<group>"; };
+		04AA93A82BCFEB4900618E3C /* NoLessonsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoLessonsView.swift; sourceTree = "<group>"; };
+		04AA93AA2BCFEB4900618E3C /* lessons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lessons.json; sourceTree = "<group>"; };
+		04AA93AB2BCFEB4900618E3C /* videos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = videos.json; sourceTree = "<group>"; };
+		04AA93BB2BCFF51900618E3C /* QuestionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		04AA93BC2BCFF51900618E3C /* QuestionChoiceBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionChoiceBox.swift; sourceTree = "<group>"; };
+		04AA93BD2BCFF51900618E3C /* QuestionChoiceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionChoiceView.swift; sourceTree = "<group>"; };
+		04AA93BE2BCFF51900618E3C /* PracticeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
+		04AA93BF2BCFF51900618E3C /* HelpButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HelpButtonView.swift; sourceTree = "<group>"; };
+		04AA93C02BCFF51900618E3C /* HintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HintView.swift; sourceTree = "<group>"; };
+		04AA93C12BCFF51900618E3C /* QuestionBoxView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionBoxView.swift; sourceTree = "<group>"; };
+		04AA93C22BCFF51900618E3C /* BreakView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BreakView.swift; sourceTree = "<group>"; };
+		04AA93CC2BCFF52200618E3C /* VideoPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
+		04AA93CD2BCFF52200618E3C /* LearnView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LearnView.swift; sourceTree = "<group>"; };
+		04AA93CE2BCFF52200618E3C /* VideoIconView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoIconView.swift; sourceTree = "<group>"; };
+		04AA93D62BCFF78600618E3C /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
 		04B4D2172BCED4A4007538DB /* ADHD Math.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ADHD Math.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B4D21A2BCED4A4007538DB /* ADHD_MathApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADHD_MathApp.swift; sourceTree = "<group>"; };
-		04B4D21C2BCED4A4007538DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04B4D21E2BCED4A6007538DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04B4D2212BCED4A6007538DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -26,12 +77,105 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04AA93D42BCFF5B500618E3C /* LaTeXSwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04AA93982BCFEB4900618E3C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				04AA93992BCFEB4900618E3C /* Extensions.swift */,
+				04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		04AA939B2BCFEB4900618E3C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				04AA939C2BCFEB4900618E3C /* QuestionModel.swift */,
+				04AA939D2BCFEB4900618E3C /* VideoModel.swift */,
+				04AA939E2BCFEB4900618E3C /* LessonModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		04AA939F2BCFEB4900618E3C /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				04AA93A02BCFEB4900618E3C /* LessonViewModel.swift */,
+				04AA93A12BCFEB4900618E3C /* VideoViewModel.swift */,
+				04AA93A22BCFEB4900618E3C /* ExerciseViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		04AA93A32BCFEB4900618E3C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				04AA93CB2BCFF52200618E3C /* LearnView */,
+				04AA93BA2BCFF51900618E3C /* QuestionView */,
+				04AA93A42BCFEB4900618E3C /* TaskView */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		04AA93A42BCFEB4900618E3C /* TaskView */ = {
+			isa = PBXGroup;
+			children = (
+				04AA93A52BCFEB4900618E3C /* TaskCompletionIconView.swift */,
+				04AA93A62BCFEB4900618E3C /* TaskRowView.swift */,
+				04AA93A72BCFEB4900618E3C /* TaskView.swift */,
+				04AA93A82BCFEB4900618E3C /* NoLessonsView.swift */,
+			);
+			path = TaskView;
+			sourceTree = "<group>";
+		};
+		04AA93A92BCFEB4900618E3C /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				04AA93AA2BCFEB4900618E3C /* lessons.json */,
+				04AA93AB2BCFEB4900618E3C /* videos.json */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+		04AA93BA2BCFF51900618E3C /* QuestionView */ = {
+			isa = PBXGroup;
+			children = (
+				04AA93BB2BCFF51900618E3C /* QuestionView.swift */,
+				04AA93BC2BCFF51900618E3C /* QuestionChoiceBox.swift */,
+				04AA93BD2BCFF51900618E3C /* QuestionChoiceView.swift */,
+				04AA93BE2BCFF51900618E3C /* PracticeView.swift */,
+				04AA93BF2BCFF51900618E3C /* HelpButtonView.swift */,
+				04AA93C02BCFF51900618E3C /* HintView.swift */,
+				04AA93C12BCFF51900618E3C /* QuestionBoxView.swift */,
+				04AA93C22BCFF51900618E3C /* BreakView.swift */,
+			);
+			path = QuestionView;
+			sourceTree = "<group>";
+		};
+		04AA93CB2BCFF52200618E3C /* LearnView */ = {
+			isa = PBXGroup;
+			children = (
+				04AA93CC2BCFF52200618E3C /* VideoPlayerView.swift */,
+				04AA93CD2BCFF52200618E3C /* LearnView.swift */,
+				04AA93CE2BCFF52200618E3C /* VideoIconView.swift */,
+			);
+			path = LearnView;
+			sourceTree = "<group>";
+		};
+		04AA93D52BCFF78600618E3C /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				04AA93D62BCFF78600618E3C /* test.mp4 */,
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
 		04B4D20E2BCED4A4007538DB = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +195,13 @@
 		04B4D2192BCED4A4007538DB /* ADHD Math */ = {
 			isa = PBXGroup;
 			children = (
+				04AA93D52BCFF78600618E3C /* Videos */,
+				04AA93A92BCFEB4900618E3C /* JSON */,
+				04AA939B2BCFEB4900618E3C /* Models */,
+				04AA93982BCFEB4900618E3C /* Preview Content */,
+				04AA939F2BCFEB4900618E3C /* ViewModels */,
+				04AA93A32BCFEB4900618E3C /* Views */,
 				04B4D21A2BCED4A4007538DB /* ADHD_MathApp.swift */,
-				04B4D21C2BCED4A4007538DB /* ContentView.swift */,
 				04B4D21E2BCED4A6007538DB /* Assets.xcassets */,
 				04B4D2202BCED4A6007538DB /* Preview Content */,
 			);
@@ -83,6 +232,9 @@
 			dependencies = (
 			);
 			name = "ADHD Math";
+			packageProductDependencies = (
+				04AA93D32BCFF5B500618E3C /* LaTeXSwiftUI */,
+			);
 			productName = "ADHD Math";
 			productReference = 04B4D2172BCED4A4007538DB /* ADHD Math.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +263,9 @@
 				Base,
 			);
 			mainGroup = 04B4D20E2BCED4A4007538DB;
+			packageReferences = (
+				04AA93D22BCFF5B500618E3C /* XCRemoteSwiftPackageReference "LaTeXSwiftUI" */,
+			);
 			productRefGroup = 04B4D2182BCED4A4007538DB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -126,7 +281,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				04B4D2222BCED4A6007538DB /* Preview Assets.xcassets in Resources */,
+				04AA93D72BCFF78600618E3C /* test.mp4 in Resources */,
+				04AA93AD2BCFEB4900618E3C /* Preview Assets.xcassets in Resources */,
+				04AA93B92BCFEB4900618E3C /* videos.json in Resources */,
 				04B4D21F2BCED4A6007538DB /* Assets.xcassets in Resources */,
+				04AA93B82BCFEB4900618E3C /* lessons.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +296,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04B4D21D2BCED4A4007538DB /* ContentView.swift in Sources */,
+				04AA93C82BCFF51900618E3C /* HintView.swift in Sources */,
+				04AA93D12BCFF52200618E3C /* VideoIconView.swift in Sources */,
+				04AA93C52BCFF51900618E3C /* QuestionChoiceView.swift in Sources */,
+				04AA93CF2BCFF52200618E3C /* VideoPlayerView.swift in Sources */,
+				04AA93AC2BCFEB4900618E3C /* Extensions.swift in Sources */,
+				04AA93C62BCFF51900618E3C /* PracticeView.swift in Sources */,
+				04AA93B52BCFEB4900618E3C /* TaskRowView.swift in Sources */,
+				04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */,
+				04AA93B22BCFEB4900618E3C /* VideoViewModel.swift in Sources */,
+				04AA93C92BCFF51900618E3C /* QuestionBoxView.swift in Sources */,
+				04AA93CA2BCFF51900618E3C /* BreakView.swift in Sources */,
+				04AA93D02BCFF52200618E3C /* LearnView.swift in Sources */,
+				04AA93B32BCFEB4900618E3C /* ExerciseViewModel.swift in Sources */,
 				04B4D21B2BCED4A4007538DB /* ADHD_MathApp.swift in Sources */,
+				04AA93AF2BCFEB4900618E3C /* VideoModel.swift in Sources */,
+				04AA93B42BCFEB4900618E3C /* TaskCompletionIconView.swift in Sources */,
+				04AA93B12BCFEB4900618E3C /* LessonViewModel.swift in Sources */,
+				04AA93C32BCFF51900618E3C /* QuestionView.swift in Sources */,
+				04AA93B72BCFEB4900618E3C /* NoLessonsView.swift in Sources */,
+				04AA93AE2BCFEB4900618E3C /* QuestionModel.swift in Sources */,
+				04AA93C72BCFF51900618E3C /* HelpButtonView.swift in Sources */,
+				04AA93C42BCFF51900618E3C /* QuestionChoiceBox.swift in Sources */,
+				04AA93B02BCFEB4900618E3C /* LessonModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +522,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		04AA93D22BCFF5B500618E3C /* XCRemoteSwiftPackageReference "LaTeXSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/colinc86/LaTeXSwiftUI";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		04AA93D32BCFF5B500618E3C /* LaTeXSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 04AA93D22BCFF5B500618E3C /* XCRemoteSwiftPackageReference "LaTeXSwiftUI" */;
+			productName = LaTeXSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 04B4D20F2BCED4A4007538DB /* Project object */;
 }
