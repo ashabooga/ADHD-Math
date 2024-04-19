@@ -14,25 +14,27 @@ struct LearnView: View {
     let lesson: LessonModel
     
     var body: some View {
-        let url = Bundle.main.url(forResource: lesson.fileTitle, withExtension: "mp4")!
-        
         NavigationStack {
             ZStack {
                 Color(.background2)
                     .ignoresSafeArea()
                 
                 VStack {
-                    NavigationLink {
-                        VideoPlayerView(videoURL: url)
-                            .onAppear(perform: {
-                                lessonViewModel.completeLesson(lesson: lesson)
-                            })
-                    } label: {
-                        VideoIconView(fileTitle: lesson.fileTitle)
+                    if let url = Bundle.main.url(forResource: lesson.fileTitle, withExtension: "mp4") {
+                        NavigationLink {
+                            VideoPlayerView(videoURL: url)
+                                .onAppear(perform: {
+                                    lessonViewModel.completeLesson(lesson: lesson)
+                                })
+                        } label: {
+                            VideoIconView(fileTitle: lesson.fileTitle)
+                        }
+                        .frame(height: 250)
+                        
+                        Spacer()
+                    } else {
+                        Text("Video Not Found")
                     }
-                    .frame(height: 250)
-                    
-                    Spacer()
                 }
                 
             }
@@ -43,4 +45,5 @@ struct LearnView: View {
 
 #Preview {
     LearnView(lesson: LessonModel(id: 0, displayTitle: "Example Video", fileTitle: "test", type: .video, isCompleted: false))
+        .environmentObject(LessonViewModel())
 }

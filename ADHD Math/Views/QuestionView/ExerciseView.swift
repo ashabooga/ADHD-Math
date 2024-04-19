@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct PracticeView: View {
+struct ExerciseView: View {
     
     @State private var selectedTab: Int = 0
     @State private var showingBreakSheet = false
@@ -25,7 +25,7 @@ struct PracticeView: View {
     
     var body: some View {
         
-        let questions = exerciseViewModel.fetchQuestions(num: 3)
+        let questions = exerciseViewModel.fetchQuestions(num: lesson.type == LessonType.quiz ? 3 : 7)
         
         NavigationStack {
             ZStack {
@@ -36,7 +36,7 @@ struct PracticeView: View {
                 TabView(selection: $selectedTab) {
                     
                     ForEach(Array(questions.enumerated()), id: \.element.id) { (index, question) in
-                        QuestionView(question: question)
+                        QuestionView(question: question, isTest: lesson.type == LessonType.test)
                             .contentShape(Rectangle()).gesture(DragGesture())
                             .tag(index)
                     }
@@ -57,5 +57,5 @@ struct PracticeView: View {
 
 
 #Preview {
-    PracticeView(lesson: LessonModel(id: 0, displayTitle: "Practice", fileTitle: "example_lesson", type: .quiz, isCompleted: false))
+    ExerciseView(lesson: LessonModel(id: 0, displayTitle: "Practice", fileTitle: "example_lesson", type: .quiz, isCompleted: false))
 }

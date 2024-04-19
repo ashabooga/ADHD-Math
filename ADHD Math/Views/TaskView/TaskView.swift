@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct TaskView: View {
-    @StateObject var lessonViewModel = LessonViewModel()
+    @EnvironmentObject var lessonViewModel: LessonViewModel
     
     var body: some View {
         
@@ -28,8 +28,9 @@ struct TaskView: View {
                                 
                                 if item.type == LessonType.video {
                                     LearnView(lesson: item)
-                                } else if item.type == LessonType.quiz {
-                                    Text("working on it")
+                                        .environmentObject(self.lessonViewModel)
+                                } else {
+                                    ExerciseView(lesson: item)
                                 }
                             } label: {
                                 TaskRowView(lesson: item)
@@ -39,10 +40,9 @@ struct TaskView: View {
                     }.padding(.top, 10)
                 }
             }
-            .environmentObject(lessonViewModel)
             .navigationTitle("Lessons")
             .overlay (
-                Text("1 of 10")
+                Text("\(lessonViewModel.lessons.filter( { $0.isCompleted } ).count) of \(lessonViewModel.lessons.count)")
                     .titleText(color: Color.white)
                     .padding(.trailing, 20)
                     .offset(x: 0, y: -45)
@@ -54,5 +54,6 @@ struct TaskView: View {
 #Preview {
     NavigationStack{
         TaskView()
+            .environmentObject(LessonViewModel())
     }
 }

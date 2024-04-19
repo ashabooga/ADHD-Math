@@ -9,10 +9,15 @@ import SwiftUI
 
 struct QuestionChoiceBox: View {
     
-    @State var isSelected: Bool
+    let option: String
+    @Binding var selectedAnswers: [String]
     let questionType: QuestionType
     
     var body: some View {
+        
+        var isSelected: Bool {
+            selectedAnswers.contains(option)
+        }
         
         ZStack {
             
@@ -21,10 +26,14 @@ struct QuestionChoiceBox: View {
                 .frame(width: 40, height: 40)
             
             Button {
-                if questionType == QuestionType.singleChoice {
-                    isSelected = true
-                } else if questionType == QuestionType.multipleChoice {
-                    isSelected = !isSelected
+                if questionType == .singleChoice {
+                    selectedAnswers = [option]
+                } else if questionType == .multipleChoice {
+                    if isSelected {
+                        selectedAnswers = selectedAnswers.filter { $0 != option }
+                    } else {
+                        selectedAnswers.append(option)
+                    }
                 }
             } label: {
                 if isSelected {
@@ -42,5 +51,7 @@ struct QuestionChoiceBox: View {
 }
 
 #Preview {
-    QuestionChoiceBox(isSelected: false, questionType: QuestionType.multipleChoice)
+    @State var selectedAnswers: [String] = ["Test"]
+    
+    return QuestionChoiceBox(option: "test", selectedAnswers: $selectedAnswers, questionType: QuestionType.multipleChoice)
 }

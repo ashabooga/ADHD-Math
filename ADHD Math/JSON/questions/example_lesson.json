@@ -1,183 +1,92 @@
 
 [
-  {
-    "id": 0,
-    "hints": [
-      {
-        "content": "There are $\\color{green}12\\color{black}$ cans in $\\color{blue}3$ equal rows.\n\nHow can we find out how many cans are in each row?"
-      },
-      {
-        "content": "We can find how many cans are in each row by dividing:\n\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$\n\nSo, $\\color{green}12}\\div\\color{blue}3}$"
-      },
-      {
-        "content": "The following expression will tell us how many soups cans are in each row:\n\n- $\\color{green}12\\color{black}\\div\\color{blue}3$"
-      }
-    ],
-    "question": {
-      "content": "There are $12$ soup cans placed in $3$ equal rows.\n\n \n\n**Which expression will tell us how many soup cans are in each row?**\n\n"
+    {
+        "id": 0,
+        "hints": [
+            {
+                "content": "There are $\\color{green}12\\color{black}$ cans in $\\color{blue}3$ equal rows.\n\nHow can we find out how many cans are in each row?"
+            },
+            {
+                "content": "We can find how many cans are in each row by dividing:\n\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$\n\nSo, $\\color{green}12}\\div\\color{blue}3}$"
+            },
+            {
+                "content": "The following expression will tell us how many soups cans are in each row:\n\n- $\\color{green}12\\color{black}\\div\\color{blue}3$"
+            }
+        ],
+        "question": {
+            "content": "There are $12$ soup cans placed in $3$ equal rows.\n\n \n\n**Which expression will tell us how many soup cans are in each row?**\n\n"
+        },
+        "options": [
+            "$12 \\div 3$",
+            "$3 \\div 12$",
+            "$12 \\div 2$"
+        ],
+        "questionType": "single_choice",
+        "correctAnswers": [
+            "$12 \\div 3$"
+        ],
+        "videos": ["test"]
     },
-    "options": [
-      "$12 \\div 3$",
-      "$3 \\div 12$",
-      "$12 \\div 2$"
-    ],
-    "questionType": "choice",
-    "correctAnswers": [
-      "$12 \\div 3$"
-    ],
-    "videos": ["test"]
-  },
-  {
-    "id": 1,
-    "hints": [
-      {
-        "content": "We can relate division to arrays:\n\n$$\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$$$"
-      },
-      {
-        "content": "$\\color{green}36\\color{black} \\div \\color{purple}9$ equals $\\color{green}36\\color{black}$ total dots split into rows of $\\color{purple}9$."
-      },
-      {
-        "content": "This array has $\\color{green}36\\color{black}$ total dots split into rows of $\\color{purple}9$."
-      },
-      {
-        "content": "This image represents $36 \\div 9$:"
-      }
-    ],
-    "question": {
-      "content": "**Which image could represent $36 \\div 9?$**  \n\n"
+    {
+        "id": 1,
+        "hints": [
+            {
+                "content": "We can relate division to arrays:\n\n$$\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$$$"
+            },
+            {
+                "content": "$\\color{green}36\\color{black} \\div \\color{purple}9$ equals $\\color{green}36\\color{black}$ total dots split into rows of $\\color{purple}9$."
+            },
+            {
+                "content": "This array has $\\color{green}36\\color{black}$ total dots split into rows of $\\color{purple}9$."
+            },
+            {
+                "content": "This image represents $36 \\div 9$:"
+            }
+        ],
+        "question": {
+            "content": "**Which image could represent $36 \\div 9?$**  \n\n"
+        },
+        "options": [
+            "[An array of green dots arranged in 4 rows of 9 dots each. ]",
+            "[An array of orange dots arranged in 5 rows of 9 dots each.]",
+            "[An array of blue dots arranged in 9 rows of 3 dots each.]"
+        ],
+        "questionType": "single_choice",
+        "correctAnswers": [
+            "[An array of green dots arranged in 4 rows of 9 dots each. ]"
+        ],
+        "videos": ["test"]
     },
-    "options": [
-      "[An array of green dots arranged in 4 rows of 9 dots each. ]",
-      "[An array of orange dots arranged in 5 rows of 9 dots each.]",
-      "[An array of blue dots arranged in 9 rows of 3 dots each.]"
-    ],
-    "questionType": "choice",
-    "correctAnswers": [
-      "[An array of green dots arranged in 4 rows of 9 dots each. ]"
-    ],
-    "videos": ["test"]
-  },
-  {
-    "id": 2,
-    "hints": [
-      {
-        "content": "We can relate division to arrays:\n\n$$\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n$$"
-      },
-      {
-        "content": "There are $\\color{blue}2$ rows with $\\color{purple}9$ dots in each row.\nThere are $\\color{green}18\\color{black}$ total dots."
-      },
-      {
-        "content": "$$\n$\\color{green}18\\color{black}\\text{ total dots}&\\div ~\\color{purple}9\\text{ dots in each row}= \\color{blue}2\\text{ rows}$\n$\\color{green}18\\color{black}\\text{ total dots}&\\div \\color{blue}2\\text{ rows}  ~=\\color{purple}9\\text{ dots in each row}$\n$$"
-      },
-      {
-        "content": "The following expressions represent the array:\n\n- $\\color{green}18\\color{black}\\div\\color{purple}9$\n- $\\color{green}18\\color{black}\\div\\color{blue}2$"
-      }
-    ],
-    "question": {
-      "content": "**Which expressions could represent the array shown below?**"
-      }
-    },
-    "options": [
-      "$18\\div2$",
-      "$15\\div3$",
-      "$18\\div9$",
-      "$9\\div18$"
-    ],
-    "questionType": "choice",
-    "correctAnswers": [
-      "$18\\div2$",
-      "$18\\div9$"
-    ],
-    "videos": ["test"]
-  },
-  {
-    "id": 3,
-    "hints": [
-      {
-        "content": "We can relate division to arrays:\n\n$$\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n$$"
-      },
-      {
-        "content": "$\\color{green}20\\color{black} \\div \\color{purple}4$ equals $\\color{green}20\\color{black}$ total dots split into rows of $\\color{purple}4$.\n"
-      },
-      {
-        "content": "This array has $\\color{green}20\\color{black}$ total dots split into rows of $\\color{purple}4$."
-      },
-      {
-        "content": "This image represents $20 \\div 4$:"
-      }
-    ],
-    "question": {
-      "content": "**Which image could represent $20 \\div 4?$**  \n\n"
-    },
-    "options": [
-      "[An array of twenty green dots arranged in 5 rows of 4 dots each.]",
-      "[An array of sixteen blue dots arranged in 4 rows of 4 dots each.]",
-      "[An array of twenty five red dots arranged in 5 rows of 5 dots each.]"
-    ],
-    "questionType": "choice",
-    "correctAnswers": [
-      "[An array of twenty green dots arranged in 5 rows of 4 dots each.]"
-    ],
-    "videos": ["test"]
-  },
-  {
-    "id": 4,
-    "hints": [
-      {
-        "content": "There are $\\color{green}20\\color{black}$ boxes in $\\color{blue}4$ equal rows.\n\n[Same image with the rows numbered 1 through 4 and horizontal lines between the rows]\n\nHow can we find out how many boxes are in each row?"
-      },
-      {
-        "content": "We can find how many boxes are in each row by dividing:\n\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$\n\nSo, $\\color{green}20}\\div\\color{blue}4}$"
-      },
-      {
-        "content": "The following expression will tell us how many boxes are in each row:\n\n- $\\color{green}20\\color{black}\\div\\color{blue}4$"
-      }
-    ],
-    "question": {
-      "content": "There are $20$ total boxes split into $4$ equal rows. \n\n[20 boxes in 4 equal rows] \n\n**Which expression will tell us how many boxes are in each row?**\n\n"
-    },
-    "options": [
-      "$20 \\div 4$",
-      "$4\\div 20$",
-      "$20 \\div 3$"
-    ],
-    "questionType": "choice",
-    "correctAnswers": [
-      "$20 \\div 4$"
-    ],
-    "videos": ["test"]
-  },
-  {
-    "id": 5,
-    "hints": [
-      {
-        "content": "We can relate division to arrays:\n\n$$\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n$$"
-      },
-      {
-        "content": "There are $\\color{blue}5$ rows with $\\color{purple}6$ dots in each row.\nThere are $\\color{green}30\\color{black}$ total dots."
-      },
-      {
-        "content": "$$\n$\\color{green}30\\color{black}\\text{ total dots}&\\div ~\\color{purple}6\\text{ dots in each row}= \\color{blue}5\\text{ rows}$\n$\\color{green}30\\color{black}\\text{ total dots}&\\div \\color{blue}5\\text{ rows}  ~=\\color{purple}6\\text{ dots in each row}$\n$$"
-      },
-      {
-        "content": "The following expressions represent the array:\n\n- $\\color{green}30\\color{black}\\div\\color{purple}6$\n- $\\color{green}30\\color{black}\\div\\color{blue}5$"
-      }
-    ],
-    "question": {
-      "content": "**Which expressions could represent the array shown below?**\n"
-      }
-    },
-    "options": [
-      "$30\\div5$",
-      "$30\\div3$",
-      "$30\\div6$",
-      "$6\\div5$"
-    ],
-    "questionType": "choice",
-    "correctAnswers": [
-      "$30\\div5$",
-      "$30\\div6$"
-    ],
-    "videos": ["test"]
-  }
+    {
+        "id": 2,
+        "hints": [
+            {
+                "content": "We can relate division to arrays:\n\n$$\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n$$"
+            },
+            {
+                "content": "There are $\\color{blue}2$ rows with $\\color{purple}9$ dots in each row.\nThere are $\\color{green}18\\color{black}$ total dots."
+            },
+            {
+                "content": "$$\n$\\color{green}18\\color{black}\\text{ total dots}&\\div ~\\color{purple}9\\text{ dots in each row}= \\color{blue}2\\text{ rows}$\n$\\color{green}18\\color{black}\\text{ total dots}&\\div \\color{blue}2\\text{ rows}  ~=\\color{purple}9\\text{ dots in each row}$\n$$"
+            },
+            {
+                "content": "The following expressions represent the array:\n\n- $\\color{green}18\\color{black}\\div\\color{purple}9$\n- $\\color{green}18\\color{black}\\div\\color{blue}2$"
+            }
+        ],
+        "question": {
+            "content": "**Which expressions could represent the array shown below?**"
+        },
+        "options": [
+            "$18\\div2$",
+            "$15\\div3$",
+            "$18\\div9$",
+            "$9\\div18$"
+        ],
+        "questionType": "multiple_choice",
+        "correctAnswers": [
+            "$18\\div2$",
+            "$18\\div9$"
+        ],
+        "videos": ["test"]
+    }
 ]

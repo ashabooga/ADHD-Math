@@ -18,11 +18,11 @@ public enum AnswerError: Error {
 
 struct QuestionModel: Identifiable, Decodable {
     var id: Int
+    var hints: [HintModel]
     var question: QuestionContentModel
     var options: [String]
-    var correctAnswers: [String]
-    var hints: [HintModel]
     var questionType: QuestionType
+    var correctAnswers: [String]
     var videos: [String]
 }
 
