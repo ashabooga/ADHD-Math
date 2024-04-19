@@ -10,9 +10,10 @@ import SwiftUI
 struct HelpButtonView: View {
     
     @State var showingExpandedButton = false
-    
     @State private var showingBreakSheet = false
     @State private var showingHintSheet = false
+    
+    var question: QuestionModel
     
     var body: some View {
         HStack {
@@ -49,7 +50,7 @@ struct HelpButtonView: View {
                 }
                 .contentShape(Rectangle()).gesture(DragGesture())
                 .sheet(isPresented: $showingHintSheet, content: {
-                    HintView()
+                    HintView(fileTitle: question.videos.first ?? LessonModel.noVideo.fileTitle)
                         .presentationDetents([.fraction(0.7), .large])
                         .presentationDragIndicator(.visible)
                 })
@@ -90,5 +91,7 @@ struct HelpButtonView: View {
 }
 
 #Preview {
-    HelpButtonView()
+    let question: QuestionModel = QuestionModel(id: 0, question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "test", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], correctAnswers: ["option 2"], hints: [HintModel(content: "Hint 1")], questionType: .multipleChoice, videos: ["test"])
+    
+    return HelpButtonView(question: question)
 }

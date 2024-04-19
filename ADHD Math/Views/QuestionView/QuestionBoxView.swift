@@ -64,7 +64,7 @@ struct QuestionBoxView: View {
                 
                 Spacer()
                 
-                HelpButtonView()
+                HelpButtonView(question: question)
                     .contentShape(Rectangle()).gesture(DragGesture())
                 
             }

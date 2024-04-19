@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct TaskView: View {
-    @ObservedObject var lessonViewModel = LessonViewModel()
+    @StateObject var lessonViewModel = LessonViewModel()
     
     var body: some View {
         
@@ -17,30 +17,18 @@ struct TaskView: View {
                 Color(.background1)
                     .ignoresSafeArea()
                 
-                
-                ScrollView(.vertical, showsIndicators: true) {
-                    //                    ForEach(0..<10) {_ in
-                    //
-                    //                        NavigationLink {
-                    //                            LearnView(task: task1)
-                    //                        } label: {
-                    //                            TaskRowView(task: task1)
-                    //                                .padding(.horizontal, 20)
-                    //                        }
-                    //                    }
-                    
-                    if lessonViewModel.lessons.isEmpty {
-                        NoLessonsView()
-                            .transition(AnyTransition.opacity.animation(.easeIn))
-                    } else {
+                if lessonViewModel.lessons.isEmpty {
+                    NoLessonsView()
+                } else {
+                    ScrollView(.vertical, showsIndicators: true) {
+     
                         ForEach(lessonViewModel.lessons) { item in
                             
                             NavigationLink {
-
+                                
                                 if item.type == LessonType.video {
                                     LearnView(lesson: item)
                                 } else if item.type == LessonType.quiz {
-//                                    PracticeView(lesson: item)
                                     Text("working on it")
                                 }
                             } label: {
@@ -48,12 +36,10 @@ struct TaskView: View {
                                     .padding(.horizontal, 20)
                             }
                         }
-                    }
-                    
-                    
+                    }.padding(.top, 10)
                 }
-                .padding(.top, 10)
             }
+            .environmentObject(lessonViewModel)
             .navigationTitle("Lessons")
             .overlay (
                 Text("1 of 10")

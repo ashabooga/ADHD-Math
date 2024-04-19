@@ -14,6 +14,24 @@ struct VideoPlayerView: View {
     let videoURL: URL
     
     var body: some View {
+        
+        VideoPlayer(player: player)
+            .edgesIgnoringSafeArea(.all)
+            .onAppear {
+                player = AVPlayer(url: videoURL)
+                player.play()
+            }
+        
+
+    }
+}
+
+struct HintVideoPlayerView: View {
+    
+    @State private var player = AVPlayer()
+    let videoURL: URL
+    
+    var body: some View {
         VideoPlayer(player: player)
             .edgesIgnoringSafeArea(.all)
             .onAppear {

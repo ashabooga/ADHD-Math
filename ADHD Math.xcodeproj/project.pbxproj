@@ -7,20 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		043EB3E72BD2919E00D4144F /* example_lesson.json in Resources */ = {isa = PBXBuildFile; fileRef = 043EB3E62BD2919E00D4144F /* example_lesson.json */; };
 		04AA93AC2BCFEB4900618E3C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93992BCFEB4900618E3C /* Extensions.swift */; };
 		04AA93AD2BCFEB4900618E3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */; };
 		04AA93AE2BCFEB4900618E3C /* QuestionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939C2BCFEB4900618E3C /* QuestionModel.swift */; };
-		04AA93AF2BCFEB4900618E3C /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939D2BCFEB4900618E3C /* VideoModel.swift */; };
 		04AA93B02BCFEB4900618E3C /* LessonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939E2BCFEB4900618E3C /* LessonModel.swift */; };
 		04AA93B12BCFEB4900618E3C /* LessonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A02BCFEB4900618E3C /* LessonViewModel.swift */; };
-		04AA93B22BCFEB4900618E3C /* VideoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A12BCFEB4900618E3C /* VideoViewModel.swift */; };
 		04AA93B32BCFEB4900618E3C /* ExerciseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A22BCFEB4900618E3C /* ExerciseViewModel.swift */; };
 		04AA93B42BCFEB4900618E3C /* TaskCompletionIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A52BCFEB4900618E3C /* TaskCompletionIconView.swift */; };
 		04AA93B52BCFEB4900618E3C /* TaskRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A62BCFEB4900618E3C /* TaskRowView.swift */; };
 		04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A72BCFEB4900618E3C /* TaskView.swift */; };
 		04AA93B72BCFEB4900618E3C /* NoLessonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A82BCFEB4900618E3C /* NoLessonsView.swift */; };
 		04AA93B82BCFEB4900618E3C /* lessons.json in Resources */ = {isa = PBXBuildFile; fileRef = 04AA93AA2BCFEB4900618E3C /* lessons.json */; };
-		04AA93B92BCFEB4900618E3C /* videos.json in Resources */ = {isa = PBXBuildFile; fileRef = 04AA93AB2BCFEB4900618E3C /* videos.json */; };
 		04AA93C32BCFF51900618E3C /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93BB2BCFF51900618E3C /* QuestionView.swift */; };
 		04AA93C42BCFF51900618E3C /* QuestionChoiceBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93BC2BCFF51900618E3C /* QuestionChoiceBox.swift */; };
 		04AA93C52BCFF51900618E3C /* QuestionChoiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93BD2BCFF51900618E3C /* QuestionChoiceView.swift */; };
@@ -41,20 +39,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		043EB3E62BD2919E00D4144F /* example_lesson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = example_lesson.json; sourceTree = "<group>"; };
 		04AA93992BCFEB4900618E3C /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		04AA939C2BCFEB4900618E3C /* QuestionModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionModel.swift; sourceTree = "<group>"; };
-		04AA939D2BCFEB4900618E3C /* VideoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
 		04AA939E2BCFEB4900618E3C /* LessonModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LessonModel.swift; sourceTree = "<group>"; };
 		04AA93A02BCFEB4900618E3C /* LessonViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LessonViewModel.swift; sourceTree = "<group>"; };
-		04AA93A12BCFEB4900618E3C /* VideoViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoViewModel.swift; sourceTree = "<group>"; };
 		04AA93A22BCFEB4900618E3C /* ExerciseViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExerciseViewModel.swift; sourceTree = "<group>"; };
 		04AA93A52BCFEB4900618E3C /* TaskCompletionIconView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskCompletionIconView.swift; sourceTree = "<group>"; };
 		04AA93A62BCFEB4900618E3C /* TaskRowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskRowView.swift; sourceTree = "<group>"; };
 		04AA93A72BCFEB4900618E3C /* TaskView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskView.swift; sourceTree = "<group>"; };
 		04AA93A82BCFEB4900618E3C /* NoLessonsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoLessonsView.swift; sourceTree = "<group>"; };
 		04AA93AA2BCFEB4900618E3C /* lessons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lessons.json; sourceTree = "<group>"; };
-		04AA93AB2BCFEB4900618E3C /* videos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = videos.json; sourceTree = "<group>"; };
 		04AA93BB2BCFF51900618E3C /* QuestionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
 		04AA93BC2BCFF51900618E3C /* QuestionChoiceBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionChoiceBox.swift; sourceTree = "<group>"; };
 		04AA93BD2BCFF51900618E3C /* QuestionChoiceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionChoiceView.swift; sourceTree = "<group>"; };
@@ -86,6 +82,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		043EB3E52BD2917300D4144F /* questions */ = {
+			isa = PBXGroup;
+			children = (
+				043EB3E62BD2919E00D4144F /* example_lesson.json */,
+			);
+			path = questions;
+			sourceTree = "<group>";
+		};
 		04AA93982BCFEB4900618E3C /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
@@ -99,7 +103,6 @@
 			isa = PBXGroup;
 			children = (
 				04AA939C2BCFEB4900618E3C /* QuestionModel.swift */,
-				04AA939D2BCFEB4900618E3C /* VideoModel.swift */,
 				04AA939E2BCFEB4900618E3C /* LessonModel.swift */,
 			);
 			path = Models;
@@ -109,7 +112,6 @@
 			isa = PBXGroup;
 			children = (
 				04AA93A02BCFEB4900618E3C /* LessonViewModel.swift */,
-				04AA93A12BCFEB4900618E3C /* VideoViewModel.swift */,
 				04AA93A22BCFEB4900618E3C /* ExerciseViewModel.swift */,
 			);
 			path = ViewModels;
@@ -140,8 +142,8 @@
 		04AA93A92BCFEB4900618E3C /* JSON */ = {
 			isa = PBXGroup;
 			children = (
+				043EB3E52BD2917300D4144F /* questions */,
 				04AA93AA2BCFEB4900618E3C /* lessons.json */,
-				04AA93AB2BCFEB4900618E3C /* videos.json */,
 			);
 			path = JSON;
 			sourceTree = "<group>";
@@ -286,7 +288,7 @@
 				04B4D2222BCED4A6007538DB /* Preview Assets.xcassets in Resources */,
 				04AA93D72BCFF78600618E3C /* test.mp4 in Resources */,
 				04AA93AD2BCFEB4900618E3C /* Preview Assets.xcassets in Resources */,
-				04AA93B92BCFEB4900618E3C /* videos.json in Resources */,
+				043EB3E72BD2919E00D4144F /* example_lesson.json in Resources */,
 				04B4D21F2BCED4A6007538DB /* Assets.xcassets in Resources */,
 				04AA93B82BCFEB4900618E3C /* lessons.json in Resources */,
 			);
@@ -308,13 +310,11 @@
 				04AA93B52BCFEB4900618E3C /* TaskRowView.swift in Sources */,
 				04AA93DE2BD0072900618E3C /* ViewFactory.swift in Sources */,
 				04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */,
-				04AA93B22BCFEB4900618E3C /* VideoViewModel.swift in Sources */,
 				04AA93C92BCFF51900618E3C /* QuestionBoxView.swift in Sources */,
 				04AA93CA2BCFF51900618E3C /* BreakView.swift in Sources */,
 				04AA93D02BCFF52200618E3C /* LearnView.swift in Sources */,
 				04AA93B32BCFEB4900618E3C /* ExerciseViewModel.swift in Sources */,
 				04B4D21B2BCED4A4007538DB /* ADHD_MathApp.swift in Sources */,
-				04AA93AF2BCFEB4900618E3C /* VideoModel.swift in Sources */,
 				04AA93B42BCFEB4900618E3C /* TaskCompletionIconView.swift in Sources */,
 				04AA93B12BCFEB4900618E3C /* LessonViewModel.swift in Sources */,
 				04AA93C32BCFF51900618E3C /* QuestionView.swift in Sources */,

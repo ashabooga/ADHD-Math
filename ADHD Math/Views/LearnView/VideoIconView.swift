@@ -10,13 +10,13 @@ import AVFoundation
 
 struct VideoIconView: View {
     
-    let video: VideoModel
+    let fileTitle: String
     
     var body: some View {
         
         GeometryReader { geometry in
             ZStack {
-                Image(video.fileTitle)
+                Image(fileTitle)
                     .resizable()
                     .scaledToFit()
                 Image(systemName: "play.circle.fill")
@@ -36,5 +36,5 @@ struct VideoIconView: View {
 }
 
 #Preview {
-    VideoIconView(video: VideoModel(id: 0, displayTitle: "Example Video", fileTitle: "test", isCompleted: false))
+    VideoIconView(fileTitle: "test")
 }

@@ -11,20 +11,17 @@ struct HintView: View {
     
     @Environment(\.dismiss) var dismiss
     
+    var fileTitle: String
+    
     var body: some View {
+        let url = Bundle.main.url(forResource: fileTitle, withExtension: "mp4")!
         
         NavigationStack {
-            
-                
             VStack {
-                
-                
-                
                 NavigationLink {
-                    VideoPlayerView(videoURL: Bundle.main.url(forResource: "test", withExtension: "mp4")!)
+                    HintVideoPlayerView(videoURL: url)
                 } label: {
-//                    VideoIconView(lesson: TaskModel(title: "Lesson 1", type: "Lesson", isCompleted: false), videoURL: Bundle.main.url(forResource: "test", withExtension: "mp4")!)
-//                        .frame(width: 350, height: 200)
+                    VideoIconView(fileTitle: fileTitle)
                 }
                 .padding(.vertical, 30)
                     
@@ -67,5 +64,5 @@ struct HintView: View {
 }
 
 #Preview {
-    HintView()
+    HintView(fileTitle: "test")
 }

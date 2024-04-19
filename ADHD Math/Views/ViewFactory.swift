@@ -23,6 +23,7 @@ struct CustomTextView: View {
                     
                 } else {
                     LaTeX(item)
+                        .imageRenderingMode(.original)
                 }
             }
         }
@@ -50,7 +51,7 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
             
             let trimmedInt = Int(item.dropFirst(imagePrefix.count).dropLast(2)) ?? 0
             
-            image = question.question.images?[trimmedInt - 1] ?? ImageModel.noImage
+            image = question.question.images?[trimmedInt] ?? ImageModel.noImage
             
         } else {
             
@@ -61,7 +62,7 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
                 
                 let trimmedInt = Int(item.dropFirst(imagePrefix.count).dropLast(2)) ?? -1
                 
-                image = hint?.images?[trimmedInt - 1] ?? ImageModel.noImage
+                image = hint?.images?[trimmedInt] ?? ImageModel.noImage
                 
             }
         }

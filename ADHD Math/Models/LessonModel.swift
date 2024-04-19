@@ -21,4 +21,12 @@ struct LessonModel: Identifiable, Decodable, Encodable {
         self.type = type
         self.isCompleted = isCompleted
     }
+    
+    func completeLesson() -> LessonModel {
+        return LessonModel(id: id, displayTitle: displayTitle, fileTitle: fileTitle, type: type, isCompleted: true)
+    }
+    
+    static let noVideo: LessonModel = LessonModel(id: -1, displayTitle: "No Video", fileTitle: "noVideo", type: .video, isCompleted: true)
+    static let noQuiz: LessonModel = LessonModel(id: -2, displayTitle: "No Quiz", fileTitle: "noQuiz", type: .quiz, isCompleted: true)
+    static let noTest: LessonModel = LessonModel(id: -3, displayTitle: "No Test", fileTitle: "noTest", type: .test, isCompleted: true)
 }

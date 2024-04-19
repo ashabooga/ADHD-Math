@@ -33,6 +33,6 @@ struct QuestionView: View {
 
 #Preview {
     
-    QuestionView(question: QuestionModel(id: 0, question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]above is a lovely picture of $\\color{blue}FLOWERS\\color{black}$!!!", images: [ImageModel(url: "test2", height: 250, width: 300)]), options: ["option 1", "option 2", "option 3", "option 4"], correctAnswers: ["option 2"], hints: [HintModel(content: "Hint 1")], questionType: .multipleChoice, videos: ["test"]))
+    QuestionView(question: QuestionModel(id: 0, question: QuestionContentModel(content: "here is an example content $\\color{blue}5\\div6$ \n[[image 0]]above is a lovely picture of $\\color{red}\\text{flowers}$!!!", images: [ImageModel(url: "test2", height: 250, width: 300)]), options: ["option 1", "option 2", "option 3", "option 4"], correctAnswers: ["option 2"], hints: [HintModel(content: "Hint 1")], questionType: .multipleChoice, videos: ["test"]))
         .background(Color.background3.ignoresSafeArea())
 }

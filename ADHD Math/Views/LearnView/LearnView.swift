@@ -10,14 +10,11 @@ import AVKit
 
 struct LearnView: View {
     
+    @EnvironmentObject var lessonViewModel: LessonViewModel
     let lesson: LessonModel
-    @ObservedObject var videoViewModel = VideoViewModel()
     
     var body: some View {
-        
-        let video: VideoModel = videoViewModel.getVideoFromFileTitle(fileTitle: lesson.fileTitle)
-        
-        let url = Bundle.main.url(forResource: video.fileTitle, withExtension: "mp4")!
+        let url = Bundle.main.url(forResource: lesson.fileTitle, withExtension: "mp4")!
         
         NavigationStack {
             ZStack {
@@ -27,8 +24,11 @@ struct LearnView: View {
                 VStack {
                     NavigationLink {
                         VideoPlayerView(videoURL: url)
+                            .onAppear(perform: {
+                                lessonViewModel.completeLesson(lesson: lesson)
+                            })
                     } label: {
-                        VideoIconView(video: video)
+                        VideoIconView(fileTitle: lesson.fileTitle)
                     }
                     .frame(height: 250)
                     
@@ -36,7 +36,7 @@ struct LearnView: View {
                 }
                 
             }
-            .navigationTitle(video.displayTitle)
+            .navigationTitle(lesson.displayTitle)
         }
     }
 }

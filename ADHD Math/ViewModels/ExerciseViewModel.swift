@@ -27,9 +27,12 @@ class ExerciseViewModel: ObservableObject {
                 print(error.localizedDescription)
             }
         }.resume()
+        
+        
     }
     
     func fetchQuestions(num: Int) -> [QuestionModel] {
+        
         guard items.count >= num else {
             return []
         }
