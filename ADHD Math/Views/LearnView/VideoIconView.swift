@@ -16,7 +16,7 @@ struct VideoIconView: View {
         
         GeometryReader { geometry in
             ZStack {
-                Image(fileTitle)
+                Image(uiImage: UIImage(named: fileTitle)!)
                     .resizable()
                     .scaledToFit()
                 Image(systemName: "play.circle.fill")
@@ -36,5 +36,5 @@ struct VideoIconView: View {
 }
 
 #Preview {
-    VideoIconView(fileTitle: "test")
+    VideoIconView(fileTitle: "pandaPNG")
 }

@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct TaskView: View {
-    @EnvironmentObject var lessonViewModel: LessonViewModel
+    @StateObject var lessonViewModel = LessonViewModel()
     
     var body: some View {
         
@@ -48,12 +48,12 @@ struct TaskView: View {
                     .offset(x: 0, y: -45)
             , alignment: .topTrailing)
         }
+        .environmentObject(lessonViewModel)
     }
 }
 
 #Preview {
     NavigationStack{
         TaskView()
-            .environmentObject(LessonViewModel())
     }
 }

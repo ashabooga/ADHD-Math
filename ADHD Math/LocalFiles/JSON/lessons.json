@@ -1,0 +1,31 @@
+
+[
+    {
+        "id": 0,
+        "displayTitle": "Example Lesson",
+        "fileTitle": "example_lesson",
+        "type": "quiz",
+        "isCompleted": false
+    },
+    {
+        "id": 1,
+        "displayTitle": "Example Lesson 2",
+        "fileTitle": "example_lesson",
+        "type": "quiz",
+        "isCompleted": false
+    },
+    {
+        "id": 2,
+        "displayTitle": "Example Video 1",
+        "fileTitle": "test",
+        "type": "video",
+        "isCompleted": false
+    },
+    {
+        "id": 3,
+        "displayTitle": "Example Lesson 3",
+        "fileTitle": "example_lesson",
+        "type": "quiz",
+        "isCompleted": false
+    }
+]

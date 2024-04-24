@@ -17,6 +17,7 @@ class ExerciseViewModel: ObservableObject {
             do {
                 if let data = data {
                     let result = try JSONDecoder().decode([QuestionModel].self, from: data)
+                    print(result.description)
                     DispatchQueue.main.async {
                         self.items = result
                     }
@@ -27,8 +28,6 @@ class ExerciseViewModel: ObservableObject {
                 print(error.localizedDescription)
             }
         }.resume()
-        
-        
     }
     
     func fetchQuestions(num: Int) -> [QuestionModel] {
@@ -37,7 +36,11 @@ class ExerciseViewModel: ObservableObject {
             return []
         }
 
-        let questions = Array(items.shuffled().prefix(num))
+        var questions = Array(items.shuffled().prefix(num))
+        
+        for index in 0..<questions.count {
+            questions[index] = questions[index].shuffleOptions()
+        }
         
         return questions
     }

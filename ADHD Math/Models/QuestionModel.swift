@@ -11,9 +11,10 @@ public enum QuestionType: String, Codable {
     case unknown
 }
 
-public enum AnswerError: Error {
-    case incorrectType
-    case empty
+public enum AnswerError: String {
+    case incorrectNumChoices = "Incorrect number of Choices!"
+    case incorrectAnswers = "Incorrect answer!"
+    case unknown = "Unknown error with question answer."
 }
 
 struct QuestionModel: Identifiable, Decodable {
@@ -24,6 +25,21 @@ struct QuestionModel: Identifiable, Decodable {
     var questionType: QuestionType
     var correctAnswers: [String]
     var videos: [String]
+    
+    init(id: Int, hints: [HintModel], question: QuestionContentModel, options: [String], questionType: QuestionType, correctAnswers: [String], videos: [String]) {
+        self.id = id
+        self.hints = hints
+        self.question = question
+        self.options = options
+        self.questionType = questionType
+        self.correctAnswers = correctAnswers
+        self.videos = videos
+    }
+    
+    
+    func shuffleOptions() -> QuestionModel {
+        return QuestionModel(id: id, hints: hints, question: question, options: options.shuffled(), questionType: questionType, correctAnswers: correctAnswers, videos: videos)
+    }
 }
 
 struct QuestionContentModel: Decodable {
@@ -31,17 +47,15 @@ struct QuestionContentModel: Decodable {
     var images: [ImageModel]?
 }
 
-struct HintModel: Identifiable, Decodable {
-    var id = UUID()
+struct HintModel: Decodable {
     var content: String
     var images: [ImageModel]?
 }
 
-struct ImageModel: Identifiable, Decodable {
-    var id = UUID()
+struct ImageModel: Decodable {
     var url: String
     var height: CGFloat
     var width: CGFloat
     
-    static let noImage = ImageModel(id: UUID(), url: "noImage", height: 100.0, width: 100.0)
+    static let noImage = ImageModel(url: "noImage", height: 100.0, width: 100.0)
 }

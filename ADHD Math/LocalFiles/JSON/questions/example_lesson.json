@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "Hint 1 for question 1",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "What is the capital of Japan?",
+      "images": null
+    },
+    "options": [
+      "Tokyo",
+      "Beijing",
+      "Seoul",
+      "Bangkok"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Tokyo"
+    ],
+    "videos": []
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "Hint 1 for question 2",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "What is the largest planet in our solar system?",
+      "images": null
+    },
+    "options": [
+      "Mercury",
+      "Jupiter",
+      "Venus",
+      "Saturn"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Jupiter"
+    ],
+    "videos": []
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "Hint 1 for question 3",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Which scientist is famous for his theory of relativity?",
+      "images": null
+    },
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Albert Einstein"
+    ],
+    "videos": []
+  }
+]

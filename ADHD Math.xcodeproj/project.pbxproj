@@ -8,7 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		043EB3E72BD2919E00D4144F /* example_lesson.json in Resources */ = {isa = PBXBuildFile; fileRef = 043EB3E62BD2919E00D4144F /* example_lesson.json */; };
-		04A6B48A2BD2ED2800A8C3F9 /* FinishedExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A6B4892BD2ED2800A8C3F9 /* FinishedExerciseView.swift */; };
+		04A102DF2BD921EC004BCD2D /* pandaPNG.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A102DE2BD921EC004BCD2D /* pandaPNG.png */; };
+		04A102E22BD9225D004BCD2D /* test2.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A102E02BD9225D004BCD2D /* test2.png */; };
+		04A102E32BD9225D004BCD2D /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A102E12BD9225D004BCD2D /* test.png */; };
+		04A102E52BD92316004BCD2D /* ExerciseStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A102E42BD92316004BCD2D /* ExerciseStartView.swift */; };
+		04A6B48A2BD2ED2800A8C3F9 /* ExerciseEndView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A6B4892BD2ED2800A8C3F9 /* ExerciseEndView.swift */; };
 		04AA93AC2BCFEB4900618E3C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93992BCFEB4900618E3C /* Extensions.swift */; };
 		04AA93AD2BCFEB4900618E3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */; };
 		04AA93AE2BCFEB4900618E3C /* QuestionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939C2BCFEB4900618E3C /* QuestionModel.swift */; };
@@ -41,7 +45,11 @@
 
 /* Begin PBXFileReference section */
 		043EB3E62BD2919E00D4144F /* example_lesson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = example_lesson.json; sourceTree = "<group>"; };
-		04A6B4892BD2ED2800A8C3F9 /* FinishedExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishedExerciseView.swift; sourceTree = "<group>"; };
+		04A102DE2BD921EC004BCD2D /* pandaPNG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pandaPNG.png; sourceTree = "<group>"; };
+		04A102E02BD9225D004BCD2D /* test2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test2.png; sourceTree = "<group>"; };
+		04A102E12BD9225D004BCD2D /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
+		04A102E42BD92316004BCD2D /* ExerciseStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseStartView.swift; sourceTree = "<group>"; };
+		04A6B4892BD2ED2800A8C3F9 /* ExerciseEndView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseEndView.swift; sourceTree = "<group>"; };
 		04AA93992BCFEB4900618E3C /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		04AA939C2BCFEB4900618E3C /* QuestionModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionModel.swift; sourceTree = "<group>"; };
@@ -90,6 +98,26 @@
 				043EB3E62BD2919E00D4144F /* example_lesson.json */,
 			);
 			path = questions;
+			sourceTree = "<group>";
+		};
+		04A102D62BD91F3E004BCD2D /* LocalFiles */ = {
+			isa = PBXGroup;
+			children = (
+				04A102D72BD91F4B004BCD2D /* Images */,
+				04AA93D52BCFF78600618E3C /* Videos */,
+				04AA93A92BCFEB4900618E3C /* JSON */,
+			);
+			path = LocalFiles;
+			sourceTree = "<group>";
+		};
+		04A102D72BD91F4B004BCD2D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				04A102E12BD9225D004BCD2D /* test.png */,
+				04A102E02BD9225D004BCD2D /* test2.png */,
+				04A102DE2BD921EC004BCD2D /* pandaPNG.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 		04AA93982BCFEB4900618E3C /* Preview Content */ = {
@@ -161,7 +189,8 @@
 				04AA93C02BCFF51900618E3C /* HintView.swift */,
 				04AA93C12BCFF51900618E3C /* QuestionBoxView.swift */,
 				04AA93C22BCFF51900618E3C /* BreakView.swift */,
-				04A6B4892BD2ED2800A8C3F9 /* FinishedExerciseView.swift */,
+				04A6B4892BD2ED2800A8C3F9 /* ExerciseEndView.swift */,
+				04A102E42BD92316004BCD2D /* ExerciseStartView.swift */,
 			);
 			path = QuestionView;
 			sourceTree = "<group>";
@@ -203,8 +232,7 @@
 		04B4D2192BCED4A4007538DB /* ADHD Math */ = {
 			isa = PBXGroup;
 			children = (
-				04AA93D52BCFF78600618E3C /* Videos */,
-				04AA93A92BCFEB4900618E3C /* JSON */,
+				04A102D62BD91F3E004BCD2D /* LocalFiles */,
 				04AA939B2BCFEB4900618E3C /* Models */,
 				04AA93982BCFEB4900618E3C /* Preview Content */,
 				04AA939F2BCFEB4900618E3C /* ViewModels */,
@@ -290,9 +318,12 @@
 			files = (
 				04B4D2222BCED4A6007538DB /* Preview Assets.xcassets in Resources */,
 				04AA93D72BCFF78600618E3C /* test.mp4 in Resources */,
+				04A102E32BD9225D004BCD2D /* test.png in Resources */,
 				04AA93AD2BCFEB4900618E3C /* Preview Assets.xcassets in Resources */,
 				043EB3E72BD2919E00D4144F /* example_lesson.json in Resources */,
 				04B4D21F2BCED4A6007538DB /* Assets.xcassets in Resources */,
+				04A102DF2BD921EC004BCD2D /* pandaPNG.png in Resources */,
+				04A102E22BD9225D004BCD2D /* test2.png in Resources */,
 				04AA93B82BCFEB4900618E3C /* lessons.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -307,10 +338,11 @@
 				04AA93C82BCFF51900618E3C /* HintView.swift in Sources */,
 				04AA93D12BCFF52200618E3C /* VideoIconView.swift in Sources */,
 				04AA93C52BCFF51900618E3C /* QuestionChoiceView.swift in Sources */,
+				04A102E52BD92316004BCD2D /* ExerciseStartView.swift in Sources */,
 				04AA93CF2BCFF52200618E3C /* VideoPlayerView.swift in Sources */,
 				04AA93AC2BCFEB4900618E3C /* Extensions.swift in Sources */,
 				04AA93C62BCFF51900618E3C /* ExerciseView.swift in Sources */,
-				04A6B48A2BD2ED2800A8C3F9 /* FinishedExerciseView.swift in Sources */,
+				04A6B48A2BD2ED2800A8C3F9 /* ExerciseEndView.swift in Sources */,
 				04AA93B52BCFEB4900618E3C /* TaskRowView.swift in Sources */,
 				04AA93DE2BD0072900618E3C /* ViewFactory.swift in Sources */,
 				04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */,
