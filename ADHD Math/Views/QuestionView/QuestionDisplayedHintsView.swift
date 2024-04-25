@@ -8,11 +8,50 @@
 import SwiftUI
 
 struct QuestionDisplayedHintsView: View {
+    
+    var question: QuestionModel
+    @Binding var numHintsDisplayed: Int
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        
+        VStack {
+//            let range = 0..<min(numHintsDisplayed, question.hints.count)
+//            ForEach(range) { index in
+//                viewForString(string: question.hints[index].content, question: question)
+//            }
+            
+            let max = min(numHintsDisplayed, question.hints.count)
+            
+            RoundedRectangle(cornerRadius: 5)
+                .frame(width: 350, height: 5)
+                .opacity(0.1)
+            
+            ForEach(question.hints.indices, id: \.self) { index in
+                
+                if index < max {
+                    HStack {
+                            
+                        viewForString(string: question.hints[index].content, question: question)
+                            .padding(.horizontal, 50)
+                            .padding(.vertical, 20)
+                            .background {
+                                RoundedRectangle(cornerRadius: 10)
+                                    .frame(width: 350)
+                                    .foregroundStyle(.offWhite)
+                            }
+
+                    }
+                }
+            }
+            .padding(.top, 30)
+        }
     }
 }
 
 #Preview {
-    QuestionDisplayedHintsView()
+    
+    let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Okay get ready guys I'm gonna show you a super super cool image: [[image 0]] What's the answer? $25\\color{blue}\\div\\color{black}5$", images: [ImageModel(url: "pandaPNG", height: 300, width: 200)]), HintModel(content: "Okay get ready guys I'm gonna show you a super super cool image: [[image 0]] What's the answer? $25\\color{blue}\\div\\color{black}5$", images: [ImageModel(url: "pandaPNG", height: 300, width: 200)])], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "test", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .singleChoice, correctAnswers: ["option 2"], videos: ["test"])
+    @State var num = 2
+    
+    return QuestionDisplayedHintsView(question: question, numHintsDisplayed: $num)
 }

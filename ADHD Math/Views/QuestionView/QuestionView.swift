@@ -29,17 +29,10 @@ struct QuestionView: View {
         ZStack {
             
             ScrollView {
-                
-                VStack {
                     
-                    viewForString(string: question.question.content, question: question)
-                    
-                    Spacer()
-                }
-//                .padding(.vertical, 40)
-                
-                
-                
+                viewForString(string: question.question.content, question: question)
+                    .padding(.bottom, 30)
+
                 QuestionBoxView(question: question, isTest: isTest, selectedAnswers: $selectedAnswers, hintAction: { self.hintAction() })
                 
                 Button {
@@ -63,14 +56,13 @@ struct QuestionView: View {
                     }
                 }
                 .padding(.top, -20)
+                .padding(.bottom, 30)
+
                 
-                
-//                ForEach(Array(question.hints.enumerated()), id: \.element.id) { (index, hint) in
-//                    
-//                    if index < numHintsDisplayed {
-//                        viewForString(string: hint.content, question: question)
-//                    }
-//                }
+                if numHintsDisplayed > 0 {
+                    
+                    QuestionDisplayedHintsView(question: question, numHintsDisplayed: $numHintsDisplayed)
+                }
                 
             }
             .padding(.top, 20)

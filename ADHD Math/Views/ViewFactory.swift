@@ -22,8 +22,15 @@ struct CustomTextView: View {
                     image
                     
                 } else {
-                    LaTeX(item)
-                        .imageRenderingMode(.original)
+                    
+                    if item.contains("$") {
+                        
+                        LaTeX(item)
+                            .imageRenderingMode(.original)
+                    } else {
+                        Text(item)
+                            .multilineTextAlignment(.leading)
+                    }
                 }
             }
         }

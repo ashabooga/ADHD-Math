@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04202A312BDAC149007B7BE3 /* QuestionDisplayedHintsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04202A302BDAC149007B7BE3 /* QuestionDisplayedHintsView.swift */; };
 		043EB3E72BD2919E00D4144F /* example_lesson.json in Resources */ = {isa = PBXBuildFile; fileRef = 043EB3E62BD2919E00D4144F /* example_lesson.json */; };
 		0468018E2BDA6FFB003EBDD8 /* QuestionAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0468018D2BDA6FFB003EBDD8 /* QuestionAlertView.swift */; };
 		04A102DF2BD921EC004BCD2D /* pandaPNG.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A102DE2BD921EC004BCD2D /* pandaPNG.png */; };
@@ -45,6 +46,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04202A302BDAC149007B7BE3 /* QuestionDisplayedHintsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionDisplayedHintsView.swift; sourceTree = "<group>"; };
 		043EB3E62BD2919E00D4144F /* example_lesson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = example_lesson.json; sourceTree = "<group>"; };
 		0468018D2BDA6FFB003EBDD8 /* QuestionAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionAlertView.swift; sourceTree = "<group>"; };
 		04A102DE2BD921EC004BCD2D /* pandaPNG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pandaPNG.png; sourceTree = "<group>"; };
@@ -186,6 +188,7 @@
 				04AA93BB2BCFF51900618E3C /* QuestionView.swift */,
 				04AA93BC2BCFF51900618E3C /* QuestionChoiceBox.swift */,
 				04AA93BD2BCFF51900618E3C /* QuestionChoiceView.swift */,
+				04202A302BDAC149007B7BE3 /* QuestionDisplayedHintsView.swift */,
 				04AA93BE2BCFF51900618E3C /* ExerciseView.swift */,
 				04AA93BF2BCFF51900618E3C /* HelpButtonView.swift */,
 				04AA93C02BCFF51900618E3C /* HintView.swift */,
@@ -350,6 +353,7 @@
 				0468018E2BDA6FFB003EBDD8 /* QuestionAlertView.swift in Sources */,
 				04AA93DE2BD0072900618E3C /* ViewFactory.swift in Sources */,
 				04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */,
+				04202A312BDAC149007B7BE3 /* QuestionDisplayedHintsView.swift in Sources */,
 				04AA93C92BCFF51900618E3C /* QuestionBoxView.swift in Sources */,
 				04AA93CA2BCFF51900618E3C /* BreakView.swift in Sources */,
 				04AA93D02BCFF52200618E3C /* LearnView.swift in Sources */,

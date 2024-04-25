@@ -5,6 +5,22 @@
       {
         "content": "Hint 1 for question 1",
         "images": null
+      },
+      {
+        "content": "Hint 2 for question 1",
+        "images": null
+      },
+      {
+        "content": "Hint 3 for question 1",
+        "images": null
+      },
+      {
+        "content": "Hint 4 for question 1",
+        "images": null
+      },
+      {
+        "content": "Hint 5 for question 1",
+        "images": null
       }
     ],
     "question": {
@@ -35,6 +51,22 @@
       {
         "content": "Hint 1 for question 2",
         "images": null
+      },
+      {
+        "content": "Hint 2 for question 2",
+        "images": null
+      },
+      {
+        "content": "Hint 3 for question 2",
+        "images": null
+      },
+      {
+        "content": "Hint 4 for question 2",
+        "images": null
+      },
+      {
+        "content": "Hint 5 for question 2",
+        "images": null
       }
     ],
     "question": {
@@ -64,6 +96,22 @@
     "hints": [
       {
         "content": "Hint 1 for question 3",
+        "images": null
+      },
+      {
+        "content": "Hint 2 for question 3",
+        "images": null
+      },
+      {
+        "content": "Hint 3 for question 3",
+        "images": null
+      },
+      {
+        "content": "Hint 4 for question 3",
+        "images": null
+      },
+      {
+        "content": "Hint 5 for question 3",
         "images": null
       }
     ],
