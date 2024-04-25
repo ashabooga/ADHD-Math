@@ -7,6 +7,8 @@ struct QuestionBoxView: View {
     let isTest: Bool
     @Binding var selectedAnswers: [String]
     
+    var hintAction: () -> Void
+    
     var body: some View {
         
         ZStack {
@@ -60,7 +62,7 @@ struct QuestionBoxView: View {
                     
                     Spacer()
                     
-                    HelpButtonView(question: question)
+                    HelpButtonView(hintAction: { hintAction() }, question: question)
                         .contentShape(Rectangle()).gesture(DragGesture())
                     
                 }
@@ -77,5 +79,9 @@ struct QuestionBoxView: View {
     let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "test", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .singleChoice, correctAnswers: ["option 2"], videos: ["test"])
     @State var selectedAnswers: [String] = []
     
-    return QuestionBoxView(question: question, isTest: false, selectedAnswers: $selectedAnswers)
+    func noFunc() {
+        print("display hint")
+    }
+    
+    return QuestionBoxView(question: question, isTest: false, selectedAnswers: $selectedAnswers, hintAction: { noFunc() })
 }

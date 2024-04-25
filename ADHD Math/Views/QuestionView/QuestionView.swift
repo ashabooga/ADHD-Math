@@ -22,6 +22,7 @@ struct QuestionView: View {
     @State var hasAnswered: Bool = false
     
     @State private var isCorrect: Bool = false
+    @State private var numHintsDisplayed: Int = 0
     
     var body: some View {
         
@@ -35,10 +36,11 @@ struct QuestionView: View {
                     
                     Spacer()
                 }
+//                .padding(.vertical, 40)
                 
-                Spacer()
                 
-                QuestionBoxView(question: question, isTest: isTest, selectedAnswers: $selectedAnswers)
+                
+                QuestionBoxView(question: question, isTest: isTest, selectedAnswers: $selectedAnswers, hintAction: { self.hintAction() })
                 
                 Button {
                     if isCorrect {
@@ -61,6 +63,15 @@ struct QuestionView: View {
                     }
                 }
                 .padding(.top, -20)
+                
+                
+//                ForEach(Array(question.hints.enumerated()), id: \.element.id) { (index, hint) in
+//                    
+//                    if index < numHintsDisplayed {
+//                        viewForString(string: hint.content, question: question)
+//                    }
+//                }
+                
             }
             .padding(.top, 20)
             
@@ -68,6 +79,13 @@ struct QuestionView: View {
             if showingQuestionAlert {
                 QuestionAlertView(isShowing: $showingQuestionAlert, state: $questionAlertState)
             }
+        }
+    }
+    
+    func hintAction() {
+        print(numHintsDisplayed)
+        if numHintsDisplayed < question.hints.count {
+            numHintsDisplayed += 1
         }
     }
     

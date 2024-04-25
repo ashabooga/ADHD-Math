@@ -13,6 +13,8 @@ struct HelpButtonView: View {
     @State private var showingBreakSheet = false
     @State private var showingHintSheet = false
     
+    var hintAction: () -> Void
+    
     var question: QuestionModel
     
     var body: some View {
@@ -51,7 +53,7 @@ struct HelpButtonView: View {
                     }
                     .contentShape(Rectangle()).gesture(DragGesture())
                     .sheet(isPresented: $showingHintSheet, content: {
-                        HintView(fileTitle: question.videos.first ?? LessonModel.noVideo.fileTitle)
+                        HintView(fileTitle: question.videos.first ?? LessonModel.noVideo.fileTitle, hintAction: { hintAction() })
                             .presentationDetents([.fraction(0.7), .large])
                             .presentationDragIndicator(.visible)
                     })
@@ -95,5 +97,9 @@ struct HelpButtonView: View {
 #Preview {
     let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "test", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .multipleChoice, correctAnswers: ["option 2"], videos: ["test"])
     
-    return HelpButtonView(question: question)
+    func noFunc() {
+        print("display hint")
+    }
+    
+    return HelpButtonView(hintAction: { noFunc() }, question: question)
 }

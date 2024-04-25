@@ -12,6 +12,7 @@ struct HintView: View {
     @Environment(\.dismiss) var dismiss
     
     var fileTitle: String
+    var hintAction: () -> Void
     
     var body: some View {
         let url = Bundle.main.url(forResource: fileTitle, withExtension: "mp4")!
@@ -38,7 +39,8 @@ struct HintView: View {
                     HStack {
                     
                         Button(action: {
-                            print("hi")
+                            hintAction()
+                            dismiss()
                         }, label: {
                             Text("Need another hint?")
                                 .font(.title3)
@@ -68,12 +70,17 @@ struct HintView: View {
                         }
                     }
                 }
-                .navigationTitle("Hint")
+                .navigationTitle("Hints")
             }
         }
     }
 }
 
 #Preview {
-    HintView(fileTitle: "test")
+    
+    func noFunc() {
+        print("display hint")
+    }
+    
+    return HintView(fileTitle: "test", hintAction: { noFunc() })
 }
