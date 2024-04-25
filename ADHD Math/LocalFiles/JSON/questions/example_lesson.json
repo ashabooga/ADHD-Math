@@ -8,20 +8,26 @@
       }
     ],
     "question": {
-      "content": "What is the capital of Japan?",
-      "images": null
+      "content": "Okay get ready guys I'm gonna show you a super super cool image: [[image 0]] What's the answer? $25\\color{blue}\\div\\color{black}5$",
+      "images": [
+          {
+              "url": "test",
+              "width": 200,
+              "height": 200
+          }
+      ]
     },
     "options": [
-      "Tokyo",
-      "Beijing",
-      "Seoul",
-      "Bangkok"
+      "$5$",
+      "$3$",
+      "$2$",
+      "$10$"
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "Tokyo"
+      "$5$"
     ],
-    "videos": []
+    "videos": ["test"]
   },
   {
     "id": 2,
@@ -32,8 +38,14 @@
       }
     ],
     "question": {
-      "content": "What is the largest planet in our solar system?",
-      "images": null
+      "content": "What is the largest planet in our solar system?[[image 0]][[image 0]][[image 0]]",
+      "images": [
+          {
+              "url": "test2",
+              "width": 200,
+              "height": 200
+          }
+      ]
     },
     "options": [
       "Mercury",
@@ -45,7 +57,7 @@
     "correctAnswers": [
       "Jupiter"
     ],
-    "videos": []
+    "videos": ["test"]
   },
   {
     "id": 3,
@@ -56,8 +68,14 @@
       }
     ],
     "question": {
-      "content": "Which scientist is famous for his theory of relativity?",
-      "images": null
+      "content": "Which scientist is famous for his theory of relativity?[[image 0]]",
+      "images": [
+          {
+              "url": "pandaPNG",
+              "width": 200,
+              "height": 200
+          }
+      ]
     },
     "options": [
       "Isaac Newton",
@@ -69,6 +87,6 @@
     "correctAnswers": [
       "Albert Einstein"
     ],
-    "videos": []
+    "videos": ["test"]
   }
 ]

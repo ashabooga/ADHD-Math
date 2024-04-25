@@ -65,7 +65,7 @@ struct QuestionBoxView: View {
                     
                 }
                 .padding(.trailing, 10)
-                .padding(.bottom, 350)
+                .padding(.bottom, 315)
             }
             
         }

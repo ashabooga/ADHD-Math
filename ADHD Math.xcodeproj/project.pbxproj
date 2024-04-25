@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		043EB3E72BD2919E00D4144F /* example_lesson.json in Resources */ = {isa = PBXBuildFile; fileRef = 043EB3E62BD2919E00D4144F /* example_lesson.json */; };
+		0468018E2BDA6FFB003EBDD8 /* QuestionAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0468018D2BDA6FFB003EBDD8 /* QuestionAlertView.swift */; };
 		04A102DF2BD921EC004BCD2D /* pandaPNG.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A102DE2BD921EC004BCD2D /* pandaPNG.png */; };
 		04A102E22BD9225D004BCD2D /* test2.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A102E02BD9225D004BCD2D /* test2.png */; };
 		04A102E32BD9225D004BCD2D /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A102E12BD9225D004BCD2D /* test.png */; };
@@ -45,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		043EB3E62BD2919E00D4144F /* example_lesson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = example_lesson.json; sourceTree = "<group>"; };
+		0468018D2BDA6FFB003EBDD8 /* QuestionAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionAlertView.swift; sourceTree = "<group>"; };
 		04A102DE2BD921EC004BCD2D /* pandaPNG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pandaPNG.png; sourceTree = "<group>"; };
 		04A102E02BD9225D004BCD2D /* test2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test2.png; sourceTree = "<group>"; };
 		04A102E12BD9225D004BCD2D /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 				04AA93C22BCFF51900618E3C /* BreakView.swift */,
 				04A6B4892BD2ED2800A8C3F9 /* ExerciseEndView.swift */,
 				04A102E42BD92316004BCD2D /* ExerciseStartView.swift */,
+				0468018D2BDA6FFB003EBDD8 /* QuestionAlertView.swift */,
 			);
 			path = QuestionView;
 			sourceTree = "<group>";
@@ -344,6 +347,7 @@
 				04AA93C62BCFF51900618E3C /* ExerciseView.swift in Sources */,
 				04A6B48A2BD2ED2800A8C3F9 /* ExerciseEndView.swift in Sources */,
 				04AA93B52BCFEB4900618E3C /* TaskRowView.swift in Sources */,
+				0468018E2BDA6FFB003EBDD8 /* QuestionAlertView.swift in Sources */,
 				04AA93DE2BD0072900618E3C /* ViewFactory.swift in Sources */,
 				04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */,
 				04AA93C92BCFF51900618E3C /* QuestionBoxView.swift in Sources */,
