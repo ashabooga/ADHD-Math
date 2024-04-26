@@ -28,44 +28,52 @@ struct QuestionView: View {
         
         ZStack {
             
-            ScrollView {
+            ScrollViewReader { value in
+                ScrollView {
+                        
+                    viewForString(string: question.question.content, question: question)
+                        .padding(.bottom, 30)
+
+                    QuestionBoxView(question: question, isTest: isTest, selectedAnswers: $selectedAnswers, hintAction: { self.hintAction() })
                     
-                viewForString(string: question.question.content, question: question)
+                    Button {
+                        if isCorrect {
+                            withAnimation(.spring) {
+                                showingQuestionAlert = false
+                            }
+                            incrementIndex()
+                        } else {
+                            manageAnswer(selectedAnswers: selectedAnswers, question: question)
+                        }
+                    } label: {
+                        ZStack {
+                            RoundedRectangle(cornerRadius: 10)
+                                .frame(width: 200, height: 50)
+                                .foregroundStyle(Color(.background3Accent))
+                            
+                            Text(hasAnswered ? isCorrect ? "Next" : "Check Again" : "Check")
+                                .font(.title3)
+                                .foregroundStyle(.black)
+                        }
+                    }
+                    .padding(.top, -20)
                     .padding(.bottom, 30)
 
-                QuestionBoxView(question: question, isTest: isTest, selectedAnswers: $selectedAnswers, hintAction: { self.hintAction() })
-                
-                Button {
-                    if isCorrect {
-                        withAnimation(.spring) {
-                            showingQuestionAlert = false
-                        }
-                        incrementIndex()
-                    } else {
-                        manageAnswer(selectedAnswers: selectedAnswers, question: question)
-                    }
-                } label: {
-                    ZStack {
-                        RoundedRectangle(cornerRadius: 10)
-                            .frame(width: 200, height: 50)
-                            .foregroundStyle(Color(.background3Accent))
-                        
-                        Text(hasAnswered ? isCorrect ? "Next" : "Check Again" : "Check")
-                            .font(.title3)
-                            .foregroundStyle(.black)
-                    }
-                }
-                .padding(.top, -20)
-                .padding(.bottom, 30)
-
-                
-                if numHintsDisplayed > 0 {
                     
-                    QuestionDisplayedHintsView(question: question, numHintsDisplayed: $numHintsDisplayed)
+                    if numHintsDisplayed > 0 {
+                        
+                        QuestionDisplayedHintsView(question: question, numHintsDisplayed: $numHintsDisplayed, hintAction: { self.hintAction() })
+                            .id(1)
+                            .onChange(of: numHintsDisplayed) {
+                                withAnimation {
+                                    value.scrollTo(1, anchor: .top)
+                                }
+                            }
+                    }
+                    
                 }
-                
+                .padding(.top, 20)
             }
-            .padding(.top, 20)
             
             
             if showingQuestionAlert {

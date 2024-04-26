@@ -11,6 +11,7 @@ struct QuestionDisplayedHintsView: View {
     
     var question: QuestionModel
     @Binding var numHintsDisplayed: Int
+    var hintAction: () -> Void
     
     var body: some View {
         
@@ -44,6 +45,18 @@ struct QuestionDisplayedHintsView: View {
                 }
             }
             .padding(.top, 30)
+            
+            if numHintsDisplayed < question.hints.count {
+                Button(action: {
+                    hintAction()
+                }, label: {
+                    HStack {
+                        Text("Another hint")
+                        Image(systemName: "plus")
+                    }
+                    
+                })
+            }
         }
     }
 }
@@ -53,5 +66,9 @@ struct QuestionDisplayedHintsView: View {
     let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Okay get ready guys I'm gonna show you a super super cool image: [[image 0]] What's the answer? $25\\color{blue}\\div\\color{black}5$", images: [ImageModel(url: "pandaPNG", height: 300, width: 200)]), HintModel(content: "Okay get ready guys I'm gonna show you a super super cool image: [[image 0]] What's the answer? $25\\color{blue}\\div\\color{black}5$", images: [ImageModel(url: "pandaPNG", height: 300, width: 200)])], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "test", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .singleChoice, correctAnswers: ["option 2"], videos: ["test"])
     @State var num = 2
     
-    return QuestionDisplayedHintsView(question: question, numHintsDisplayed: $num)
+    func noFunc() {
+        print("Adding hint")
+    }
+    
+    return QuestionDisplayedHintsView(question: question, numHintsDisplayed: $num, hintAction: { noFunc() })
 }
