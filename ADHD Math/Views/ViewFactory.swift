@@ -14,7 +14,9 @@ struct CustomTextView: View {
         
         VStack {
             
+                
             ForEach(Array(items.enumerated()), id: \.offset) { index, item in
+                
                 if item.starts(with: "[[") {
                     
                     let image = getImageFromItem(text: text, item: item, question: question)
@@ -32,8 +34,12 @@ struct CustomTextView: View {
                             .multilineTextAlignment(.leading)
                     }
                 }
+                
             }
+        
+            
         }
+        .padding(.horizontal, 20)
     }
 }
 
