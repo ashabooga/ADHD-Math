@@ -41,7 +41,7 @@ struct TaskView: View {
                     }.padding(.top, 10)
                 }
             }
-            .navigationTitle("Lessons")
+            .navigationTitle("Intro to Division")
             .overlay (
                 Text("\(lessonViewModel.lessons.filter( { $0.isCompleted } ).count) of \(lessonViewModel.lessons.count)")
                     .titleText(color: Color.white)
