@@ -39,6 +39,7 @@ struct LearnView: View {
                 
             }
             .navigationTitle(lesson.displayTitle)
+            .navigationBarTitleDisplayMode(.inline)
         }
     }
 }

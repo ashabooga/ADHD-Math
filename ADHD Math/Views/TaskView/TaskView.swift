@@ -35,6 +35,7 @@ struct TaskView: View {
                             } label: {
                                 TaskRowView(lesson: item)
                                     .padding(.horizontal, 20)
+                                    .padding(.top)
                             }
                         }
                     }.padding(.top, 10)

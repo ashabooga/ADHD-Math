@@ -2,28 +2,28 @@
 [
     {
         "id": 0,
-        "displayTitle": "Example Lesson",
+        "displayTitle": "Relating division to multiplication",
         "fileTitle": "example_lesson",
         "type": "quiz",
         "isCompleted": false
     },
     {
         "id": 1,
-        "displayTitle": "Example Lesson 2",
+        "displayTitle": "Multiplication word problem: parking lot",
         "fileTitle": "example_lesson",
         "type": "quiz",
         "isCompleted": false
     },
     {
         "id": 2,
-        "displayTitle": "Example Video 1",
+        "displayTitle": "Relate division to multiplication",
         "fileTitle": "test",
         "type": "video",
         "isCompleted": false
     },
     {
         "id": 3,
-        "displayTitle": "Example Lesson 3",
+        "displayTitle": "Relate multiplication and division equations",
         "fileTitle": "example_lesson",
         "type": "quiz",
         "isCompleted": false

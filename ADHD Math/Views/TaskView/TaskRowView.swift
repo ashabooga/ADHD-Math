@@ -12,30 +12,62 @@ struct TaskRowView: View {
     
     var body: some View {
         
-        ZStack {
-            RoundedRectangle(cornerRadius: /*@START_MENU_TOKEN@*/25.0/*@END_MENU_TOKEN@*/)
-                .frame(height: /*@START_MENU_TOKEN@*/100/*@END_MENU_TOKEN@*/)
-                .foregroundStyle(lesson.isCompleted ? Color("CompletedViewColor") : Color(.white))
             
-            HStack {
+            
+        HStack {
+            VStack {
                 Text(lesson.displayTitle)
-                    .font(.system(size: 25))
-//                    .font(.title)
+                    .font(.system(size: 20))
                     .bold()
                     .foregroundStyle(Color.black)
-                Spacer()
-                TaskCompletionIconView(isCompleted: lesson.isCompleted)
+                    .multilineTextAlignment(.leading)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                
+                Text(getLessonTypeAsString(lesson: lesson))
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .foregroundStyle(.gray)
+                    .padding(.top, -10)
             }
-            .padding(.horizontal, 40)
+            .padding(.leading)
             
+            
+            
+            Spacer()
+            Divider()
+                .frame(width: 1, height: 75)
+            TaskCompletionIconView(isCompleted: lesson.isCompleted)
+                .padding(.leading)
         }
+        .padding()
+        .background {
+            RoundedRectangle(cornerRadius: 25)
+                .foregroundStyle(lesson.isCompleted ? Color("CompletedViewColor") : Color(.white))
+        }
+
+    }
+    
+    func getLessonTypeAsString(lesson: LessonModel) -> String {
+        var output: String = ""
+        
+        switch lesson.type {
+        case LessonType.quiz:
+            output = "Practice"
+        case LessonType.test:
+            output = "Test"
+        case LessonType.video:
+            output = "Video"
+        case LessonType.unknown:
+            output = "Unknown"
+        }
+        
+        return output
     }
 }
 
 struct TaskRowView_Previews: PreviewProvider {
     static var previews: some View {
         
-        let lesson1: LessonModel = LessonModel(id: 0, displayTitle: "Example Lesson", fileTitle: "", type: LessonType.quiz, isCompleted: false)
+        let lesson1: LessonModel = LessonModel(id: 0, displayTitle: "Relating division to multiplication", fileTitle: "", type: LessonType.quiz, isCompleted: true)
         
         TaskRowView(lesson: lesson1)
     }
