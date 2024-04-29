@@ -82,5 +82,5 @@ struct HintView: View {
         print("display hint")
     }
     
-    return HintView(fileTitle: "test", hintAction: { noFunc() })
+    return HintView(fileTitle: "noVideo", hintAction: { noFunc() })
 }

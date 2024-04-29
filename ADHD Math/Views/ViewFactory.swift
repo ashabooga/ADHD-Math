@@ -85,7 +85,7 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
         imageHeight = image.height
     }
     
-    let image = Image(uiImage: UIImage(named: imageURL)!).resizable().scaledToFit().frame(width: imageWidth, height: imageHeight)
+    let image = Image(uiImage: UIImage(named: imageURL) ?? UIImage(named: "noImage")!).resizable().scaledToFit().frame(width: imageWidth, height: imageHeight)
     
     return image
 }

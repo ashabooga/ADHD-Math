@@ -125,6 +125,6 @@ struct QuestionView: View {
     
     @State var exerciseResults: [Bool] = []
     
-    return QuestionView(question: QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $\\color{blue}5\\div6$ [[image 0]] above is a lovely picture of $\\color{red}\\text{flowers}$!!!", images: [ImageModel(url: "pandaPNG", height: 250, width: 300)]), options: ["option 1", "option 2", "option 3", "option 4"], questionType: .singleChoice, correctAnswers: ["option 2"], videos: ["test"]), isTest: false, incrementIndex: { noFunc() }, exerciseResults: $exerciseResults)
+    return QuestionView(question: QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $\\color{blue}5\\div6$ [[image 0]] above is a lovely picture of $\\color{red}\\text{flowers}$!!!", images: [ImageModel(url: "pandaPNG", height: 250, width: 300)]), options: ["option 1", "option 2", "option 3", "option 4"], questionType: .singleChoice, correctAnswers: ["option 2"], videos: ["noVideo"]), isTest: false, incrementIndex: { noFunc() }, exerciseResults: $exerciseResults)
         .background(Color.background3.ignoresSafeArea())
 }

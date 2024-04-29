@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "There must be a total of $\\color{blue}40\\color{black}$ sharks.  \n\nThe $\\color{blue}40\\color{black}$ sharks must either be in $\\color{green}10 \\text{ equal-sized groups}\\color{black}$ or have $\\color{purple}10 \\text{ sharks in every group}}$.",
+        "images": null
+      },
+      {
+        "content": "This image has $\\color{blue}40\\color{black}$ sharks in $\\color{green}10 \\text{ equal-sized groups}\\color{black}$.\n\n[[image 0]]\n\n[[image 1]]\n\n[[image 2]]\n\n[[image 3]]\n\n[[image 4]]\n\n[[image 5]]\n\n[[image 6]]\n\n[[image 7]]\n\n[[image 8]]\n\n[[image 9]]\n\n\n\n",
+        "images": null
+      },
+      {
+        "content": "Here is  the correct image:\n\n\n[[image 0]]\n\n[[image 1]]\n\n[[image 2]]\n\n[[image 3]]\n\n[[image 4]]\n\n[[image 5]]\n\n[[image 6]]\n\n[[image 7]]\n\n[[image 8]]\n\n[[image 9]]\n\n\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which image could represent $40 \\div 10?$**  \n\n\n",
+      "images": []
+    },
+    "options": [
+      "[A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.]",
+      "[A group of 10 sharks has a rectangle around it.][A group of 10 sharks has a rectangle around it.]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.][A group of 4 sharks has a rectangle around it.]"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "There are $\\color{green}12\\color{black}$ eggs total.",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}3\\color{black}$ equal groups of eggs.",
+        "images": null
+      },
+      {
+        "content": "We can think of division as the following:\n\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of Groups}\\color{black}$\n\nor\n\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{maroon}\\text{ Size of the Groups}}$",
+        "images": null
+      },
+      {
+        "content": "The expression $\\color{green}12\\color{black}\\div\\color{blue}3\\color{black}$ will tell us how many eggs are in the basket. ",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $12$ eggs divided evenly in $3$ baskets.\n\n[[image 0]]\n\n**Which expression will tell us how many eggs are in each basket?**\n\n\n\n\n\n",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/cb625535c7f86bf92c346398556b81759e272c6c.svg",
+          "width": 230,
+          "height": 202
+        }
+      ]
+    },
+    "options": [
+      "$12 \\div 3$",
+      "$3 \\div 12$",
+      "$12 \\times 3$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$12 \\div 3$"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "There are $\\color{green}10\\color{black}$ cookies total.",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{maroon}2\\color{black}$ cookies in each group.",
+        "images": null
+      },
+      {
+        "content": "We can think of division as the following:\n\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of Groups}\\color{black}$\n\nor\n\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{maroon}\\text{ Size of the Groups}}$",
+        "images": null
+      },
+      {
+        "content": "The expression $\\color{green}10\\color{black}\\div\\color{maroon}2\\color{black}$ will tell us how many equal groups of cookies there are.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $10$ cookies divided evenly into groups of $2$ cookies.\n\n[[image 0]]\n\n\n**Which expression will tell us how many equal groups of cookies there are?**\n\n\n\n\n\n",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/4e501112bf77a11d49081dc2dad6f8b23abc3904.svg",
+          "width": 250,
+          "height": 242
+        }
+      ]
+    },
+    "options": [
+      "$2\\div10$",
+      "$10\\div2$",
+      "$2\\times10$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$10\\div2$"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "There must be a total of $\\color{blue}16\\color{black}$ squirrels.  \n\nThe $\\color{blue}16\\color{black}$ squirrels must either be in $\\color{green}2 \\text{ equal-sized groups}\\color{black}$ or have $\\color{purple}2 \\text{ squirrels in every group}}$.",
+        "images": null
+      },
+      {
+        "content": "This image has $\\color{blue}16\\color{black}$ squirrels with $\\color{purple}2 \\text{ squirrels in every group}\\color{black}$.\n\n[[image 0]] [[image 1]][[image 2]][[image 3]]\n[[image 4]][[image 5]][[image 6]][[image 7]]\n",
+        "images": null
+      },
+      {
+        "content": "Here is  the correct image:\n\n[[image 0]] [[image 1]][[image 2]][[image 3]]\n[[image 4]][[image 5]][[image 6]][[image 7]]\n\n\n\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which image could represent $16 \\div 2?$**  \n\n",
+      "images": []
+    },
+    "options": [
+      "[A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.]",
+      "[A group of 4 squirrels has a rectangle around it.][A group of 4 squirrels has a rectangle around it.][A group of 4 squirrels has a rectangle around it.][A group of 4 squirrels has a rectangle around it.]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.][A group of 2 squirrels has a rectangle around it.]"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "We can think of division as the following:\n\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of Groups}\\color{black}$\n\nor \n\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{maroon}\\text{ Size of the Groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We have a $\\color{green}\\text{total}\\color{black}$ of $\\color{green}21\\color{black}$ elephants.\n\nThe $\\color{maroon}\\text{size of the groups}\\color{black}$ of elephants is $\\color{maroon}7$.  \n\nWhich image shows $\\color{green}21\\color{black}$ elephants divided evenly into groups of $\\color{maroon}7$?",
+        "images": null
+      },
+      {
+        "content": "Here is  the correct image:\n\n\n[[image 0]]\n\n[[image 1]]\n\n[[image 2]]\n\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "At the zoo, there are $21$ elephants divided evenly into groups of $7$.\n\n**Which image could represent this situation?**\n\n\n\n",
+      "images": []
+    },
+    "options": [
+      "[A group of seven elephants has a rectangle around it.][A group of seven elephants has a rectangle around it.][A group of seven elephants has a rectangle around it.]",
+      "[A group of three elephants has a rectangle around it.][A group of seven elephants has a rectangle around it.]",
+      "[A group of seven elephants has a rectangle around it.][A group of seven elephants has a rectangle around it.]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[A group of seven elephants has a rectangle around it.][A group of seven elephants has a rectangle around it.][A group of seven elephants has a rectangle around it.]"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "We can think of division as the following:\n\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of Groups}\\color{black}$\n\nor \n\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{maroon}\\text{ Size of the Groups}}$",
+        "images": null
+      },
+      {
+        "content": "We have a $\\color{green}\\text{total}\\color{black}$ of $\\color{green}27\\color{black}$ apples.\n\nThe $\\color{blue}\\text{number of groups}\\color{black}$ of apples is $\\color{blue}3$.  \n\nWhich image shows $\\color{green}27\\color{black}$ apples divided  evenly in $\\color{blue}3}$ groups?",
+        "images": null
+      },
+      {
+        "content": "This image represents the situation:\n\n[[image 0]]\n\n\n\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Paulo has $27$ apples divided evenly in $3$ bags.\n\n**Which image could represent this situation?**\n\n\n\n\n\n",
+      "images": []
+    },
+    "options": [
+      "[Three groups of 3 apples. Each group of apples has a circle around it.]",
+      "[Three groups of 9 apples. Each group of apples has a circle around it.]",
+      "[Four groups of 9 apples. Each group of apples has a circle around it.]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[Three groups of 9 apples. Each group of apples has a circle around it.]"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}30\\color{black}$ apples.  \n\nWe can look at $\\color{green}\\text{how many equal-sized groups of apples}\\color{black}$  there are or $\\color{maroon}\\text{how many apples are in every group}}$.",
+        "images": null
+      },
+      {
+        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$\n\nThere are $\\color{blue}30\\color{black}$ total apples divided into $\\color{green}5$ equal groups.\n\n\n[[image 0]]\n\n[[image 1]]\n\n[[image 2]]\n\n[[image 3]]\n\n[[image 4]]\n\n",
+        "images": null
+      },
+      {
+        "content": " $\\color{blue}30\\color{black}$ divided into $\\color{green}5$ equal groups is $\\color{blue}30\\color{black}\\div \\color{green}5$.",
+        "images": null
+      },
+      {
+        "content": "### $\\color{maroon}\\text{Number of apples in each group}\\color{black}$\n\n\nThere are $\\color{blue}30\\color{black}$ apples total divided into groups of $\\color{maroon}6$ apples.\n\n\n[[image 0]]\n\n[[image 1]]\n\n[[image 2]]\n\n[[image 3]]\n\n[[image 4]]\n\n",
+        "images": null
+      },
+      {
+        "content": " $\\color{blue}30\\color{black}$ divided into groups of $\\color{maroon}6$ is $\\color{blue}30\\color{black}\\div \\color{maroon}6$.",
+        "images": null
+      },
+      {
+        "content": "The following expressions could represent the picture:\n\n-  $\\color{blue}30\\color{black}\\div \\color{green}5$ \n- $\\color{blue}30\\color{black}\\div \\color{maroon}6$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the picture shown below?**\n\n\n[[image 0]]\n\n[[image 1]]\n\n[[image 2]]\n\n[[image 3]]\n\n[[image 4]]\n\n\n\n\n",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/e57fccfb343e72b90c167bdfa52afcbe37b3d03d.svg",
+          "width": 100,
+          "height": 78
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/e57fccfb343e72b90c167bdfa52afcbe37b3d03d.svg",
+          "width": 100,
+          "height": 78
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/e57fccfb343e72b90c167bdfa52afcbe37b3d03d.svg",
+          "width": 100,
+          "height": 78
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/e57fccfb343e72b90c167bdfa52afcbe37b3d03d.svg",
+          "width": 100,
+          "height": 78
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/e57fccfb343e72b90c167bdfa52afcbe37b3d03d.svg",
+          "width": 100,
+          "height": 78
+        }
+      ]
+    },
+    "options": [
+      "$30 \\div 5$",
+      "$6 \\div 5$",
+      "$30 \\div 6$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$30 \\div 5$",
+      "$30 \\div 6$"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  }
+]

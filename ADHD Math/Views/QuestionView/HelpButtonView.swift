@@ -95,7 +95,7 @@ struct HelpButtonView: View {
 }
 
 #Preview {
-    let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "test", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .multipleChoice, correctAnswers: ["option 2"], videos: ["test"])
+    let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "noVideo", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .multipleChoice, correctAnswers: ["option 2"], videos: ["noVideo"])
     
     func noFunc() {
         print("display hint")

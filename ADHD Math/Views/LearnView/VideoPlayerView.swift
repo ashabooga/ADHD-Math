@@ -42,5 +42,5 @@ struct HintVideoPlayerView: View {
 }
 
 #Preview {
-    VideoPlayerView(videoURL: Bundle.main.url(forResource: "test", withExtension: "mp4")!)
+    VideoPlayerView(videoURL: Bundle.main.url(forResource: "noVideo", withExtension: "mp4")!)
 }

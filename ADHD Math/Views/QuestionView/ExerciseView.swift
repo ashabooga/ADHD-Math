@@ -20,7 +20,7 @@ struct ExerciseView: View {
     
     var body: some View {
         
-        let questions = exerciseViewModel.fetchQuestions(num: lesson.type == LessonType.quiz ? 3 : 7)
+        let questions = exerciseViewModel.fetchQuestions(num: lesson.type == LessonType.test ? 7 : 3)
         
         NavigationStack {
             ZStack {
@@ -53,7 +53,7 @@ struct ExerciseView: View {
     
     func incrementTabIndex() {
         withAnimation {
-            let numQuestions = lesson.type == LessonType.quiz ? 3 : 7
+            let numQuestions = lesson.type == LessonType.test ? 7 : 3
             
             if selectedTab == numQuestions + 1 {
                 if (Double(exerciseResults.filter{ $0 }.count) / Double(exerciseResults.count)) > 0.6 {
@@ -71,6 +71,6 @@ struct ExerciseView: View {
 
 
 #Preview {
-    ExerciseView(lesson: LessonModel(id: 0, displayTitle: "Practice", fileTitle: "example_lesson", type: .quiz, isCompleted: false))
+    ExerciseView(lesson: LessonModel(id: 0, displayTitle: "Practice", fileTitle: "example_lesson", type: .practice, isCompleted: false))
         .environmentObject(LessonViewModel())
 }

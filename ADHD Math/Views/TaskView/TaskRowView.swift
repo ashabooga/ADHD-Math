@@ -56,6 +56,8 @@ struct TaskRowView: View {
             output = "Test"
         case LessonType.video:
             output = "Video"
+        case .practice:
+            output = "Practice"
         case LessonType.unknown:
             output = "Unknown"
         }

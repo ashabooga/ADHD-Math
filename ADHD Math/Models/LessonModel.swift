@@ -4,6 +4,7 @@ public enum LessonType: String, Codable {
     case video = "video"
     case quiz = "quiz"
     case test = "test"
+    case practice = "practice"
     case unknown
 }
 

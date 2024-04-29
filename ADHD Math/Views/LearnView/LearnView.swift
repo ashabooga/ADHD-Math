@@ -33,7 +33,7 @@ struct LearnView: View {
                         
                         Spacer()
                     } else {
-                        Text("Video Not Found")
+                        Text("Video Not Found: \(lesson.fileTitle).mp4")
                     }
                 }
                 
@@ -45,6 +45,6 @@ struct LearnView: View {
 }
 
 #Preview {
-    LearnView(lesson: LessonModel(id: 0, displayTitle: "Example Video", fileTitle: "test", type: .video, isCompleted: false))
+    LearnView(lesson: LessonModel(id: 0, displayTitle: "Example Video", fileTitle: "5GOhM3jq9Fc", type: .video, isCompleted: false))
         .environmentObject(LessonViewModel())
 }
