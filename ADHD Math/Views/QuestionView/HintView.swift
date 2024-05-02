@@ -15,7 +15,7 @@ struct HintView: View {
     var hintAction: () -> Void
     
     var body: some View {
-        let url = Bundle.main.url(forResource: fileTitle, withExtension: "mp4")!
+        let url = Bundle.main.url(forResource: fileTitle, withExtension: "mp4") ?? Bundle.main.url(forResource: "noVideo", withExtension: "mp4")!
         
         NavigationStack {
             

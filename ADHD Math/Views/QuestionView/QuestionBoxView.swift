@@ -7,6 +7,7 @@ struct QuestionBoxView: View {
     let isTest: Bool
     @Binding var selectedAnswers: [String]
     @State var inputtedAnswer: String = ""
+    var isFocused: FocusState<Bool>.Binding
     
     var hintAction: () -> Void
     
@@ -24,7 +25,6 @@ struct QuestionBoxView: View {
                             Text($0)
                         }
                     }
-                    .contentShape(Rectangle()).gesture(DragGesture())
                     .pickerStyle(.wheel)
                     .frame(width: 300)
                     
@@ -35,13 +35,12 @@ struct QuestionBoxView: View {
                         .frame(width: 250)
                     
                 case QuestionType.number:
-//                    let _ = print("number!")
                     TextField("", text: $inputtedAnswer)
-                        .contentShape(Rectangle()).gesture(DragGesture())
                         .keyboardType(.numberPad)
                         .textFieldStyle(.roundedBorder)
                         .frame(width: 100)
                         .multilineTextAlignment(.center)
+                        .focused(isFocused)
                         .onChange(of: inputtedAnswer) {
                             selectedAnswers = [inputtedAnswer]
                         }
@@ -80,10 +79,11 @@ struct QuestionBoxView: View {
 #Preview {
     let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "noVideo", height: 100, width: 100)]), options: ["1", "2", "3"], questionType: .number, correctAnswers: ["option 2"], videos: ["noVideo"])
     @State var selectedAnswers: [String] = []
+    @FocusState var isFocused: Bool
     
     func noFunc() {
         print("display hint")
     }
     
-    return QuestionBoxView(question: question, isTest: false, selectedAnswers: $selectedAnswers, hintAction: { noFunc() })
+    return QuestionBoxView(question: question, isTest: false, selectedAnswers: $selectedAnswers, isFocused: $isFocused, hintAction: { noFunc() })
 }

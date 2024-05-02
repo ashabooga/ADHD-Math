@@ -6,6 +6,8 @@ struct ExerciseView: View {
     @State private var showingBreakSheet = false
     @State private var showingHintSheet = false
     
+    @State var scrollDown: Bool = false
+    
     @Environment(\.dismiss) var dismiss
     
     let lesson: LessonModel
@@ -59,7 +61,7 @@ struct ExerciseView: View {
                 if (Double(exerciseResults.filter{ $0 }.count) / Double(exerciseResults.count)) > 0.6 {
                     lessonViewModel.completeLesson(lesson: lesson)
                     
-                    print(exerciseResults)
+//                    print(exerciseResults)
                 }
                 dismiss()
             } else {

@@ -21,7 +21,7 @@ struct QuestionChoiceView: View {
                 .padding(10)
 
             viewForString(string: option, question: question)
-                .frame(maxWidth: 200)
+                .frame(maxWidth: 200, alignment: .leading)
             
             Spacer()
         }

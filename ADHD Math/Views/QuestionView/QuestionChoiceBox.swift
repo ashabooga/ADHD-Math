@@ -42,7 +42,7 @@ struct QuestionChoiceBox: View {
                         .frame(width: 30, height: 30)
                 } else {
                     Rectangle()
-                        .foregroundStyle(.white)
+                        .foregroundStyle(.background3Accent)
                         .frame(width: 30, height: 30)
                 }
             }
@@ -53,5 +53,5 @@ struct QuestionChoiceBox: View {
 #Preview {
     @State var selectedAnswers: [String] = ["Test"]
     
-    return QuestionChoiceBox(option: "test", selectedAnswers: $selectedAnswers, questionType: QuestionType.multipleChoice)
+    return QuestionChoiceBox(option: "Test", selectedAnswers: $selectedAnswers, questionType: QuestionType.multipleChoice)
 }
