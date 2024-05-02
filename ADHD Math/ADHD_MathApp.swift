@@ -11,7 +11,7 @@ import SwiftUI
 struct ADHD_MathApp: App {
     var body: some Scene {
         WindowGroup {
-            TaskView()
+            SplashScreen()
         }
     }
 }

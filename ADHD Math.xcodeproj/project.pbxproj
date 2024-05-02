@@ -12,7 +12,6 @@
 		04A102E52BD92316004BCD2D /* ExerciseStartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A102E42BD92316004BCD2D /* ExerciseStartView.swift */; };
 		04A6B48A2BD2ED2800A8C3F9 /* ExerciseEndView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A6B4892BD2ED2800A8C3F9 /* ExerciseEndView.swift */; };
 		04AA93AC2BCFEB4900618E3C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93992BCFEB4900618E3C /* Extensions.swift */; };
-		04AA93AD2BCFEB4900618E3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */; };
 		04AA93AE2BCFEB4900618E3C /* QuestionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939C2BCFEB4900618E3C /* QuestionModel.swift */; };
 		04AA93B02BCFEB4900618E3C /* LessonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA939E2BCFEB4900618E3C /* LessonModel.swift */; };
 		04AA93B12BCFEB4900618E3C /* LessonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93A02BCFEB4900618E3C /* LessonViewModel.swift */; };
@@ -37,7 +36,6 @@
 		04AA93DE2BD0072900618E3C /* ViewFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA93DD2BD0072800618E3C /* ViewFactory.swift */; };
 		04B4D21B2BCED4A4007538DB /* ADHD_MathApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B4D21A2BCED4A4007538DB /* ADHD_MathApp.swift */; };
 		04B4D21F2BCED4A6007538DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B4D21E2BCED4A6007538DB /* Assets.xcassets */; };
-		04B4D2222BCED4A6007538DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B4D2212BCED4A6007538DB /* Preview Assets.xcassets */; };
 		0E3C64092BE3A2DF002E83E5 /* TextFieldWithKeyboardObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3C64082BE3A2DF002E83E5 /* TextFieldWithKeyboardObserver.swift */; };
 		0E3C640C2BE3A314002E83E5 /* KeyboardManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3C640B2BE3A314002E83E5 /* KeyboardManager.swift */; };
 		0E3C65612BE3BE26002E83E5 /* 134969db805097e699cce9df2bbde61e728847e8.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E3C640D2BE3BE1E002E83E5 /* 134969db805097e699cce9df2bbde61e728847e8.png */; };
@@ -390,6 +388,7 @@
 		0E3C66C62BE3C20D002E83E5 /* qIAszZBV84s.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0E3C66BB2BE3BE34002E83E5 /* qIAszZBV84s.mp4 */; };
 		0E3C66C72BE3C20D002E83E5 /* QXNg_u5Tv8Q.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0E3C66BC2BE3BE34002E83E5 /* QXNg_u5Tv8Q.mp4 */; };
 		0E3C66C82BE3C20D002E83E5 /* vBWuQnmiY3k.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0E3C66BD2BE3BE34002E83E5 /* vBWuQnmiY3k.mp4 */; };
+		0E3C66CA2BE3D61F002E83E5 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3C66C92BE3D61F002E83E5 /* SplashScreen.swift */; };
 		0E895A142BE2A994007484CA /* unit_test.json in Resources */ = {isa = PBXBuildFile; fileRef = 0E8959FA2BE2A993007484CA /* unit_test.json */; };
 		0E895A152BE2A994007484CA /* quiz_5.json in Resources */ = {isa = PBXBuildFile; fileRef = 0E8959FB2BE2A993007484CA /* quiz_5.json */; };
 		0E895A162BE2A994007484CA /* fact_families.json in Resources */ = {isa = PBXBuildFile; fileRef = 0E8959FC2BE2A993007484CA /* fact_families.json */; };
@@ -425,7 +424,6 @@
 		04A102E42BD92316004BCD2D /* ExerciseStartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseStartView.swift; sourceTree = "<group>"; };
 		04A6B4892BD2ED2800A8C3F9 /* ExerciseEndView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseEndView.swift; sourceTree = "<group>"; };
 		04AA93992BCFEB4900618E3C /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		04AA939C2BCFEB4900618E3C /* QuestionModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionModel.swift; sourceTree = "<group>"; };
 		04AA939E2BCFEB4900618E3C /* LessonModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LessonModel.swift; sourceTree = "<group>"; };
 		04AA93A02BCFEB4900618E3C /* LessonViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LessonViewModel.swift; sourceTree = "<group>"; };
@@ -450,7 +448,6 @@
 		04B4D2172BCED4A4007538DB /* ADHD Math.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ADHD Math.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B4D21A2BCED4A4007538DB /* ADHD_MathApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADHD_MathApp.swift; sourceTree = "<group>"; };
 		04B4D21E2BCED4A6007538DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		04B4D2212BCED4A6007538DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0E3C64082BE3A2DF002E83E5 /* TextFieldWithKeyboardObserver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldWithKeyboardObserver.swift; sourceTree = "<group>"; };
 		0E3C640B2BE3A314002E83E5 /* KeyboardManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardManager.swift; sourceTree = "<group>"; };
 		0E3C640D2BE3BE1E002E83E5 /* 134969db805097e699cce9df2bbde61e728847e8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 134969db805097e699cce9df2bbde61e728847e8.png; sourceTree = "<group>"; };
@@ -803,6 +800,7 @@
 		0E3C66BC2BE3BE34002E83E5 /* QXNg_u5Tv8Q.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = QXNg_u5Tv8Q.mp4; sourceTree = "<group>"; };
 		0E3C66BD2BE3BE34002E83E5 /* vBWuQnmiY3k.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = vBWuQnmiY3k.mp4; sourceTree = "<group>"; };
 		0E3C66BE2BE3BE89002E83E5 /* ADHD-Math-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ADHD-Math-Info.plist"; sourceTree = "<group>"; };
+		0E3C66C92BE3D61F002E83E5 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		0E8959FA2BE2A993007484CA /* unit_test.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = unit_test.json; sourceTree = "<group>"; };
 		0E8959FB2BE2A993007484CA /* quiz_5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = quiz_5.json; sourceTree = "<group>"; };
 		0E8959FC2BE2A993007484CA /* fact_families.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = fact_families.json; sourceTree = "<group>"; };
@@ -1239,7 +1237,6 @@
 			isa = PBXGroup;
 			children = (
 				04AA93992BCFEB4900618E3C /* Extensions.swift */,
-				04AA939A2BCFEB4900618E3C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -1266,6 +1263,7 @@
 			isa = PBXGroup;
 			children = (
 				0E3C640A2BE3A300002E83E5 /* KeyboardViews */,
+				0E3C66C92BE3D61F002E83E5 /* SplashScreen.swift */,
 				04AA93DD2BD0072800618E3C /* ViewFactory.swift */,
 				04AA93CB2BCFF52200618E3C /* LearnView */,
 				04AA93BA2BCFF51900618E3C /* QuestionView */,
@@ -1366,17 +1364,8 @@
 				04AA93A32BCFEB4900618E3C /* Views */,
 				04B4D21A2BCED4A4007538DB /* ADHD_MathApp.swift */,
 				04B4D21E2BCED4A6007538DB /* Assets.xcassets */,
-				04B4D2202BCED4A6007538DB /* Preview Content */,
 			);
 			path = "ADHD Math";
-			sourceTree = "<group>";
-		};
-		04B4D2202BCED4A6007538DB /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				04B4D2212BCED4A6007538DB /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 		0E3C640A2BE3A300002E83E5 /* KeyboardViews */ = {
@@ -1615,7 +1604,6 @@
 				0E895A232BE2A994007484CA /* quiz_4.json in Resources */,
 				0E3C65AE2BE3BE26002E83E5 /* c5d920737842017d65c91f93451ff8e9da8d439b.png in Resources */,
 				0E3C668C2BE3BE26002E83E5 /* f510499b7dc80279ffa6e43fa4b03619aacbc1fc.png in Resources */,
-				04B4D2222BCED4A6007538DB /* Preview Assets.xcassets in Resources */,
 				0E3C66352BE3BE26002E83E5 /* 6b1e904a265b9831d9a6a469157a0bb864273559.png in Resources */,
 				0E3C65DD2BE3BE26002E83E5 /* 2479ed42ff108cdb4e7327271212040fc6d09525.png in Resources */,
 				0E3C66212BE3BE26002E83E5 /* 90483d9fea71232098e1bb5bea6300be33a3871b.png in Resources */,
@@ -1713,7 +1701,6 @@
 				0E3C65C02BE3BE26002E83E5 /* e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.png in Resources */,
 				0E3C664C2BE3BE26002E83E5 /* 1c2c2cbd30d61e2ce623b9aad3adbf8631e7abe6.png in Resources */,
 				0E3C66302BE3BE26002E83E5 /* 92f25a334f0be5522458928d8ccc498607c290e0.png in Resources */,
-				04AA93AD2BCFEB4900618E3C /* Preview Assets.xcassets in Resources */,
 				0E3C66382BE3BE26002E83E5 /* 95312b1be9d32fd8df9829782c17855d7d412db3.png in Resources */,
 				0E3C65742BE3BE26002E83E5 /* 07a6a0bfd43770b467a49f348569ba1a8e9a9a74.png in Resources */,
 				0E3C665E2BE3BE26002E83E5 /* fa796e8d5a16c5c47002fc89207dbe1816f8aa53.png in Resources */,
@@ -1852,6 +1839,7 @@
 				04AA93C62BCFF51900618E3C /* ExerciseView.swift in Sources */,
 				04A6B48A2BD2ED2800A8C3F9 /* ExerciseEndView.swift in Sources */,
 				04AA93B52BCFEB4900618E3C /* TaskRowView.swift in Sources */,
+				0E3C66CA2BE3D61F002E83E5 /* SplashScreen.swift in Sources */,
 				0468018E2BDA6FFB003EBDD8 /* QuestionAlertView.swift in Sources */,
 				04AA93DE2BD0072900618E3C /* ViewFactory.swift in Sources */,
 				04AA93B62BCFEB4900618E3C /* TaskView.swift in Sources */,
@@ -2010,7 +1998,6 @@
 				INFOPLIST_FILE = "ADHD-Math-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
@@ -2041,7 +2028,6 @@
 				INFOPLIST_FILE = "ADHD-Math-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
