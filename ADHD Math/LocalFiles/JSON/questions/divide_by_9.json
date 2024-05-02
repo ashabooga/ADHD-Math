@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}36\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/03a2074105d1c41791622944ebf1a6f880a57903.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}36\\color{black} \\div \\color{green}9\\color{black} = {4}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}36\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      4
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}18\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/025d7fbc7480b29108f0db0becf013a8eb5b6b54.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}18\\color{black} \\div \\color{green}9\\color{black} = {2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}18\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}9\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/6f97c155f867f7cf4b59bab2d137c863609cf76d.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}9\\color{black} \\div \\color{green}9\\color{black} = {1}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}9\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      1
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}63\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/d3b54f142fad307d4fbddfce19966bec4bcd022b.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}63\\color{black} \\div \\color{green}9\\color{black} = {7}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}63\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      7
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}27\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/74194ae335565dbb848c5b56b786b02c0ea14984.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}27\\color{black} \\div \\color{green}9\\color{black} = {3}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}27\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}90\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/c7e4b6fa5076750f25464705df6f5cc0f2461136.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}90\\color{black} \\div \\color{green}9\\color{black} = {10}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}90\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      10
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}54\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/4d9c6b9fd446bff9d459f7c5187c9f141f548804.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}54\\color{black} \\div \\color{green}9\\color{black} = {6}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}54\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      6
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}45\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/19d553c75b3cc60e7fded75c42b306fcb0b5520e.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}45\\color{black} \\div \\color{green}9\\color{black} = {5}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}45\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}72\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/afa5f54c2b6091ff6b48f2819859f2f40ea2e0ce.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}72\\color{black} \\div \\color{green}9\\color{black} = {8}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}72\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}81\\color{black}$ circles into $\\color{green}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/c475e82bfe0c75923775a860d2cc5dd85a33edc1.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}81\\color{black} \\div \\color{green}9\\color{black} = {9}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}81\\color{black} \\div \\color{green}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q"]
+  }
+]

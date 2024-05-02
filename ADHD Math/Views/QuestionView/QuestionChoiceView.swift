@@ -21,15 +21,17 @@ struct QuestionChoiceView: View {
                 .padding(10)
 
             viewForString(string: option, question: question)
+                .frame(maxWidth: 200)
             
             Spacer()
         }
+        .frame(width: 300)
     }
 }
 
 #Preview {
-    let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image]]", images: [ImageModel(url: "noVideo", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .multipleChoice, correctAnswers: ["option 2"], videos: ["noVideo"])
+    let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "\\blue\\square\\times 7~&=63", images: [ImageModel(url: "noVideo", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .multipleChoice, correctAnswers: ["option 2"], videos: ["noVideo"])
     @State var selectedAnswers: [String] = [""]
     
-    return QuestionChoiceView(option: "$\\color{green}36\\color{black} \\div \\color{purple}9$ equals $\\color{green}36\\color{black}$ total dots split into rows of $\\color{purple}9$.", isSelected: false, selectedAnswers: $selectedAnswers, question: question)
+    return QuestionChoiceView(option: "$\\color{blue}{30}\\div\\color{green}10\\color{black}=\\color{red}{?}\\color{black}$", isSelected: false, selectedAnswers: $selectedAnswers, question: question)
 }

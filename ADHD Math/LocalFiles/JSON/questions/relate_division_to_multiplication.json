@@ -1,0 +1,260 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "To help us solve a division problem, we can rewrite it as a multiplication problem:$\\color{blue}\\square\\color{black} \\div 7= 7$ $~~$ because  $~~$ $7\\times7=\\color{blue}\\square\\color{black}$.",
+        "images": null
+      },
+      {
+        "content": "$\\color{blue}{49}\\color{black} \\div 7= 7$ $~~$ because  $~~$ $7\\times7=\\color{blue}{49}\\color{black}$.",
+        "images": null
+      },
+      {
+        "content": "$7\\times7=\\color{blue}\\square\\color{black}$ can help us find the unknown number  in $\\color{blue}\\square\\color{black} \\div 7= 7$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equation can help us find the unknown number in $\\color{blue}\\square\\color{black} \\div 7= 7~?$**\n",
+      "images": null
+    },
+    "options": [
+      "$7 \\div 7 = \\color{blue}\\square\\color{black}$",
+      "$7 \\times 7 = \\color{blue}\\square\\color{black}$",
+      "$7\\div \\color{blue}\\square\\color{black} = 7$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$7 \\times 7 = \\color{blue}\\square\\color{black}$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{green}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In ${\\color{green}4}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{maroon}{9}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}4\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9}\\color{black}$.[Tape diagram showing question mark is equal to 4 equal groups of 9][[https://cdn.kastatic.org/ka-perseus-graphie/cbd6b25fd98290ea45963548600d23f1bbbf8b16.svg]]The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
+        "images": null
+      },
+      {
+        "content": "Kiley can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}4\\color{black} \\times \\color{maroon}{9}\\color{black}$\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9} \\times \\color{green}{4}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Kiley wants to use multiplication to solve $4 = {?} \\div 9$.**Which two multiplication equations can Kiley use?**",
+      "images": null
+    },
+    "options": [
+      "${?} = 4 \\times 9$",
+      "${?} = 9 \\times 4$",
+      "$9 = {?} \\times 4$",
+      "$4 = {?} \\times 9$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "${?} = 4 \\times 9$",
+      "${?} = 9 \\times 4$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{green}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}9\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}8}\\color{black}$.[Tape diagram showing question mark is equal to 9 equal groups of 8][[https://cdn.kastatic.org/ka-perseus-graphie/9633294bf38711b44854aa315c1fe1e7e508d072.svg]]The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
+        "images": null
+      },
+      {
+        "content": "The equation $\\color{purple}{?}\\color{black} = \\color{green}9\\color{black} \\times {\\color{maroon}8}\\color{black}$ can help us find the unknown number.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Create an equation to help us find the unknown number in ${?} \\div 9 = 8$ .** $= 9\\times{}$",
+      "images": null
+    },
+    "options": [
+      "9",
+      "8",
+      "?",
+      "9",
+      "8",
+      "?"
+    ],
+    "questionType": "dropdown",
+    "correctAnswers": [
+      "8",
+      "?"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{green}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In ${\\color{maroon}9}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{green}{6}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}6\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9}\\color{black}$.[Tape diagram showing question mark is equal to 6 equal groups of 9][[https://cdn.kastatic.org/ka-perseus-graphie/d7c2700709200e98cc30f84e8ca6e17aa1cc6bb7.svg]]The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
+        "images": null
+      },
+      {
+        "content": "Tony can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}6\\color{black} \\times \\color{maroon}{9}\\color{black} $\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9} \\times \\color{green}{6}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Tony wants to use multiplication to solve $9 = {?} \\div 6$.**Which two multiplication equations can Tony use?**",
+      "images": null
+    },
+    "options": [
+      "${?} = 6 \\times 9$",
+      "${?} = 9 \\times 6$",
+      "$9 = 6 \\times {?}$",
+      "$6 = 9 \\times {?}$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "${?} = 6 \\times 9$",
+      "${?} = 9 \\times 6$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "To help us solve a division problem, we can rewrite it as a multiplication problem:$21\\div\\color{blue}\\blacklozenge\\color{black} = 7$ $~~$ because  $~~$ $\\color{blue}\\blacklozenge\\color{black}\\times7=21$.",
+        "images": null
+      },
+      {
+        "content": "$21\\div\\color{blue}3 = 7$ $~~$ because  $~~$ $\\color{blue}3\\times7=21$.",
+        "images": null
+      },
+      {
+        "content": "$\\color{blue}\\blacklozenge\\color{black} \\times 7 = 21$ can help us find the unknown number in $21 \\div \\color{blue}\\blacklozenge\\color{black}= 7.$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equation can help us find the unknown number in $21 \\div \\color{blue}\\blacklozenge\\color{black}= 7~?$**\n",
+      "images": null
+    },
+    "options": [
+      "$\\color{blue}\\blacklozenge\\color{black} \\div 7= 21$",
+      "$\\color{blue}\\blacklozenge\\color{black} \\times 7= 21$",
+      "$\\color{blue}\\blacklozenge\\color{black} \\times 21 = 7$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$\\color{blue}\\blacklozenge\\color{black} \\times 7= 21$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "To help us solve a division problem, we can rewrite it as a multiplication problem:$\\color{blue}\\square\\color{black} \\div 7= 7$ $~~$ because  $~~$ $7\\times7=\\color{blue}\\square\\color{black}$.",
+        "images": null
+      },
+      {
+        "content": "$\\color{blue}{49}\\color{black} \\div 7= 7$ $~~$ because  $~~$ $7\\times7=\\color{blue}{49}\\color{black}$.",
+        "images": null
+      },
+      {
+        "content": "$7\\times7=\\color{blue}\\square\\color{black}$ can help us find the unknown number  in $\\color{blue}\\square\\color{black} \\div 7= 7$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equation can help us find the unknown number in $\\color{blue}\\square\\color{black} \\div 7= 7~?$**\n",
+      "images": null
+    },
+    "options": [
+      "$7 \\div 7 = \\color{blue}\\square\\color{black}$",
+      "$7 \\times 7 = \\color{blue}\\square\\color{black}$",
+      "$7\\div \\color{blue}\\square\\color{black} = 7$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$7 \\times 7 = \\color{blue}\\square\\color{black}$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "To help us solve a division problem, we can rewrite it as a multiplication problem:$63\\div\\color{blue}\\square\\color{black} = 7$ $~~$ because  $~~$ $\\color{blue}\\square\\color{black}\\times7=63$.",
+        "images": null
+      },
+      {
+        "content": "$63\\div\\color{blue}9\\color{black} = 7$ $~~$ because  $~~$ $\\color{blue}9\\color{black}\\times7=63$.",
+        "images": null
+      },
+      {
+        "content": "$\\color{blue}\\square\\color{black} \\times 7 = 63$ can help us find the unknown number  in $63 \\div \\color{blue}\\square\\color{black}= 7$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equation can help us find the unknown number in $63 \\div \\color{blue}\\square\\color{black}= 7~?$**\n",
+      "images": null
+    },
+    "options": [
+      "$7 \\div 63 = \\color{blue}\\square\\color{black}$",
+      "$\\color{blue}\\square\\color{black} \\times 7 = 63$",
+      "$\\color{blue}\\square\\color{black} \\times 63 = 7$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$\\color{blue}\\square\\color{black} \\times 7 = 63$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{green}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In ${\\color{green}4}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{maroon}{9}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}4\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9}\\color{black}$.[Tape diagram showing question mark is equal to 4 equal groups of 9][[https://cdn.kastatic.org/ka-perseus-graphie/cbd6b25fd98290ea45963548600d23f1bbbf8b16.svg]]The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
+        "images": null
+      },
+      {
+        "content": "Kiley can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}4\\color{black} \\times \\color{maroon}{9}\\color{black}$\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9} \\times \\color{green}{4}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Kiley wants to use multiplication to solve $4 = {?} \\div 9$.**Which two multiplication equations can Kiley use?**",
+      "images": null
+    },
+    "options": [
+      "${?} = 4 \\times 9$",
+      "${?} = 9 \\times 4$",
+      "$9 = {?} \\times 4$",
+      "$4 = {?} \\times 9$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "${?} = 4 \\times 9$",
+      "${?} = 9 \\times 4$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "We can relate the image to multiplication and division:\n$\\color{color{blue}}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{color{blue}}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "The image has $\\color{green}30\\color{black}$ total cheese triangles.[[image 0]]They are in $\\color{blue}D6$ groups of $\\color{purple}5$ cheese triangles.",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/7115fe2045a25cf9ff3661f4e3f505d1b97f3129.svg",
+            "width": 320,
+            "height": 302
+          }
+        ]
+      },
+      {
+        "content": "\n$\\color{blue}D6\\text{ groups}\\times ~\\color{purple}5\\text{  in each group}= \\color{green}30\\color{black}\\text{ total}$\n$\\color{green}30\\color{black}\\text{ total }\\div ~\\color{purple}5\\text{ in each group}= \\color{blue}D6\\text{ groups}$\n",
+        "images": null
+      },
+      {
+        "content": "Here is the completed table: | | | | |\n:-: | :-: | :-: | :-: | :-:\n$\\color{blue}D6$| $\\times$| $\\fbox{\\color{purple}5}$ | $=$ | $\\color{green}30\\color{black}$\n$\\color{green}30\\color{black}$ |$\\div$ | $\\fbox{\\color{purple}5}$ | $=$ | $\\color{blue}D6$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Fill in the blanks to complete the table.**  \n*Hint: Use the image to help you solve.* | | | | |\n:-: | :-: | :-: | :-: | :-:\n$6$| $\\times$ | [[input-number 2]]|$=$ | $30$\n$30$ | $\\div$ |  [[input-number 5]]  | $=$ | $6$[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/2c3f27003fd07e2d6937ac8f2a6ea0837f12e009.svg",
+          "width": 318,
+          "height": 320
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "",
+    "correctAnswers": [],
+    "videos": []
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{color{blue}}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{color{blue}}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "How many groups of $\\color{purple}5$ do we need to make a total of $\\color{green}35\\color{black}$?",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}D7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{color{blue}}7}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
+        "images": null
+      },
+      {
+        "content": "\n$\\color{blue}D7\\times 5~=35$\n$35\\div\\color{blue}D7=5$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$\\blue\\square\\times 5~=35$\n$35\\div\\blue\\square = 5$\n",
+      "images": null
+    },
+    "options": [
+      "$5$",
+      "$6$",
+      "$7$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$7$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{color{blue}}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{color{blue}}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{color{blue}}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{color{blue}}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}15\\color{black}$.The $\\color{color{blue}}\\text{number of the groups}\\color{black}$ is $\\color{blue}E5$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}3$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/3e8e9159337ef2d870aaeeba3f2c215d248b4c4e.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "So,\n$\\color{purple}15\\color{black} = \\color{maroon}3\\color{black} \\times \\color{color{blue}}5\\color{black}$\n$\\color{purple}15\\color{black}\\div\\color{color{blue}}5}=\\color{maroon}3}$\n",
+        "images": null
+      },
+      {
+        "content": "These number sentences show the same relationship:-  $15 = 3\\times5$\n- $15\\div5=3$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations show the same relationship as $5\\times3=15$?**",
+      "images": null
+    },
+    "options": [
+      "$15= 3\\times5$",
+      "$15\\div5=3$",
+      "$15 = 5 \\div 3$",
+      "$15 \\times 5=3$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$15= 3\\times5$",
+      "$15\\div5=3$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "There are $\\color{color{blue}}7\\color{black}$ rows.They are $\\color{green}42\\color{black}$ total bricks.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/9b01f3d73ba306f2d0136fbca512043e2fe2d3e0.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{color{blue}}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\text{ total}\\color{black}$So, $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}} = \\color{green}42}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}42\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many bricks are in each row are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}42\\color{black}$\n - $\\color{green}42\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Ella has built $7$ rows of the chimney for her house. She has used $42$ bricks. Each row has the same number of bricks.**Which equations would help us find out how many bricks are in each row?**",
+      "images": null
+    },
+    "options": [
+      "$42\\times\\,?=7$",
+      "$7\\times\\,?=42$",
+      "$42\\div7=\\,?$",
+      "$7\\div42=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$7\\times\\,?=42$",
+      "$42\\div7=\\,?$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "There are $\\color{color{blue}}4\\color{black}$ friends.They got $\\color{green}12\\color{black}$ total carrots.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/c976d5d8464a9ee66c2e8144093135f98989fa98.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{color{blue}}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\text{ total}\\color{black}$So, $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}} = \\color{green}12}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}12\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many carrots Rhonda Rabbit gave each friend are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}12\\color{black}$\n - $\\color{green}12\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Rhonda Rabbit found $12$ carrots to give to her $4$ friends.  She gave each friend the same number of carrots. **Which equations would help us find out how many carrots Rhonda Rabbit gave to each friend?**",
+      "images": null
+    },
+    "options": [
+      "$4\\times\\,?=12$",
+      "$4\\times12=\\,?$",
+      "$12\\div4=\\,?$",
+      "$4\\div12=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$4\\times\\,?=12$",
+      "$12\\div4=\\,?$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black}$\nSo, $\\color{green}9\\color{black}\\times\\color{maroon}6} = \\color{purple}54}$ is one way to represent this image.",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}54\\color{black}$.The $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}9$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}6$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/43e373f5ad98adedd468b81528caf5a71a250797.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}54\\color{black} \\div \\color{green}9} = \\color{maroon}6}$ is another way to represent this image.\n",
+        "images": null
+      },
+      {
+        "content": "\nMultiplication: $\\color{green}9\\color{black}\\times\\color{maroon}6\\color{black}=\\color{purple}54\\color{black}$Division: $\\color{purple}54\\color{black} \\div \\color{green}9} = \\color{maroon}6}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations can the tape diagram represent?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/43e373f5ad98adedd468b81528caf5a71a250797.svg",
+          "width": 320,
+          "height": 128
+        }
+      ]
+    },
+    "options": [
+      "$6\\times9=54$",
+      "$54\\div6=9$",
+      "$9\\div6=54$",
+      "$54\\times6=9$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$6\\times9=54$",
+      "$54\\div6=9$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{color{blue}}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{color{blue}}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "If we have $\\color{blue}D6$ groups, how many would need to be in each group to make a total of $\\color{green}30\\color{black}$? ",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}D6$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+\\color{purple}5\\color{black} + \\color{purple}5\\color{black}\\color{black}_{\\color{color{blue}}6}\\color{purple}\\text{ fives}}} = \\color{green}30}$",
+        "images": null
+      },
+      {
+        "content": "\n$6\\times  \\color{purple}5~=30$\n$30\\div6=\\color{purple}5$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$6\\times  \\blue\\square~=30$\n$30\\div6=\\blue\\square$\n",
+      "images": null
+    },
+    "options": [
+      "$4$",
+      "$5$",
+      "$6$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$5$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "Each row has $\\color{purple}4$ plants.There are $\\color{green}16\\color{black}$ total plants.[[image 0]]How many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b4adcb3d4533e5b62df8e2f55bb931318b174efa.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{purple}\\text{size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$So, $\\color{purple}4\\times\\color{color{blue}}\\text{?}} = \\color{green}16}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the groups}\\color{black}=\\color{color{blue}}\\text{ number of groups}\\color{black} $So, $\\color{green}16\\color{black}\\div \\color{purple}4=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many rows of tomato plants Olivia planted are: - $\\color{purple}4\\times\\color{color{blue}}\\text{?}\\color{black} = \\color{green}16\\color{black}$ \n - $\\color{green}16\\color{black}\\div \\color{purple}4=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Olivia planted $16$ tomato plants in rows in her new garden.  She planted $4$ plants in each row.  **Which equations would help us find out how many rows of tomato plants Olivia planted?**",
+      "images": null
+    },
+    "options": [
+      "$4\\times \\,?=16$",
+      "$4\\times16=\\,?$  ",
+      "$16\\div4=\\,?$",
+      "$4\\div16=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$4\\times \\,?=16$",
+      "$16\\div4=\\,?$"
+    ],
+    "videos": []
+  }
+]

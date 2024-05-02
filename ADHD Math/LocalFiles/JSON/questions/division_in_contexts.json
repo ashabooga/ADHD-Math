@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}20\\color{black}$ flowers total.And we know the $\\color{blue}\\text{number of groups}\\color{black}$:There are $\\color{blue}4$ vases.",
+        "images": null
+      },
+      {
+        "content": "Let's put those numbers in the equation.\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}20\\color{black}\\div\\color{blue}4\\color{black}=\\color{purple}\\text{ Size of the groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "The quotient will tell us the $\\color{purple}\\text{size of the groups}\\color{black}$.In this problem, the $\\color{purple}\\text{size of the groups}\\color{black}$ is the $\\color{purple}\\text{number of flowers in each vase}}$.",
+        "images": null
+      },
+      {
+        "content": "The quotient tells us the $\\color{purple}\\text{number of flowers in each vase}\\color{black}$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $20$ flowers. We want to divide them equally into $4$ vases. **What does the expression $20\\div 4$ represent?**",
+      "images": null
+    },
+    "options": [
+      "Total number of flowers",
+      "Number of vases",
+      "Number of flowers in each vase"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Number of flowers in each vase"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "The expression $\\color{green}60\\color{black}\\div\\color{purple}6$ can represent $\\color{green}60\\color{black}$ total items split evenly into groups of $\\color{purple}6$.Which problem wants to split $\\color{green}60\\color{black}$ into groups of $\\color{purple}6$?",
+        "images": null
+      },
+      {
+        "content": "###Millersburg bakeryWe want to find out how many bags of sugar are left, so we subtract $\\color{green}60\\color{black} - \\color{maroon}6$.$\\color{green}60\\color{black}\\div\\color{purple}6$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###JewelerWe want to find out how many gems there are, so we add $\\color{green}60\\color{black} + \\color{maroon}6$.$\\color{green}60\\color{black}\\div\\color{purple}6$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###BillyWe want to split the $\\color{green}60\\color{black}$ bikes evenly into groups of $\\color{purple}6$. So, we divide $\\color{green}60\\color{black}\\div\\color{purple}6$.$\\color{green}60\\color{black}\\div\\color{purple}6$ helps us solve this problem",
+        "images": null
+      },
+      {
+        "content": "The expression $\\color{green}60\\color{black}\\div\\color{purple}6$ can solve the following context:- There are $60$ bikes parked in the bike racks at Billy's school. If there are $6$ bikes parked at each bike rack, how many bike racks are there?\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which problem can we solve with $60\\div6$?**",
+      "images": null
+    },
+    "options": [
+      "There are $60$ bikes parked in the bike racks at Billy's school. If there are $6$ bikes parked at each bike rack, how many bike racks are there?",
+      "The Millersburg bakery had $60$ bags of sugar. They used $6$ bags of sugar to make some oatmeal cookies. How many bags of sugar are left?",
+      "A jeweler had $60$ gems. She bought $6$ more at an auction. How many gems does she have now?"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "There are $60$ bikes parked in the bike racks at Billy's school. If there are $6$ bikes parked at each bike rack, how many bike racks are there?"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "The expression $\\color{green}63\\color{black}\\div\\color{purple}9$ can represent $\\color{green}63\\color{black}$ total items split evenly into groups of $\\color{purple}9$.Which problem wants to split $\\color{green}63\\color{black}$ into groups of $\\color{purple}9$?",
+        "images": null
+      },
+      {
+        "content": "###JessicaWe want to find out how many pieces of pizza are left, so we subtract $\\color{green}63\\color{black} - \\color{maroon}9$.$\\color{green}63\\color{black}\\div\\color{purple}9$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###TimWe want to find out how many scissors there are, so we add $\\color{green}63\\color{black} + \\color{maroon}9$.$\\color{green}63\\color{black}\\div\\color{purple}9$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###TatsuWe want to split the $\\color{green}63\\color{black}$ lemons evenly into groups of $\\color{purple}9$. So, we divide $\\color{green}63\\color{black}\\div\\color{purple}9$.$\\color{green}63\\color{black}\\div\\color{purple}9$ helps us solve this problem",
+        "images": null
+      },
+      {
+        "content": "The expression $\\color{green}63\\color{black}\\div\\color{purple}9$ can solve the following context:- Tatsu needs $9$ lemons to make a pitcher of lemonade. If Tatsu has $63$ lemons, how many pitchers of lemonade can he make?",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which problem can we solve with $63\\div9$?**",
+      "images": null
+    },
+    "options": [
+      "Tatsu needs $9$ lemons to make a pitcher of lemonade. If Tatsu has $63$ lemons, how many pitchers of lemonade can he make?",
+      "There are $63$ scissors in the drawer. Tim placed $9$ more scissors in the drawer. How many scissors are there in total?",
+      "Jessica has $63$ pieces of pizza. She ate $9$ pieces with her friends. How many pieces of pizza does she have left?"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Tatsu needs $9$ lemons to make a pitcher of lemonade. If Tatsu has $63$ lemons, how many pitchers of lemonade can he make?"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}25\\color{black}$ beads total.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}5$ beads in each necklace.",
+        "images": null
+      },
+      {
+        "content": "To find out how many necklaces Katie can make, we can divide $\\color{green}25\\color{black}$ beads into groups of $\\color{purple}5$.$\\color{green}25\\color{black}\\div\\color{purple}5$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Katie is making necklaces. Each necklace uses $5$ beads.  She has $25$ beads in total. **Which expression helps us find out how many necklaces Katie can make?**\n",
+      "images": null
+    },
+    "options": [
+      "$5\\div25$",
+      "$25\\div5$",
+      "$25\\div7$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$25\\div5$"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}56\\color{black}$ hotel rooms.And we know the $\\color{blue}\\text{number of groups}\\color{black}$:There are $\\color{blue}7$ floors.",
+        "images": null
+      },
+      {
+        "content": "Let's put those numbers in the equation.\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}56\\color{black}\\div\\color{blue}7\\color{black}=\\color{purple}\\text{ Size of the groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "The quotient will tell us the $\\color{purple}\\text{size of the groups}\\color{black}$.In this problem, the $\\color{purple}\\text{size of the groups}\\color{black}$ is the $\\color{purple}\\text{number of rooms on each floor}}$.",
+        "images": null
+      },
+      {
+        "content": "The quotient tells us the $\\color{purple}\\text{number of rooms on each floor}\\color{black}$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $56$ rooms in a hotel split evenly between $7$ floors.**What does the expression $56\\div7$ represent?**",
+      "images": null
+    },
+    "options": [
+      "Total number of rooms",
+      "Number of floors",
+      "Number of rooms on each floor"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Number of rooms on each floor"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}42\\color{black}$ pictures total.And we know the $\\color{blue}\\text{number of groups}\\color{black}$:There are $\\color{blue}7$ albums.",
+        "images": null
+      },
+      {
+        "content": "To find out how many pictures are in each album, we can divide the $\\color{green}42\\color{black}$ pictures into $\\color{blue}7$ groups.$\\color{green}42\\color{black}\\div\\color{blue}7$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Janet has $7$ albums. She divides $42$ pictures evenly between the albums.**Which expression helps us find out how many pictures are in each album?**\n",
+      "images": null
+    },
+    "options": [
+      "$7\\div42$",
+      "$42\\div7$",
+      "$42\\div3$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$42\\div7$"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "The expression $\\color{green}64\\color{black}\\div\\color{blue}8$ can represent $\\color{green}64\\color{black}$ total items split evenly into $\\color{blue}8$ groups.Which problem wants to split $\\color{green}64\\color{black}$ into $\\color{blue}8$ equal groups?",
+        "images": null
+      },
+      {
+        "content": "###MollyWe want to find out how many jellybeans are left, so we subtract $\\color{green}64\\color{black} - \\color{maroon}8$.$\\color{green}64\\color{black}\\div\\color{blue}8$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###DarylWe want to find out how many pencils there are, so we multiply $\\color{green}64\\color{black} \\times \\color{maroon}8$.$\\color{green}64\\color{black}\\div\\color{blue}8$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###MarcoWe want to split the $\\color{green}64\\color{black}$ toys cars evenly into $\\color{blue}8$ groups.  So, we divide $\\color{green}64\\color{black}\\div\\color{blue}8$.$\\color{green}64\\color{black}\\div\\color{blue}8$ helps us solve this problem",
+        "images": null
+      },
+      {
+        "content": "The expression $\\color{green}64\\color{black}\\div\\color{blue}8$ can solve the following context:- Marco has $64$ toy cars. He divides them into $8$ equal groups. How many cars are in each group?\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which problem can we solve with $64\\div8$?**",
+      "images": null
+    },
+    "options": [
+      "Marco has $64$ toy cars. He divides them into $8$ equal groups. How many cars are in each group?",
+      "Molly has $64$ jellybeans. She eats $8$ of them. How many jellybeans does she have left?",
+      "Daryl has $8$ bins of pencils. There are $64$ pencils in each bin. How many pencils does Daryl have in all?"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Marco has $64$ toy cars. He divides them into $8$ equal groups. How many cars are in each group?"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}54\\color{black}$ students total.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}9$ students in each group.",
+        "images": null
+      },
+      {
+        "content": "To find out how many groups of students there are, we can divide the $\\color{green}54\\color{black}$ students into groups of $\\color{purple}9$.$\\color{green}54\\color{black}\\div\\color{purple}9$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "For a field trip, $54$ students will be split evenly into groups of $9$. **Which expression helps us find out how many groups of students will be on the field trip?**\n",
+      "images": null
+    },
+    "options": [
+      "$54\\div8$",
+      "$54\\div9$",
+      "$9\\div54$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$54\\div9$"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}12\\color{black}$ cookies total.And we know the $\\color{blue}\\text{number of groups}\\color{black}$:There are $\\color{blue}3$ friends.",
+        "images": null
+      },
+      {
+        "content": "To find out how many cookies each friend will receive, we can divide $\\color{green}12\\color{black}$ cookies into $\\color{blue}3$ groups.$\\color{green}12\\color{black}\\div\\color{blue}3$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Alex, Brian, and Marta split a box of $12$ cookies evenly.**Which expression helps us find out how many cookies each friend will receive?**\n",
+      "images": null
+    },
+    "options": [
+      "$12\\div2$",
+      "$12\\div3$",
+      "$3\\div12$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$12\\div3$"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}40\\color{black}$ pieces of candy.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}5}$ pieces of candy per bag.",
+        "images": null
+      },
+      {
+        "content": "Let's put those numbers in the equation.\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}\\color{black}$\n$\\color{green}40\\color{black}\\div\\color{purple}5\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "The quotient will tell us the $\\color{blue}\\text{number of groups}\\color{black}$.In this problem, the $\\color{blue}\\text{number of groups}\\color{black}$ is the $\\color{blue}\\text{number of bags}}$.",
+        "images": null
+      },
+      {
+        "content": "The quotient tells us the $\\color{blue}\\text{number of bags}\\color{black}$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Annie has $40$ pieces of candy divided into bags of $5$.**What does the expression $40\\div5$ represent?**",
+      "images": null
+    },
+    "options": [
+      "Total candy pieces",
+      "Number of bags",
+      "Number of candy pieces in each bag"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Number of bags"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 11,
+    "hints": [
+      {
+        "content": "The expression $\\color{green}27\\color{black}\\div\\color{blue}3$ can represent $\\color{green}27\\color{black}$ total items split evenly into $\\color{blue}3$ groups.Which problem wants to split $\\color{green}27\\color{black}$ into $\\color{blue}3$ equal groups?",
+        "images": null
+      },
+      {
+        "content": "###GinoWe want to find out how many walnut trees are left, so we subtract $\\color{green}27\\color{black} - \\color{maroon}3$.$\\color{green}27\\color{black}\\div\\color{blue}3$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###LindseyWe want to find out how many apples there are, so we multiply $\\color{green}27\\color{black} \\times \\color{maroon}3$.$\\color{green}27\\color{black}\\div\\color{blue}3$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###LaTashaWe want to split the $\\color{green}27\\color{black}$ stickers evenly onto $\\color{blue}3$ pieces of paper.  So, we divide $\\color{green}27\\color{black}\\div\\color{blue}3$.$\\color{green}27\\color{black}\\div\\color{blue}3$ helps us solve this problem",
+        "images": null
+      },
+      {
+        "content": "The expression $\\color{green}27\\color{black}\\div\\color{blue}3$ can solve the following context:- LaTasha has $27$ rabbit stickers. She splits the stickers evenly among $3$ pieces of paper. How many stickers did LaTasha put on each piece of paper?\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which problem can we solve with $27\\div3$?**",
+      "images": null
+    },
+    "options": [
+      "LaTasha has $27$ rabbit stickers. She splits the stickers evenly among $3$ pieces of paper. How many stickers did LaTasha put on each piece of paper?",
+      "Gino had $27$ walnut trees in his yard. He cut $3$ down to use for firewood. How many walnut trees does Gino have left?",
+      "Lindsey picked $3$ bags of apples. There are $27$ apples in each bag. How many apples does she have in total?"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "LaTasha has $27$ rabbit stickers. She splits the stickers evenly among $3$ pieces of paper. How many stickers did LaTasha put on each piece of paper?"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 12,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}24\\color{black}$ lemons.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}6}$ lemons per jar.",
+        "images": null
+      },
+      {
+        "content": "Let's put those numbers in the equation.\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}\\color{black}$\n$\\color{green}24\\color{black}\\div\\color{purple}6\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "The quotient will tell us the $\\color{blue}\\text{number of groups}\\color{black}$.In this problem, the $\\color{blue}\\text{number of groups}\\color{black}$ is the $\\color{blue}\\text{number of jars}}$.",
+        "images": null
+      },
+      {
+        "content": "The quotient tells us the $\\color{blue}\\text{number of jars}\\color{black}$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Clayton has $24$ lemons. He puts them into jars with $6$ lemons each.**What does the expression $24\\div6$ represent?**",
+      "images": null
+    },
+    "options": [
+      "Total number of lemons",
+      "Number of jars",
+      "Number of lemons per jar"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Number of jars"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 13,
+    "hints": [
+      {
+        "content": "The expression $\\color{green}42\\color{black}\\div\\color{blue}7$ can represent $\\color{green}42\\color{black}$ total items split evenly into $\\color{blue}7$ groups.Which problem wants to split $\\color{green}42\\color{black}$ into $\\color{blue}7$ equal groups?",
+        "images": null
+      },
+      {
+        "content": "###StevenWe want to find out how many candy bars are left, so we subtract $\\color{green}42\\color{black} - \\color{maroon}7$.$\\color{green}42\\color{black}\\div\\color{blue}7$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###JulieWe want to find out how many jellybeans there are, so we multiply $\\color{blue}7\\color{black} \\times \\color{maroon}42\\color{black}$.$\\color{green}42\\color{black}\\div\\color{blue}7$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###LeslieWe want to split the $\\color{green}42\\color{black}$ minutes evenly over $\\color{blue}7$ days.  So, we divide $\\color{green}42\\color{black}\\div\\color{blue}7$.$\\color{green}42\\color{black}\\div\\color{blue}7$ helps us solve this problem",
+        "images": null
+      },
+      {
+        "content": "The expression $\\color{green}42\\color{black}\\div\\color{blue}7$ can solve the following context:- Leslie ran for 42 minutes total over one week. If she ran the same number of minutes each day, how many minutes did Leslie run in one day?\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which problem can we solve with $42\\div7$?**",
+      "images": null
+    },
+    "options": [
+      "Leslie ran for $42$ minutes total in one week. If she ran the same number of minutes each day, how many minutes did Leslie run in one day?",
+      "Steven packed $42$ candy bars in his bag. He gave $7$ of them away to his friends. How many candy bars does Steven have left?",
+      "Julie had $7$ bags of jellybeans. There are $42$ jellybeans in each bag. How many jellybeans does Julie have?"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Leslie ran for $42$ minutes total in one week. If she ran the same number of minutes each day, how many minutes did Leslie run in one day?"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 14,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}30\\color{black}$ books total.And we know the $\\color{blue}\\text{number of groups}\\color{black}$:There are $\\color{blue}6$ boxes.",
+        "images": null
+      },
+      {
+        "content": "To find out how many books are in each box, we can divide the $\\color{green}30\\color{black}$ books into $\\color{blue}6$ groups.$\\color{green}30\\color{black}\\div\\color{blue}6$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Tom has $30$ books divided evenly into $6$ boxes.**Which expression helps us find out how many books are in each box?**\n",
+      "images": null
+    },
+    "options": [
+      "$6\\div30$",
+      "$30\\div6$",
+      "$30\\div2$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$30\\div6$"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 15,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}16\\color{black}$ video games total.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}4$ games per stack.",
+        "images": null
+      },
+      {
+        "content": "To find out how many stacks there are, we can divide $\\color{green}16\\color{black}$ video games into groups of $\\color{purple}4$.$\\color{green}16\\color{black}\\div\\color{purple}4$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Amy has $16$ video games. She puts them into stacks of $4$ games each.**Which expression helps us find out how many stacks of games there are?**\n",
+      "images": null
+    },
+    "options": [
+      "$4\\div16$",
+      "$16\\div4$",
+      "$16\\div8$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$16\\div4$"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  },
+  {
+    "id": 16,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\text{ Number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}12\\color{black}$ ice cubes.And we know the $\\color{blue}\\text{number of groups}\\color{black}$:There are $\\color{blue}2$ cups.",
+        "images": null
+      },
+      {
+        "content": "Let's put those numbers in the equation.\n$\\color{green}\\text{ Total}\\color{black}\\div\\color{blue}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}12\\color{black}\\div\\color{blue}2\\color{black}=\\color{purple}\\text{ Size of the groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "The quotient will tell us the $\\color{purple}\\text{size of the groups}\\color{black}$.In this problem, the $\\color{purple}\\text{size of the groups}\\color{black}$ is the $\\color{purple}\\text{number of ice cubes in each cup}}$.",
+        "images": null
+      },
+      {
+        "content": "The quotient tells us the $\\color{purple}\\text{number of ice cubes in each cup}\\color{black}$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Adam has $12$ ice cubes. He divides them equally into $2$ cups.**What does the expression $12\\div2$ represent?**",
+      "images": null
+    },
+    "options": [
+      "Total number of ice cubes",
+      "Number of cups",
+      "Number of ice cubes in each cup"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Number of ice cubes in each cup"
+    ],
+    "videos": ["vBWuQnmiY3k"]
+  }
+]

@@ -1,0 +1,1075 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}10\\color{black}$.The $\\color{green}\\color{black}\\text{number of the groups}\\color{black}$ is $\\color{green}\\color{black}5$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}2$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/ad8186cbb4e6a0aadd12f8cd63d1d38beca3c35d.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\color{black}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\color{black}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black}$\nSo, $\\color{green}\\color{black}5\\color{black}\\times\\color{maroon}2\\color{black} = \\color{purple}10\\color{black}$ is one way to represent this image.",
+        "images": null
+      },
+      {
+        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\color{black}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\color{black}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}10\\color{black} \\div \\color{maroon}2\\color{black} =\\color{green}\\color{black}5\\color{black}$ is another way to represent this image.\n",
+        "images": null
+      },
+      {
+        "content": "\nMultiplication: $\\color{green}\\color{black}5\\color{black}\\times\\color{maroon}2\\color{black}=\\color{purple}10\\color{black}$Division: $\\color{purple}10\\color{black} \\div \\color{maroon}2\\color{black} =\\color{green}\\color{black}5\\color{black}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations can the tape diagram represent?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/ad8186cbb4e6a0aadd12f8cd63d1d38beca3c35d.svg",
+          "width": 320,
+          "height": 128
+        }
+      ]
+    },
+    "options": [
+      "$5\\times2=10$",
+      "$10\\div2=5$",
+      "$2\\div5=10$",
+      "$10\\times2=5$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$5\\times2=10$",
+      "$10\\div2=5$"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\color{black}\\text{ Total}\\color{black}\\div\\color{blue}\\color{black}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\color{black}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\color{black}\\text{ Number of groups}\\color{black}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\color{black}\\text{total}\\color{black}$:There are $\\color{green}\\color{black}30\\color{black}$ books total.And we know the $\\color{blue}\\color{black}\\text{number of groups}\\color{black}$:There are $\\color{blue}D6$ boxes.",
+        "images": null
+      },
+      {
+        "content": "To find out how many books are in each box, we can divide the $\\color{green}\\color{black}30\\color{black}$ books into $\\color{blue}D6$ groups.$\\color{green}\\color{black}30\\color{black}\\div\\color{blue}D6$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Tom has $30$ books divided evenly into $6$ boxes.**Which expression helps us find out how many books are in each box?**\n",
+      "images": null
+    },
+    "options": [
+      "$6\\div30$",
+      "$30\\div6$",
+      "$30\\div2$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$30\\div6$"
+    ],
+    "videos": [
+      "mGvunan-I-Q"
+    ]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "We can think of division as the following: \n$\\color{green}\\color{black}\\text{ Total}\\color{black}\\div\\color{blue}\\color{black}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\color{black}\\text{ Total}\\color{black}\\div\\color{purple}\\text{ Size of the groups}\\color{black}=\\color{blue}\\color{black}\\text{ Number of groups}\\color{black}$\n",
+        "images": null
+      },
+      {
+        "content": "We know the $\\color{green}\\color{black}\\text{total}\\color{black}$:There are $\\color{green}\\color{black}48\\color{black}$ people.And we know the $\\color{blue}\\color{black}\\text{number of groups}\\color{black}$:There are $\\color{blue}D8$ tables.",
+        "images": null
+      },
+      {
+        "content": "Let's put those numbers in the equation.\n$\\color{green}\\color{black}\\text{ Total}\\color{black}\\div\\color{blue}\\color{black}\\text{ Number of groups}\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n$\\color{green}\\color{black}48\\color{black}\\div\\color{blue}\\color{black}8\\color{black}=\\color{purple}\\text{ Size of the groups}\\color{black}$\n",
+        "images": null
+      },
+      {
+        "content": "The quotient will tell us the $\\color{purple}\\text{size of the groups}\\color{black}$.In this problem, the $\\color{purple}\\text{size of the groups}\\color{black}$ is the $\\color{purple}\\text{number people at each table}\\color{black}$.",
+        "images": null
+      },
+      {
+        "content": "The quotient tells us the $\\color{purple}\\text{number of people at each table}\\color{black}$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $48$ people in the cafeteria divided evenly between $8$ tables.**What does the expression $48\\div8$ represent?**",
+      "images": null
+    },
+    "options": [
+      "Total number of people",
+      "Number of tables",
+      "Number of people at each table"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "Number of people at each table"
+    ],
+    "videos": []
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "We can put an apple in each basket until all the apples are in a basket:\n[[image 0]][[image 1]]How many apples will be in each basket?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/1a66f3626d36b0d7fdb49813a303e15e4055a4c7.svg",
+            "width": 400,
+            "height": 77
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/08a81a5ac5192cfe5e1e9719f1654c70dbb4c529.svg",
+            "width": 450,
+            "height": 91
+          }
+        ]
+      },
+      {
+        "content": "[[image 0]]$\\redD6$ apples will be in each basket. $18 \\div 3 = \\redD6$",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/6b1e904a265b9831d9a6a469157a0bb864273559.svg",
+            "width": 450,
+            "height": 91
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "There are $18$ apples. We want to divide them equally into $3$ baskets.[[image 0]][[image 1]]**How many apples will be in each basket?** $18\\div 3 = $ [[numeric-input 1]] apples",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/64ff1fef523af91de607f2f17e78c7daf417ff6a.svg",
+          "width": 400,
+          "height": 83
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/97d2afff761debc600bb0ea034d1626900c60501.svg",
+          "width": 450,
+          "height": 113
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      6
+    ],
+    "videos": []
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}64\\color{black}$ circles into $\\color{green}\\color{black}8$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/48520cdcaa5b82f07370fd3bc221f9a0f8979199.svg",
+            "width": 473,
+            "height": 366
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}64\\color{black} \\div \\color{green}\\color{black}8\\color{black} = {8}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}64\\color{black} \\div \\color{green}\\color{black}8\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": []
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}\\color{black}28\\color{black}$ ladybugs.We can look at $\\color{green}\\color{black}\\text{how many equal-sized groups of ladybugs}\\color{black}$  there are or $\\color{maroon}\\text{how many ladybugs are in every group}\\color{black}$.",
+        "images": null
+      },
+      {
+        "content": "### $\\color{green}\\color{black}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}\\color{black}28\\color{black}$ total ladybugs divided into $\\color{green}\\color{black}7$ equal groups.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]][[image 6]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/af3a022a638f11d855dcf4812a00d9a3672b1b6e.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/af3a022a638f11d855dcf4812a00d9a3672b1b6e.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/af3a022a638f11d855dcf4812a00d9a3672b1b6e.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/af3a022a638f11d855dcf4812a00d9a3672b1b6e.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/af3a022a638f11d855dcf4812a00d9a3672b1b6e.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/af3a022a638f11d855dcf4812a00d9a3672b1b6e.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/af3a022a638f11d855dcf4812a00d9a3672b1b6e.svg",
+            "width": 84,
+            "height": 90
+          }
+        ]
+      },
+      {
+        "content": " $\\color{blue}\\color{black}28\\color{black}$ divided into $\\color{green}\\color{black}7$ equal groups is $\\color{blue}\\color{black}28\\color{black}\\div\\color{green}\\color{black}7$.",
+        "images": null
+      },
+      {
+        "content": "### $\\color{maroon}\\text{Number of ladybugs in each group}\\color{black}$There are $\\color{blue}\\color{black}28\\color{black}$ ladybugs total divided into groups of $\\color{maroon}4$ ladybugs.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]][[image 6]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b1167db323e95b8b7f6372b4b247f50ffaf55a58.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b1167db323e95b8b7f6372b4b247f50ffaf55a58.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b1167db323e95b8b7f6372b4b247f50ffaf55a58.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b1167db323e95b8b7f6372b4b247f50ffaf55a58.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b1167db323e95b8b7f6372b4b247f50ffaf55a58.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b1167db323e95b8b7f6372b4b247f50ffaf55a58.svg",
+            "width": 84,
+            "height": 90
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b1167db323e95b8b7f6372b4b247f50ffaf55a58.svg",
+            "width": 84,
+            "height": 90
+          }
+        ]
+      },
+      {
+        "content": " $\\color{blue}\\color{black}28\\color{black}$ divided into groups of $\\color{maroon}4$ is $\\color{blue}\\color{black}28\\color{black}\\div \\color{maroon}4$.",
+        "images": null
+      },
+      {
+        "content": "The following expressions could represent the picture:-  $\\color{blue}\\color{black}28\\color{black}\\div \\color{green}\\color{black}7$ \n- $\\color{blue}\\color{black}28\\color{black}\\div \\color{maroon}4$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the picture shown below?**[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]][[image 6]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/57e29cc10bb50a79cfcb13c3837f00109a8b66ba.svg",
+          "width": 84,
+          "height": 90
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/57e29cc10bb50a79cfcb13c3837f00109a8b66ba.svg",
+          "width": 84,
+          "height": 90
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/57e29cc10bb50a79cfcb13c3837f00109a8b66ba.svg",
+          "width": 84,
+          "height": 90
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/57e29cc10bb50a79cfcb13c3837f00109a8b66ba.svg",
+          "width": 84,
+          "height": 90
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/57e29cc10bb50a79cfcb13c3837f00109a8b66ba.svg",
+          "width": 84,
+          "height": 90
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/57e29cc10bb50a79cfcb13c3837f00109a8b66ba.svg",
+          "width": 84,
+          "height": 90
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/57e29cc10bb50a79cfcb13c3837f00109a8b66ba.svg",
+          "width": 84,
+          "height": 90
+        }
+      ]
+    },
+    "options": [
+      "$28 \\div 7$",
+      "$28 \\div 4$",
+      "$28 \\div 3$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$28 \\div 7$",
+      "$28 \\div 4$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}10\\color{black}$.The $\\color{green}\\color{black}\\text{number of the groups}\\color{black}$ is $\\color{green}\\color{black}5$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}2$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/ad8186cbb4e6a0aadd12f8cd63d1d38beca3c35d.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\color{black}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\color{black}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black}$\nSo, $\\color{green}\\color{black}5\\color{black}\\times\\color{maroon}2\\color{black} = \\color{purple}10\\color{black}$ is one way to represent this image.",
+        "images": null
+      },
+      {
+        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\color{black}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\color{black}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}10\\color{black} \\div \\color{maroon}2\\color{black} =\\color{green}\\color{black}5\\color{black}$ is another way to represent this image.\n",
+        "images": null
+      },
+      {
+        "content": "\nMultiplication: $\\color{green}\\color{black}5\\color{black}\\times\\color{maroon}2\\color{black}=\\color{purple}10\\color{black}$Division: $\\color{purple}10\\color{black} \\div \\color{maroon}2\\color{black} =\\color{green}\\color{black}5\\color{black}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations can the tape diagram represent?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/ad8186cbb4e6a0aadd12f8cd63d1d38beca3c35d.svg",
+          "width": 320,
+          "height": 128
+        }
+      ]
+    },
+    "options": [
+      "$5\\times2=10$",
+      "$10\\div2=5$",
+      "$2\\div5=10$",
+      "$10\\times2=5$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$5\\times2=10$",
+      "$10\\div2=5$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "We can think of division as the following:$\\color{green}\\color{black}\\text{ Total}\\color{black}\\div\\color{blue}\\color{black}\\text{ Number of Groups}\\color{black}$or $\\color{green}\\color{black}\\text{ Total}\\color{black}\\div\\color{maroon}\\text{ Size of the Groups}\\color{black}$\n",
+        "images": null
+      },
+      {
+        "content": "We have a $\\color{green}\\color{black}\\text{total}\\color{black}$ of $\\color{green}\\color{black}21\\color{black}$ elephants.The $\\color{maroon}\\text{size of the groups}\\color{black}$ of elephants is $\\color{maroon}7$.  Which image shows $\\color{green}\\color{black}21\\color{black}$ elephants divided evenly into groups of $\\color{maroon}7$?",
+        "images": null
+      },
+      {
+        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg",
+            "width": 120,
+            "height": 68
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg",
+            "width": 120,
+            "height": 68
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg",
+            "width": 120,
+            "height": 68
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "At the zoo, there are $21$ elephants divided evenly into groups of $7$.**Which image could represent this situation?**\n",
+      "images": null
+    },
+    "options": [
+      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]",
+      "[A group of three elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/cc10ff544e74b6bc3aa40096ebb23bda044a939f.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/0c33f3dad87967ba81b225732818cac2c3910998.svg]]",
+      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]"
+    ],
+    "videos": []
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{blue}\\color{black}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{blue}\\color{black}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{blue}\\color{black}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{blue}\\color{black}\\text{number of groups}\\color{black}$\n",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}20\\color{black}$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}5$.The $\\color{blue}\\color{black}\\text{number of the groups}\\color{black}$ is $\\color{blue}E4$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5140fc27f56493d822addcfb5571fe8eab7fc236.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "So,\n$\\color{blue}\\color{black}4\\color{black}\\times\\color{maroon}5\\color{black} = \\color{purple}20\\color{black}$\n$\\color{purple}20\\color{black} \\div \\color{maroon}5\\color{black} = \\color{blue}\\color{black}4\\color{black}$\n",
+        "images": null
+      },
+      {
+        "content": "These number sentences show the same relationship:-  $4 \\times 5 = 20$\n- $20\\div 5 = 4$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations show the same relationship as $5=20\\div4$?**",
+      "images": null
+    },
+    "options": [
+      "$4 \\times 5 = 20$",
+      "$20 \\div 5 = 4$",
+      "$20 = 5 \\div 4$",
+      "$5 = 4 \\times 20$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$4 \\times 5 = 20$",
+      "$20 \\div 5 = 4$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}24\\color{black}$ circles into $\\color{green}\\color{black}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/07cfd2e9b3ff297c4396894085c0dd41f9c44d18.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}24\\color{black} \\div \\color{green}\\color{black}6\\color{black} = {4}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}24\\color{black} \\div \\color{green}\\color{black}6\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      4
+    ],
+    "videos": []
+  },
+  {
+    "id": 11,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}27\\color{black}$ circles into $\\color{green}\\color{black}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/74194ae335565dbb848c5b56b786b02c0ea14984.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}27\\color{black} \\div \\color{green}\\color{black}9\\color{black} = {3}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}27\\color{black} \\div \\color{green}\\color{black}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": []
+  },
+  {
+    "id": 12,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\color{black}\\text{total}\\color{black}\\div\\color{blue}\\color{black}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\color{black}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\color{black}\\text{ number of rows}\\color{black}$\n",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}D2$ rows with $\\color{purple}9$ dots in each row.[[image 0]]There are $\\color{green}\\color{black}18\\color{black}$ total dots.",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/a370661f7da5c431603f4fd39b65514e891ba20c.svg",
+            "width": 220,
+            "height": 66
+          }
+        ]
+      },
+      {
+        "content": "\n$\\color{green}\\color{black}18\\color{black}\\text{ total dots}\\div ~\\color{purple}9\\text{ dots in each row}= \\color{blue}D2\\text{ rows}$\n$\\color{green}\\color{black}18\\color{black}\\text{ total dots}\\div \\color{blue}D2\\text{ rows}  ~=\\color{purple}9\\text{ dots in each row}$\n",
+        "images": null
+      },
+      {
+        "content": "The following expressions represent the array:- $\\color{green}\\color{black}18\\color{black}\\div\\color{purple}9$\n- $\\color{green}\\color{black}18\\color{black}\\div\\color{blue}D2$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/028c582f4248fb2b1449255e794b3131cd0f460c.svg",
+          "width": 220,
+          "height": 52
+        }
+      ]
+    },
+    "options": [
+      "$18\\div2$",
+      "$15\\div3$",
+      "$18\\div9$",
+      "$9\\div18$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$18\\div2$",
+      "$18\\div9$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 13,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}12\\color{black}$ circles into $\\color{green}\\color{black}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/480711597802791a2b7dc7ee3c189d65be2c23fc.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}12\\color{black} \\div \\color{green}\\color{black}6\\color{black} = {2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}12\\color{black} \\div \\color{green}\\color{black}6\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": []
+  },
+  {
+    "id": 14,
+    "hints": [
+      {
+        "content": "Draw $15$ circles, with $3$ to each row.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b7c6a72cb5dafd71d9e07e6f02fec7f589340e7e.svg",
+            "width": 200,
+            "height": 300
+          }
+        ]
+      },
+      {
+        "content": "[[image 0]] How many rows are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/28317891a4f7cc8aa3a432f566d3486407a31cd4.svg",
+            "width": 200,
+            "height": 300
+          }
+        ]
+      },
+      {
+        "content": "$\\Huge\\color{blue}{15}\\div\\color{green}{3}=\\color{red}{5}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "$\\Huge\\color{blue}{15}\\div\\color{green}{3}=\\color{red}{{?}\\color{black}$[[numeric-input 1]]",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": []
+  },
+  {
+    "id": 15,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}E3$ dots in each row:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/77ca9ab1aa1a0dcc93dbf431df32bfffb72eaa2e.svg",
+            "width": 173,
+            "height": 250
+          }
+        ]
+      },
+      {
+        "content": "$21 \\div 7 = \\color{blue}E3$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $21\\div7$ by dividing $21$ dots into $7$ equal rows:[[image 0]]**How many dots are in each row?**$21 \\div 7 =$ [[numeric-input 1]] ",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/01876966753542ec54147a14606b8bc137c3c677.svg",
+          "width": 173,
+          "height": 250
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": []
+  },
+  {
+    "id": 16,
+    "hints": [
+      {
+        "content": "Each pack has $\\color{purple}8$ cards.Anastasia bought $\\color{green}\\color{black}64\\color{black}$ total cards.[[image 0]]How many $\\color{blue}\\color{black}\\text{groups}\\color{black}$ are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/20fe2a7cb03b0ed6a420a746c4d329d29065baae.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{purple}\\text{size of the group}\\color{black}\\times\\color{blue}\\color{black}\\text{ number of groups}\\color{black} = \\color{green}\\color{black}\\text{ total}\\color{black}$So, $\\color{purple}8\\times\\color{blue}\\color{black}\\text{?}\\color{black} = \\color{green}\\color{black}64}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\color{black}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the groups}\\color{black}=\\color{blue}\\color{black}\\text{ number of groups}\\color{black} $So, $\\color{green}\\color{black}64\\color{black}\\div \\color{purple}8=\\color{blue}\\color{black}\\text{?}\\color{black}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many packs of cards Anastasia bought are: - $\\color{purple}8\\times\\color{blue}\\color{black}\\text{?}\\color{black} = \\color{green}\\color{black}64\\color{black}$  \n - $\\color{green}\\color{black}64\\color{black}\\div \\color{purple}8=\\color{blue}\\color{black}\\text{?}\\color{black}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Anastasia buys several packs of  Wonky Wizard trading cards.  Each pack has $8$ cards, and Anastasia buys a total of $64$ cards.  **Which equations would help us find out how many packs of cards Anastasia bought?**",
+      "images": null
+    },
+    "options": [
+      "$8\\times \\,?=64$",
+      "$64\\times\\,?=8$  ",
+      "$8\\div\\,?=64$",
+      "$64\\div8=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$8\\times \\,?=64$",
+      "$64\\div8=\\,?$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 17,
+    "hints": [
+      {
+        "content": "There are $\\color{green}\\color{black}20\\color{black}$ boxes in $\\color{blue}D4$ equal rows.[Same image with the rows numbered 1 through 4 and horizontal lines between the rows][[https://cdn.kastatic.org/ka-perseus-graphie/51eafe193502a2b098331835dd9afbe0744f26de.svg]]How can we find out how many boxes are in each row?",
+        "images": null
+      },
+      {
+        "content": "We can find how many boxes are in each row by dividing:$\\color{green}\\color{black}\\text{total}\\color{black}\\div\\color{blue}\\color{black}\\text{ number of rows}\\color{black}$So, $\\color{green}\\color{black}20\\color{black}\\div\\color{blue}\\color{black}4\\color{black}$",
+        "images": null
+      },
+      {
+        "content": "The following expression will tell us how many boxes are in each row:- $\\color{green}\\color{black}20\\color{black}\\div\\color{blue}D4$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $20$ total boxes split into $4$ equal rows. [20 boxes in 4 equal rows][[https://cdn.kastatic.org/ka-perseus-graphie/1d233fbd952ceed975224617b3ce047b797bb56a.svg]] **Which expression will tell us how many boxes are in each row?**",
+      "images": null
+    },
+    "options": [
+      "$20 \\div 4$",
+      "$4\\div 20$",
+      "$20 \\div 3$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$20 \\div 4$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 18,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}\\color{black}3\\color{black}$ periods.The Rangers score $\\color{green}\\color{black}6\\color{black}$ total goals.[[image 0]]What is the $\\color{purple}\\text{size of the groups}\\color{black}$?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/915fc694155222d6b1a8746e98e87df290b5ecc7.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{blue}\\color{black}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\color{black}\\text{ total}\\color{black}$So, $\\color{blue}\\color{black}3\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}\\color{black}6\\color{black}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\color{black}\\text{total}\\color{black}\\div\\color{blue}\\color{black}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}\\color{black}6\\color{black}\\div \\color{blue}\\color{black}3\\color{black}=\\color{purple}\\text{?}\\color{black}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many goals the Rangers scored in each period are:   - $\\color{blue}\\color{black}3\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}\\color{black}6\\color{black}$\n - $\\color{green}\\color{black}6\\color{black}\\div \\color{blue}\\color{black}3\\color{black}=\\color{purple}\\text{?}\\color{black}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "What a great game  The Rangers scored $6$ goals in the hockey game.  They scored the same number of goals in each of the $3$ periods.  **Which equations would help us find out how many goals the Rangers scored in each period?**",
+      "images": null
+    },
+    "options": [
+      "$3\\times\\,?=6$",
+      "$6\\times3=\\,?$",
+      "$6\\div3=\\,?$",
+      "$3\\div\\,?=6$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$3\\times\\,?=6$",
+      "$6\\div3=\\,?$"
+    ],
+    "videos": []
+  },
+  {
+    "id": 19,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}8\\color{black}$ circles into $\\color{green}\\color{black}4$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/d9221f5ab9bf5220d549ca646dbcdc642d86c788.svg",
+            "width": 473,
+            "height": 194
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}8\\color{black} \\div \\color{green}\\color{black}4\\color{black} = {2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**$\\color{blue}\\color{black}8\\color{black} \\div \\color{green}\\color{black}4\\color{black} =$** ",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": []
+  },
+  {
+    "id": 20,
+    "hints": [
+      {
+        "content": "Draw $2$ circles, with $1$ in each row.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e7a5a842bb8a1ccd61b56643b42f95c541be8def.svg",
+            "width": 100,
+            "height": 150
+          }
+        ]
+      },
+      {
+        "content": " How many rows are there?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/abac186026ae56ca7a2984abeb51961e7fe6c39c.svg",
+            "width": 100,
+            "height": 150
+          }
+        ]
+      },
+      {
+        "content": "$\\Huge\\color{blue}{2}\\div\\color{green}{1}=\\color{red}{2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "$\\Huge\\color{blue}{2}\\div\\color{green}{1}=\\color{red}{{?}\\color{black}$[[numeric-input 1]]",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": []
+  },
+  {
+    "id": 21,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}16\\color{black}$ circles into $\\color{green}\\color{black}8$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/bb762c2293fb91d33fb64cab8550e60eb1e46be2.svg",
+            "width": 473,
+            "height": 366
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}16\\color{black} \\div \\color{green}\\color{black}8\\color{black} = {2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}16\\color{black} \\div \\color{green}\\color{black}8\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": []
+  },
+  {
+    "id": 22,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}16\\color{black}$ circles into $\\color{green}\\color{black}4$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/0070b265a4e791951682e545fba95cf8a9f1d3b2.svg",
+            "width": 473,
+            "height": 194
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}16\\color{black} \\div \\color{green}\\color{black}4\\color{black} = {4}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**$\\color{blue}\\color{black}16\\color{black} \\div \\color{green}\\color{black}4\\color{black} =$** ",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      4
+    ],
+    "videos": []
+  },
+  {
+    "id": 23,
+    "hints": [
+      {
+        "content": "The expression $\\color{green}\\color{black}27\\color{black}\\div\\color{blue}D3$ can represent $\\color{green}\\color{black}27\\color{black}$ total items split evenly into $\\color{blue}D3$ groups.Which problem wants to split $\\color{green}\\color{black}27\\color{black}$ into $\\color{blue}D3$ equal groups?",
+        "images": null
+      },
+      {
+        "content": "###GinoWe want to find out how many walnut trees are left, so we subtract $\\color{green}\\color{black}27\\color{black} - \\color{maroon}3$.$\\color{green}\\color{black}27\\color{black}\\div\\color{blue}D3$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###LindseyWe want to find out how many apples there are, so we multiply $\\color{green}\\color{black}27\\color{black} \\times \\color{maroon}3$.$\\color{green}\\color{black}27\\color{black}\\div\\color{blue}D3$ does **not** help us solve this problem.",
+        "images": null
+      },
+      {
+        "content": "###LaTashaWe want to split the $\\color{green}\\color{black}27\\color{black}$ stickers evenly onto $\\color{blue}D3$ pieces of paper.  So, we divide $\\color{green}\\color{black}27\\color{black}\\div\\color{blue}D3$.$\\color{green}\\color{black}27\\color{black}\\div\\color{blue}D3$ helps us solve this problem",
+        "images": null
+      },
+      {
+        "content": "The expression $\\color{green}\\color{black}27\\color{black}\\div\\color{blue}D3$ can solve the following context:- LaTasha has $27$ rabbit stickers. She splits the stickers evenly among $3$ pieces of paper. How many stickers did LaTasha put on each piece of paper?\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which problem can we solve with $27\\div3$?**",
+      "images": null
+    },
+    "options": [
+      "LaTasha has $27$ rabbit stickers. She splits the stickers evenly among $3$ pieces of paper. How many stickers did LaTasha put on each piece of paper?",
+      "Gino had $27$ walnut trees in his yard. He cut $3$ down to use for firewood. How many walnut trees does Gino have left?",
+      "Lindsey picked $3$ bags of apples. There are $27$ apples in each bag. How many apples does she have in total?"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "LaTasha has $27$ rabbit stickers. She splits the stickers evenly among $3$ pieces of paper. How many stickers did LaTasha put on each piece of paper?"
+    ],
+    "videos": []
+  },
+  {
+    "id": 24,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}21\\color{black}$ circles into $\\color{green}\\color{black}7$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/629773e0e0e54260ce83e185800ca8a1e309b218.svg",
+            "width": 473,
+            "height": 323
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}21\\color{black} \\div \\color{green}\\color{black}7\\color{black} = {3}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}21\\color{black} \\div \\color{green}\\color{black}7\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": []
+  },
+  {
+    "id": 25,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}14\\color{black}$ circles into $\\color{green}\\color{black}7$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/c3e9c7a1c1a71746bdac8d189d5de2af48fa6c9a.svg",
+            "width": 473,
+            "height": 323
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}14\\color{black} \\div \\color{green}\\color{black}7\\color{black} = {2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}14\\color{black} \\div \\color{green}\\color{black}7\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": []
+  },
+  {
+    "id": 26,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}45\\color{black}$ circles into $\\color{green}\\color{black}9$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/19d553c75b3cc60e7fded75c42b306fcb0b5520e.svg",
+            "width": 473,
+            "height": 409
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}45\\color{black} \\div \\color{green}\\color{black}9\\color{black} = {5}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}\\color{black}45\\color{black} \\div \\color{green}\\color{black}9\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": []
+  }
+]

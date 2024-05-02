@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "How many groups of $\\color{purple}7$ do we need to make a total of $\\color{green}63\\color{black}$?",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}9$ groups of $\\color{purple}7$.$\\underbrace{\\color{purple}7} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7}}_{\\color{blue}9}\\color{purple}\\text{ sevens}}} = \\color{green}63}$",
+        "images": null
+      },
+      {
+        "content": "\n$\\color{blue}9\\times 7~=63$\n$63\\div\\color{blue}9=7$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$\\color{blue}\\square\\times 7~=63$\n$63\\div\\color{blue}\\square = 7$\n",
+      "images": null
+    },
+    "options": [
+      "$7$",
+      "$8$",
+      "$9$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$9$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "How many groups of $\\color{purple}5$ do we need to make a total of $\\color{green}35\\color{black}$?",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{blue}7}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
+        "images": null
+      },
+      {
+        "content": "\n$\\color{blue}7\\times 5~=35$\n$35\\div\\color{blue}7=5$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$\\color{blue}\\square\\times 5~=35$\n$35\\div\\color{blue}\\square = 5$\n",
+      "images": null
+    },
+    "options": [
+      "$5$",
+      "$6$",
+      "$7$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$7$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "If we have $\\color{blue}4$ groups, how many would need to be in each group to make a total of $\\color{green}16\\color{black}$? ",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}4$ groups of $\\color{purple}4$.$\\underbrace{\\color{purple}4} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black}\\color{black}_{\\color{blue}4}\\color{purple}\\text{ fours}}} = \\color{green}16}$",
+        "images": null
+      },
+      {
+        "content": "\n$4\\times  \\color{purple}4~=16$\n$16\\div4=\\color{purple}4$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$4\\times  \\color{blue}\\square~=16$\n$16\\div4=\\color{blue}\\square$\n",
+      "images": null
+    },
+    "options": [
+      "$3$",
+      "$4$",
+      "$5$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$4$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "If we have $\\color{blue}3$ groups of $\\color{purple}8$, how many total do we have? ",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{green}24\\color{black}$ total.$\\underbrace{\\color{purple}8} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_{\\color{blue}3}\\color{purple}\\text{ eights}}} = \\color{green}24}$",
+        "images": null
+      },
+      {
+        "content": "\n$3\\times 8~=\\color{green}24\\color{black}$\n$\\color{green}24\\color{black}\\div8=3$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$3\\times8=~\\color{blue}\\square$\n$\\color{blue}\\square\\div8 = 3$\n",
+      "images": null
+    },
+    "options": [
+      "$24$",
+      "$27$",
+      "$32$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$24$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "If we have $\\color{blue}3$ groups of $\\color{purple}8$, how many total do we have? ",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{green}24\\color{black}$ total.$\\underbrace{\\color{purple}8} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_{\\color{blue}3}\\color{purple}\\text{ eights}}} = \\color{green}24}$",
+        "images": null
+      },
+      {
+        "content": "\n$3\\times 8~=\\color{green}24\\color{black}$\n$\\color{green}24\\color{black}\\div8=3$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$3\\times8=~\\color{blue}\\square$\n$\\color{blue}\\square\\div8 = 3$\n",
+      "images": null
+    },
+    "options": [
+      "$24$",
+      "$27$",
+      "$32$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$24$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "If we have $\\color{blue}6$ groups, how many would need to be in each group to make a total of $\\color{green}30\\color{black}$? ",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}6$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+\\color{purple}5\\color{black} + \\color{purple}5\\color{black}\\color{black}_{\\color{blue}6}\\color{purple}\\text{ fives}}} = \\color{green}30}$",
+        "images": null
+      },
+      {
+        "content": "\n$6\\times  \\color{purple}5~=30$\n$30\\div6=\\color{purple}5$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$6\\times  \\color{blue}\\square~=30$\n$30\\div6=\\color{blue}\\square$\n",
+      "images": null
+    },
+    "options": [
+      "$4$",
+      "$5$",
+      "$6$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$5$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "How many groups of $\\color{purple}6$ do we need to make a total of $\\color{green}48\\color{black}$?",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}8$ groups of $\\color{purple}6$.$\\underbrace{\\color{purple}6} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}+\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6}}_{\\color{blue}8}\\color{purple}\\text{ sixes}}} = \\color{green}48}$",
+        "images": null
+      },
+      {
+        "content": "$\\color{green}48\\color{black}\\div\\color{purple}6\\color{black} = \\fbox{\\color{blue}8}\\color{black}$ $~~$ because  $~~$ $\\fbox{\\color{blue}8}\\times\\color{purple}6=\\color{green}48}$.",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Fill in the blanks.**$48 \\div 6 =~$[[input-number 3]]  $~~$ because  $~~$  [[input-number 4]]${}~\\times 6=48$.",
+      "images": null
+    },
+    "options": [],
+    "questionType": "",
+    "correctAnswers": [],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "How many groups of $\\color{purple}3$ do we need to make a total of $\\color{green}3\\color{black}$?",
+        "images": null
+      },
+      {
+        "content": "There is $\\color{blue}1$ group of $\\color{purple}3$.$\\underbrace{\\color{purple}3}\\color{black}_{\\color{blue}1}\\color{purple}\\text{ three}\\color{black}} = \\color{green}3}$",
+        "images": null
+      },
+      {
+        "content": "\n$\\color{blue}1\\times 3~=3$\n$3\\div\\color{blue}1=3$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$\\color{blue}\\square\\times 3~=3$\n$3\\div\\color{blue}\\square = 3$\n",
+      "images": null
+    },
+    "options": [
+      "$1$",
+      "$6$",
+      "$9$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$1$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "images": null
+      },
+      {
+        "content": "How many groups of $\\color{purple}5$ do we need to make a total of $\\color{green}35\\color{black}$?",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{blue}7}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
+        "images": null
+      },
+      {
+        "content": "\n$\\color{blue}7\\times 5~=35$\n$35\\div\\color{blue}7=5$\n",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**What number makes both equations true?**\n$\\color{blue}\\square\\times 5~=35$\n$35\\div\\color{blue}\\square = 5$\n",
+      "images": null
+    },
+    "options": [
+      "$5$",
+      "$6$",
+      "$7$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$7$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  }
+]

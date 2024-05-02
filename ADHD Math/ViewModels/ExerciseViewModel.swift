@@ -17,7 +17,6 @@ class ExerciseViewModel: ObservableObject {
             do {
                 if let data = data {
                     let result = try JSONDecoder().decode([QuestionModel].self, from: data)
-                    print(result.description)
                     DispatchQueue.main.async {
                         self.items = result
                     }

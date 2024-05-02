@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{color{blue}}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{color{blue}}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{color{blue}}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{color{blue}}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}48\\color{black}$.The $\\color{color{blue}}\\text{number of the groups}\\color{black}$ is $\\color{blue}E6$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}8$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/07a6a0bfd43770b467a49f348569ba1a8e9a9a74.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "So,\n$\\color{purple}48\\color{black} = \\color{maroon}8\\color{black} \\times \\color{color{blue}}6\\color{black}$\n$\\color{color{blue}}6\\color{black}=\\color{purple}48} \\div \\color{maroon}8} $\n",
+        "images": null
+      },
+      {
+        "content": "These number sentences show the same relationship:- $6=48\\div 8 $\n- $48 = 8\\times6$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations show the same relationship as $48\\div6=8$?**",
+      "images": null
+    },
+    "options": [
+      "$6 = 48\\div8$",
+      "$48 = 8\\times 6$",
+      "$48 = 8 \\div 6$",
+      "$48 \\times 6=8$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$6 = 48\\div8$",
+      "$48 = 8\\times 6$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}32\\color{black}$.The $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}8$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}4$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/7ca627924f9bb86044bb63434dbadc1edd49db3f.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black}$\nSo, $\\color{maroon}4\\color{black}\\times\\color{green}8} = \\color{purple}32}$ is one way to represent this image.",
+        "images": null
+      },
+      {
+        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}32\\color{black} \\div \\color{maroon}4}=\\color{green}8}$ is another way to represent this image.\n",
+        "images": null
+      },
+      {
+        "content": "\nMultiplication: $\\color{maroon}4\\color{black}\\times\\color{green}8\\color{black}=\\color{purple}32\\color{black}$Division: $\\color{purple}32\\color{black} \\div \\color{maroon}4} = \\color{green}8}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations can the tape diagram represent?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/7ca627924f9bb86044bb63434dbadc1edd49db3f.svg",
+          "width": 320,
+          "height": 128
+        }
+      ]
+    },
+    "options": [
+      "$4\\times8=32$",
+      "$32\\div4=8$",
+      "$8\\div4=32$",
+      "$32\\times8=4$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$4\\times8=32$",
+      "$32\\div4=8$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}10\\color{black}$.The $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}5$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}2$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/ad8186cbb4e6a0aadd12f8cd63d1d38beca3c35d.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black}$\nSo, $\\color{green}5\\color{black}\\times\\color{maroon}2} = \\color{purple}10}$ is one way to represent this image.",
+        "images": null
+      },
+      {
+        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}10\\color{black} \\div \\color{maroon}2} =\\color{green}5}$ is another way to represent this image.\n",
+        "images": null
+      },
+      {
+        "content": "\nMultiplication: $\\color{green}5\\color{black}\\times\\color{maroon}2\\color{black}=\\color{purple}10\\color{black}$Division: $\\color{purple}10\\color{black} \\div \\color{maroon}2} =\\color{green}5}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations can the tape diagram represent?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/ad8186cbb4e6a0aadd12f8cd63d1d38beca3c35d.svg",
+          "width": 320,
+          "height": 128
+        }
+      ]
+    },
+    "options": [
+      "$5\\times2=10$",
+      "$10\\div2=5$",
+      "$2\\div5=10$",
+      "$10\\times2=5$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$5\\times2=10$",
+      "$10\\div2=5$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{color{blue}}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{color{blue}}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{color{blue}}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{color{blue}}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}12\\color{black}$.The $\\color{color{blue}}\\text{number of the groups}\\color{black}$ is $\\color{blue}E3$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}4$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/416279dd41794c767b6114847ccd3021b16efa5e.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "So,\n$\\color{purple}12\\color{black} = \\color{maroon}4\\color{black} \\times \\color{color{blue}}3\\color{black}$\n$\\color{maroon}4\\color{black}=\\color{purple}12} \\div \\color{color{blue}}3}$\n",
+        "images": null
+      },
+      {
+        "content": "These number sentences show the same relationship:-  $12 = 4\\times3$\n- $4 = 12\\div3$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations show the same relationship as $3\\times4=12$?**",
+      "images": null
+    },
+    "options": [
+      "$12= 4\\times3$",
+      "$4 = 12\\div3$",
+      "$12 = 4 \\div 3$",
+      "$4= 3 \\times 12$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$12= 4\\times3$",
+      "$4 = 12\\div3$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}30\\color{black}$.The $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}3$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}10}$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5b346bf0f482a9f8eff36027c1d9f66256b9a937.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\nSo, $\\color{maroon}10\\color{black}\\times\\color{green}3} = \\color{purple}30}$ is one way to represent this image.",
+        "images": null
+      },
+      {
+        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}30\\color{black} \\div \\color{maroon}10}=\\color{green}3}$ is another way to represent this image.\n",
+        "images": null
+      },
+      {
+        "content": "\nMultiplication: $\\color{maroon}10\\color{black}\\times\\color{green}3\\color{black}=\\color{purple}30\\color{black}$Division: $\\color{purple}30\\color{black} \\div \\color{maroon}10} = \\color{green}3}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations can the tape diagram represent?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/5b346bf0f482a9f8eff36027c1d9f66256b9a937.svg",
+          "width": 320,
+          "height": 128
+        }
+      ]
+    },
+    "options": [
+      "$10\\times3=30$",
+      "$30\\div10=3$",
+      "$3\\div10=30$",
+      "$30\\times10=3$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$10\\times3=30$",
+      "$30\\div10=3$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{color{blue}}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{color{blue}}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{color{blue}}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{color{blue}}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}18\\color{black}$.The $\\color{color{blue}}\\text{number of the groups}\\color{black}$ is $\\color{blue}E9$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}2$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/18c0d82c2cbd096f233046b9683f53136e85981d.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "So,\n$\\color{purple}18\\color{black} \\div \\color{color{blue}}9\\color{black} =\\color{maroon}2\\color{black}$\n$\\color{purple}18\\color{black} = \\color{maroon}2} \\times \\color{color{blue}}9}$\n",
+        "images": null
+      },
+      {
+        "content": "These number sentences show the same relationship: $18\\div 9 = 2$\n$18 = 2\\times 9$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations show the same relationship as $9=18\\div2$?**",
+      "images": null
+    },
+    "options": [
+      "$18\\div9=2$",
+      "$18=2\\times9$",
+      "$18 = 9 \\div 2$",
+      "$18\\times 2 =9$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$18\\div9=2$",
+      "$18=2\\times9$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black}$\nSo, $\\color{green}9\\color{black}\\times\\color{maroon}6} = \\color{purple}54}$ is one way to represent this image.",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}54\\color{black}$.The $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}9$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}6$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/43e373f5ad98adedd468b81528caf5a71a250797.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}54\\color{black} \\div \\color{green}9} = \\color{maroon}6}$ is another way to represent this image.\n",
+        "images": null
+      },
+      {
+        "content": "\nMultiplication: $\\color{green}9\\color{black}\\times\\color{maroon}6\\color{black}=\\color{purple}54\\color{black}$Division: $\\color{purple}54\\color{black} \\div \\color{green}9} = \\color{maroon}6}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations can the tape diagram represent?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/43e373f5ad98adedd468b81528caf5a71a250797.svg",
+          "width": 320,
+          "height": 128
+        }
+      ]
+    },
+    "options": [
+      "$6\\times9=54$",
+      "$54\\div6=9$",
+      "$9\\div6=54$",
+      "$54\\times6=9$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$6\\times9=54$",
+      "$54\\div6=9$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\color{color{blue}}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{color{blue}}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{color{blue}}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}} \\div \\color{maroon}\\text{size of groups}} =\\color{color{blue}}\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}20\\color{black}$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}5$.The $\\color{color{blue}}\\text{number of the groups}\\color{black}$ is $\\color{blue}E4$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5140fc27f56493d822addcfb5571fe8eab7fc236.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "So,\n$\\color{color{blue}}4\\color{black}\\times\\color{maroon}5\\color{black} = \\color{purple}20\\color{black}$\n$\\color{purple}20\\color{black} \\div \\color{maroon}5} = \\color{color{blue}}4}$\n",
+        "images": null
+      },
+      {
+        "content": "These number sentences show the same relationship:-  $4 \\times 5 = 20$\n- $20\\div 5 = 4$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations show the same relationship as $5=20\\div4$?**",
+      "images": null
+    },
+    "options": [
+      "$4 \\times 5 = 20$",
+      "$20 \\div 5 = 4$",
+      "$20 = 5 \\div 4$",
+      "$5 = 4 \\times 20$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$4 \\times 5 = 20$",
+      "$20 \\div 5 = 4$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}12\\color{black}$.The $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}2$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}6$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/340d512769a94559b3dcba49f0a4a401237e8f0e.svg",
+            "width": 270,
+            "height": 116
+          }
+        ]
+      },
+      {
+        "content": "We can relate the array to multiplication:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\nSo, $\\color{green}2\\color{black}\\times\\color{maroon}6} = \\color{purple}12}$ is one way to represent this array.",
+        "images": null
+      },
+      {
+        "content": "We can also relate the array to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of rows}\\color{black} =\\color{maroon}\\text{objects per row}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{objects per row}\\color{black} =\\color{green}\\text{number of rows}\\color{black}$\nThe division equation $\\color{purple}12\\color{black} \\div \\color{green}2} = \\color{maroon}6}$ is another way to represent this array.\n",
+        "images": null
+      },
+      {
+        "content": "\nMultiplication: $\\color{green}2\\color{black}\\times\\color{maroon}6\\color{black}=\\color{purple}12\\color{black}$Division: $\\color{purple}12\\color{black} \\div \\color{green}2} = \\color{maroon}6}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations can the array represent?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/6c6a9c256b9e6873c6807c7efed914315444d054.svg",
+          "width": 270,
+          "height": 94
+        }
+      ]
+    },
+    "options": [
+      "$2\\times6=12$",
+      "$12\\div2=6$",
+      "$2\\div12=6$",
+      "$12\\times6=2$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$2\\times6=12$",
+      "$12\\div2=6$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "Multiplication and division are related:\n$\\tealE{\\text{number of groups}} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\tealE{\\text{number of groups}} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\tealE{\\text{number of groups}} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}} =\\tealE{\\text{number of groups}}$\n",
+        "images": null
+      },
+      {
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}72\\color{black}$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}8$.The $\\tealE{\\text{number of the groups}}$ is $\\tealE9$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/08f9667842bae8a7c1961f61ab249f06edf70c43.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "So,\n$\\color{maroon}8\\color{black} \\times \\tealE{9} = \\color{purple}72\\color{black}$\n$\\color{purple}72\\color{black} \\div \\tealE{9} = \\color{maroon}8}$\n",
+        "images": null
+      },
+      {
+        "content": "These number sentences show the same relationship:-  $8 \\times 9 = 72$\n- $72 \\div 9 = 8$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which equations show the same relationship as $72=9\\times8$?**",
+      "images": null
+    },
+    "options": [
+      "$8 \\times 9 = 72$",
+      "$72 \\div 9 = 8$",
+      "$72 = 9 \\div 8$",
+      "$8 = 9 \\times 72$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$8 \\times 9 = 72$",
+      "$72 \\div 9 = 8$"
+    ],
+    "videos": ["qcMJ1pN36r4"]
+  }
+]

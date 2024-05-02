@@ -57,6 +57,8 @@ class LessonViewModel: ObservableObject {
         if let index = lessons.firstIndex(where: { $0.id == lesson.id }) {
             lessons[index] = lesson.completeLesson()
         }
+        
+        saveLessons()
     }
     
     func getVideoFromFileName(fileName: String) -> LessonModel {

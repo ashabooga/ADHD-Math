@@ -1,0 +1,399 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}5\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D5$ circles into  $\\color{green}1$ group:[[image 0]]\nHow many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/9a692d757103e33649f589e89611149d551d4cf5.svg",
+            "width": 180,
+            "height": 39
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}5\\color{black} \\div \\color{green}1 = {5}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}5\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}2\\color{black} \\div \\color{green}1\\color{black}$ as dividing $\\color{blue}D2$ circles into  groups of  $\\color{green}1$:[[image 0]]How many groups are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/7e858c29596d559e57b502ef2cf2e5dbcf45bbc0.svg",
+            "width": 180,
+            "height": 39
+          }
+        ]
+      },
+      {
+        "content": "There are $\\color{maroon}2$ groups of $\\color{green}1$.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/ee40d554c75d5d19cb7f5e790efdfb6316bde9bf.svg",
+            "width": 180,
+            "height": 65
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}2\\color{black} \\div \\color{green}1\\color{black} = \\color{maroon}2\\color{black}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}2\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}3\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D3$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/a3ebe807381f9de107e72357c2eebeff7b9f545a.svg",
+            "width": 180,
+            "height": 39
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}3\\color{black} \\div \\color{green}1\\color{black} = {3}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}3\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}6\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D6$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/3f1bebfec49e912ccdc08909122a6e2d7bfb4378.svg",
+            "width": 180,
+            "height": 69
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}6\\color{black} \\div \\color{green}1 = {6}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}6\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      6
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}1\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}1$ circle into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5f36a1ab9519fdced0946dcd31d10ad8897252c4.svg",
+            "width": 180,
+            "height": 39
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}1\\color{black} \\div \\color{green}1 = {1}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}1\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      1
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}6\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D6$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/3f1bebfec49e912ccdc08909122a6e2d7bfb4378.svg",
+            "width": 180,
+            "height": 69
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}6\\color{black} \\div \\color{green}1\\color{black} = {6}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}6\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      6
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}7\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D7$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/a689bd93da4ec2db494ec4b3c8aaed24a9635b20.svg",
+            "width": 180,
+            "height": 69
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}7\\color{black} \\div \\color{green}1 = {7}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}7\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      7
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}2\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D2$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5b39ff19ce4237ffa7f54c00ca105d8e48a236a9.svg",
+            "width": 180,
+            "height": 39
+          }
+        ]
+      },
+      {
+        "content": "There are $\\color{maroon}2$ circles in the group.[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5e96cd767fc7db2668afe8c8876392d259aa81bd.svg",
+            "width": 180,
+            "height": 39
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}2\\color{black} \\div \\color{green}1\\color{black} = \\color{maroon}2$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}2\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}10\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}\\color{black}10\\color{black}$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/14d1e81961d98c0518eb079abc1df5f38c2bf4b3.svg",
+            "width": 180,
+            "height": 69
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}10\\color{black} \\div \\color{green}1 = {10}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}1\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      10
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}9\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D9$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/2d8516f5634f9b710958ed5f72f0d73552383a28.svg",
+            "width": 180,
+            "height": 69
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}9\\color{black} \\div \\color{green}1\\color{black} = {9}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}9\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 11,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}9\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D9$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/2d8516f5634f9b710958ed5f72f0d73552383a28.svg",
+            "width": 180,
+            "height": 69
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}9\\color{black} \\div \\color{green}1\\color{black} = {9}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}9\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 12,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}8\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D8$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/eb5c5460b1bec472867b7d70c209cd390dac2649.svg",
+            "width": 180,
+            "height": 69
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}8\\color{black} \\div \\color{green}1\\color{black} = {8}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}8\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 13,
+    "hints": [
+      {
+        "content": "We can think of $\\color{blue}\\color{black}4\\color{black} \\div \\color{green}1\\color{black}$ as putting $\\color{blue}D4$ circles into  $\\color{green}1$ group:[[image 0]]How many circles are in the group?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/829410dd8d855292c77d1cb60097c753513c640c.svg",
+            "width": 180,
+            "height": 39
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}4\\color{black} \\div \\color{green}1\\color{black} = {4}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}4\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      4
+    ],
+    "videos": ["mGvunan-I-Q"]
+  }
+]

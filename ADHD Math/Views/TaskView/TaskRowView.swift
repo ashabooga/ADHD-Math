@@ -51,7 +51,7 @@ struct TaskRowView: View {
         
         switch lesson.type {
         case LessonType.quiz:
-            output = "Practice"
+            output = "Quiz"
         case LessonType.test:
             output = "Test"
         case LessonType.video:

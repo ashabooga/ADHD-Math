@@ -1,0 +1,798 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}9$ equal rows:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/add45352be58e5a99e18cf0e51ceb843f38a3a88.svg",
+            "width": 330,
+            "height": 323
+          }
+        ]
+      },
+      {
+        "content": "$36 \\div 4 = \\color{blue}9$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $36\\div4$ by splitting up $36$ dots so that there are $4$ dots in each row:[[image 0]]**How many rows are there?**$36 \\div 4 = $ [[numeric-input 1]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/1f17a5ea9f043eefed7079d4a6f22f94d18f5fd9.svg",
+          "width": 330,
+          "height": 323
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}9$ dots in each row:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/d51f5a944ed4fa79b1a21ea0c2bf6d6026789d0e.svg",
+            "width": 310,
+            "height": 243
+          }
+        ]
+      },
+      {
+        "content": "$63 \\div 7 = \\color{blue}9$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $63\\div7$ by dividing $63$ dots into $7$ equal rows:[[image 0]]**How many dots are in each row?**$63 \\div 7 =$ [[numeric-input 1]] ",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/39511612dbad586f6f0f374af17e2c7eb24f8930.svg",
+          "width": 310,
+          "height": 243
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "We can put a monkey on each bed until all the monkeys are on a bed:[[image 0]][[image 1]]How many monkeys will be on each bed?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/fd052e6a1079abd017c4ccdf817cd605fb5361f0.svg",
+            "width": 450,
+            "height": 43
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/28bfcff23e36c3bff94898b936a96810fbfa7614.svg",
+            "width": 450,
+            "height": 58
+          }
+        ]
+      },
+      {
+        "content": "\n[[image 0]]$\\redD5$ monkeys will be on each bed. $10 \\div 2 = \\redD5$",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/bbfb66065ca997d9e77b86c7ccf6f35a8375465e.svg",
+            "width": 450,
+            "height": 58
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "There are $10$ jumping monkeys. We want to divide them equally onto $2$ beds.[[image 0]][[image 1]]**How many monkeys will be on each bed?** $10\\div 2 = $ [[numeric-input 1]] monkeys",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/b8e8151ec27f0a6180461dd6e5eba47abe0a4630.svg",
+          "width": 450,
+          "height": 43
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/134969db805097e699cce9df2bbde61e728847e8.svg",
+          "width": 450,
+          "height": 80
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "Jim can split the acorns up so that there are $5$ acorns in each group:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/49a119959de7ac4dc0c289078c4880eb213ae607.svg",
+            "width": 480,
+            "height": 53
+          }
+        ]
+      },
+      {
+        "content": "Jim will make $\\color{blue}2$ groups.$10 \\div 5 = \\color{blue}2$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Jim collected $10$ acorns. He wants to divide the acorns into equal groups so that each group has $5$ acorns.[[image 0]]**How many groups will he make?**$10 \\div 5 =$ [[numeric-input 1]] groups\n",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/6fe960ba7a3259c2994432b8e5bcf67ce11254e2.svg",
+          "width": 470,
+          "height": 45
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "Sue can split the apples up so that there are $4$ apples in each bag:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/50c94999145a7f5e6959a86f47d3ddadfda88d08.svg",
+            "width": 485,
+            "height": 56
+          }
+        ]
+      },
+      {
+        "content": "Sue will need $\\color{blue}3$ bags.$12 \\div 4 = \\color{blue}3$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Sue bought $12$ apples. She wants to divide the apples into bags so that each bag has $4$ apples.[[image 0]]**How many bags will she need?**$12 \\div 4 =$ [[numeric-input 1]] bags",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/15caddb676bb4eb1b8c632cddd43c03782e7f7ff.svg",
+          "width": 470,
+          "height": 53
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "Sue can split the apples up so that there are $4$ apples in each bag:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/50c94999145a7f5e6959a86f47d3ddadfda88d08.svg",
+            "width": 485,
+            "height": 56
+          }
+        ]
+      },
+      {
+        "content": "Sue will need $\\color{blue}3$ bags.$12 \\div 4 = \\color{blue}3$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Sue bought $12$ apples. She wants to divide the apples into bags so that each bag has $4$ apples.[[image 0]]**How many bags will she need?**$12 \\div 4 =$ [[numeric-input 1]] bags",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/15caddb676bb4eb1b8c632cddd43c03782e7f7ff.svg",
+          "width": 470,
+          "height": 53
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "We can put a flower in each vase until all the flowers are in a vase:[[image 2]]\n[[image 1]]\nHow many flowers will be in each vase?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/a22bf06a6bc08baf7e66562b722158eca8789d6f.svg",
+            "width": 450,
+            "height": 204
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/084a5385e2d8fc33430911072b12cb034e31315b.svg",
+            "width": 400,
+            "height": 77
+          }
+        ]
+      },
+      {
+        "content": "[[image 0]]\n$\\color{maroon}5$ flowers will be in each vase. $20 \\div 4 = \\color{maroon}5$",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/4511e46e744074cc0267fe064e229e7db6236824.svg",
+            "width": 450,
+            "height": 204
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "[[image 0]]There are $20$ flowers. We want to divide them equally into $4$ vases.[[image 1]]**How many flowers will be in each vase?** $20\\div 4 = $ [[numeric-input 1]] flowers",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/5f97055d6095cc6c8da41e2475390d039bb4464e.svg",
+          "width": 400,
+          "height": 75
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/7c3c2ccdaedc9f1f1b765776c0e970583b1a20a7.svg",
+          "width": 400,
+          "height": 185
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}9$ equal rows:  [[image 0]]\n",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/d0c2c69d642860445e09e8ba811d4e1e4f77973a.svg",
+            "width": 350,
+            "height": 314
+          }
+        ]
+      },
+      {
+        "content": "$72 \\div 8 = \\color{blue}9$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "[[image 0]]We can find $72\\div8$ by splitting up $72$ dots so that there are $8$ dots in each row:**How many rows are there?**$72 \\div 8 = $ [[numeric-input 1]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/583ac1855b35874887a97e9fc564b604a60baddd.svg",
+          "width": 330,
+          "height": 323
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}8$ dots in each row:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/428665a63a62876c4439d7ca29d7c1a63ad34537.svg",
+            "width": 350,
+            "height": 221
+          }
+        ]
+      },
+      {
+        "content": "$48 \\div 6 = \\color{blue}8$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $48\\div6$ by dividing $48$ dots into $6$ equal rows:[[image 0]]**How many dots are in each row?**$48 \\div 6 =$ [[numeric-input 1]] ",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/fa796e8d5a16c5c47002fc89207dbe1816f8aa53.svg",
+          "width": 350,
+          "height": 221
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}5$ dots in each row:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/c665bb6e8a459396adc3b19c96d587c48816f532.svg",
+            "width": 180,
+            "height": 110
+          }
+        ]
+      },
+      {
+        "content": "$15 \\div 3 = \\color{blue}5$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $15\\div3$ by dividing $15$ dots into $3$ equal rows:[[image 0]]**How many dots are in each row?**$15 \\div 3 =$ [[numeric-input 1]] \n",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/372b90762d252de790899805d14b72c4f384aa33.svg",
+          "width": 180,
+          "height": 110
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 11,
+    "hints": [
+      {
+        "content": "We can put an apple in each basket until all the apples are in a basket:\n[[image 0]][[image 1]]How many apples will be in each basket?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/1a66f3626d36b0d7fdb49813a303e15e4055a4c7.svg",
+            "width": 400,
+            "height": 77
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/08a81a5ac5192cfe5e1e9719f1654c70dbb4c529.svg",
+            "width": 450,
+            "height": 91
+          }
+        ]
+      },
+      {
+        "content": "[[image 0]]$\\redD6$ apples will be in each basket. $18 \\div 3 = \\redD6$",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/6b1e904a265b9831d9a6a469157a0bb864273559.svg",
+            "width": 450,
+            "height": 91
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "There are $18$ apples. We want to divide them equally into $3$ baskets.[[image 0]][[image 1]]**How many apples will be in each basket?** $18\\div 3 = $ [[numeric-input 1]] apples",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/64ff1fef523af91de607f2f17e78c7daf417ff6a.svg",
+          "width": 400,
+          "height": 83
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/97d2afff761debc600bb0ea034d1626900c60501.svg",
+          "width": 450,
+          "height": 113
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      6
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 12,
+    "hints": [
+      {
+        "content": "Farmer Jon can split the pigs up so that there are $7$ pigs in each group:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/51392e9828f6e280a131e37f08ca06efd4a1b14d.svg",
+            "width": 450,
+            "height": 213
+          }
+        ]
+      },
+      {
+        "content": "Farmer Jon will make $\\color{blue}4$ groups.$28 \\div 7 = \\color{blue}4$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Farmer Jon has $28$ pigs on his farm. He wants to divide the pigs into equal groups so that each group has $7$ pigs.[[image 0]]**How many groups will he make?**$28 \\div 7 =$ [[numeric-input 1]] groups\n",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/68bae6a75b419ddfe40d29656553ca90a2dfbacf.svg",
+          "width": 450,
+          "height": 209
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      4
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 13,
+    "hints": [
+      {
+        "content": "Cookie Monster can split the cookies up so that there are $3$ cookies in each jar:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b3829efbfec83e181d7524052ec418b88c474fa3.svg",
+            "width": 480,
+            "height": 142
+          }
+        ]
+      },
+      {
+        "content": "Cookie Monster will need $\\color{blue}9$ jars.$27 \\div 3 = \\color{blue}9$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Cookie Monster has $27$ cookies. He wants to divide the cookies into jars so that each jar has $3$ cookies.[[image 0]]**How many jars will he need?**$27 \\div 3 =$ [[numeric-input 1]] jars\n",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/288b4f6206afdfa6aaa37fb8c0c8d811351c5c8c.svg",
+          "width": 480,
+          "height": 142
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 14,
+    "hints": [
+      {
+        "content": "We can put a piece of cheese in each bag until all the pieces are in a bag:[[image 0]][[image 1]]How many pieces will be in each bag?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/4071a96235d8ee11c9b70609e17be25913747d1d.svg",
+            "width": 450,
+            "height": 81
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b163ac0fe9953ff70bc7f4fb967c8590d6ae9496.svg",
+            "width": 480,
+            "height": 138
+          }
+        ]
+      },
+      {
+        "content": "[[image 0]]$\\goldE4$ pieces of cheese will be in each bag. $24 \\div 6 = \\goldE4$",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/960bb049dd02d83518f702bee4a9040e3d610255.svg",
+            "width": 480,
+            "height": 138
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "There are $24$ pieces of cheese. We want to divide them equally into $6$ bags.[[image 0]][[image 1]]**How many pieces of cheese will be in each bag?** $24\\div 6 = $ [[numeric-input 1]] pieces",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/eed55cb51a541953b9826ed4b4d9a77449e7fca1.svg",
+          "width": 450,
+          "height": 81
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/ec05acbac402b1b58b583744d7eefc00e2515357.svg",
+          "width": 480,
+          "height": 162
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      4
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 15,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}9$ equal rows:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/add45352be58e5a99e18cf0e51ceb843f38a3a88.svg",
+            "width": 330,
+            "height": 323
+          }
+        ]
+      },
+      {
+        "content": "$36 \\div 4 = \\color{blue}9$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $36\\div4$ by splitting up $36$ dots so that there are $4$ dots in each row:[[image 0]]**How many rows are there?**$36 \\div 4 = $ [[numeric-input 1]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/1f17a5ea9f043eefed7079d4a6f22f94d18f5fd9.svg",
+          "width": 330,
+          "height": 323
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 16,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}5$ equal rows:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/32998544fa4aebfcd8e3f2dffb1dbfb553a703e5.svg",
+            "width": 350,
+            "height": 175
+          }
+        ]
+      },
+      {
+        "content": "$40 \\div 8 = \\color{blue}5$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $40\\div8$ by splitting up $40$ dots so that there are $8$ dots in each row:[[image 0]]**How many rows are there?**$40 \\div 8 = $ [[numeric-input 1]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/9d2cee24b495712490aca1890868da9220d826a4.svg",
+          "width": 350,
+          "height": 175
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 17,
+    "hints": [
+      {
+        "content": "We can put a monkey on each bed until all the monkeys are on a bed:[[image 0]][[image 1]]How many monkeys will be on each bed?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/fd052e6a1079abd017c4ccdf817cd605fb5361f0.svg",
+            "width": 450,
+            "height": 43
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/28bfcff23e36c3bff94898b936a96810fbfa7614.svg",
+            "width": 450,
+            "height": 58
+          }
+        ]
+      },
+      {
+        "content": "\n[[image 0]]$\\redD5$ monkeys will be on each bed. $10 \\div 2 = \\redD5$",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/bbfb66065ca997d9e77b86c7ccf6f35a8375465e.svg",
+            "width": 450,
+            "height": 58
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "There are $10$ jumping monkeys. We want to divide them equally onto $2$ beds.[[image 0]][[image 1]]**How many monkeys will be on each bed?** $10\\div 2 = $ [[numeric-input 1]] monkeys",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/b8e8151ec27f0a6180461dd6e5eba47abe0a4630.svg",
+          "width": 450,
+          "height": 43
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/134969db805097e699cce9df2bbde61e728847e8.svg",
+          "width": 450,
+          "height": 80
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 18,
+    "hints": [
+      {
+        "content": "We can put a banana in each basket until all the bananas are in a basket:[[image 0]][[image 1]]How many bananas will be in each basket?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/d67b1bba9336d1e5588ba4bf54b3c6e9b03108d9.svg",
+            "width": 450,
+            "height": 81
+          },
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/c0c5d39773b83e7644c0cbc0e08fa456525c5b90.svg",
+            "width": 450,
+            "height": 84
+          }
+        ]
+      },
+      {
+        "content": "\n[[image 0]]$\\goldE8$ bananas will be in each basket. $24 \\div 3 = \\goldE8$",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/403650e402341b3be36acea5f5373fb348149d6f.svg",
+            "width": 450,
+            "height": 84
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "There are $24$ bananas. We want to divide them equally into $3$ baskets.[[image 0]][[image 1]]**How many bananas will be in each basket?** $24\\div 3 = $ [[numeric-input 1]] bananas",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/bc92f8f93dd13090e73b452dae5cda376105c0d9.svg",
+          "width": 450,
+          "height": 81
+        },
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/6fe6ca3cfcdb45e97a68d10c0f6cc827e79387cc.svg",
+          "width": 450,
+          "height": 107
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 19,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}8$ dots in each row:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/428665a63a62876c4439d7ca29d7c1a63ad34537.svg",
+            "width": 350,
+            "height": 221
+          }
+        ]
+      },
+      {
+        "content": "$48 \\div 6 = \\color{blue}8$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $48\\div6$ by dividing $48$ dots into $6$ equal rows:[[image 0]]**How many dots are in each row?**$48 \\div 6 =$ [[numeric-input 1]] ",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/fa796e8d5a16c5c47002fc89207dbe1816f8aa53.svg",
+          "width": 350,
+          "height": 221
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  },
+  {
+    "id": 20,
+    "hints": [
+      {
+        "content": "There are $\\color{blue}8$ dots in each row:[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/ab8ab7f973f28265d893e06d2ad28d303edb61e4.svg",
+            "width": 300,
+            "height": 144
+          }
+        ]
+      },
+      {
+        "content": "$32 \\div 4 = \\color{blue}8$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "We can find $32\\div4$ by dividing $32$ dots into $4$ equal rows:[[image 0]]**How many dots are in each row?**$32 \\div 4 =$ [[numeric-input 1]] ",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/ef7665e33040d89b0bbf465a4efd67e7ee5cb079.svg",
+          "width": 300,
+          "height": 144
+        }
+      ]
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": ["mGvunan-I-Q", "qIAszZBV84s"]
+  }
+]

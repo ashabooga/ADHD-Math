@@ -22,17 +22,9 @@ struct CustomTextView: View {
                     let image = getImageFromItem(text: text, item: item, question: question)
                     
                     image
-                    
                 } else {
-                    
-                    if item.contains("$") {
-                        
-                        LaTeX(item)
-                            .imageRenderingMode(.original)
-                    } else {
-                        Text(item)
-                            .multilineTextAlignment(.leading)
-                    }
+                    LaTeX(item)
+                        .imageRenderingMode(.original)
                 }
                 
             }
@@ -49,9 +41,7 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
     let imagePrefix: String = "[[image "
     
     var imageURL: String = "noImage"
-    var imageWidth: CGFloat = 200
-    var imageHeight: CGFloat = 200
-    
+
     if item.starts(with: graphiePrefix) {
         let trimmedItem = String(item.dropFirst(graphiePrefix.count).dropLast(6))
         imageURL = trimmedItem
@@ -81,43 +71,42 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
         }
         
         imageURL = image.url
-        imageWidth = image.width
-        imageHeight = image.height
+        imageURL = String(imageURL.dropFirst(graphiePrefix.count - 2).dropLast(4))
     }
     
-    let image = Image(uiImage: UIImage(named: imageURL) ?? UIImage(named: "noImage")!).resizable().scaledToFit().frame(width: imageWidth, height: imageHeight)
+    let image: Image = Image(uiImage: UIImage(named: imageURL) ?? UIImage(named: "noImage")!)
     
     return image
 }
 
 func getItemsInString(_ string: String) -> [String] {
     
-    let pattern = #"\[\[.*?\]\]"#
+    let pattern = #"\[\[(\w+\s\d+)\]\]"#
         
-        guard let regex = try? NSRegularExpression(pattern: pattern) else {
-            return []
+    guard let regex = try? NSRegularExpression(pattern: pattern) else {
+        return []
+    }
+
+    let matches = regex.matches(in: string, range: NSRange(string.startIndex..., in: string))
+    var items: [String] = []
+
+    var currentIndex = string.startIndex
+    for match in matches {
+        if let range = Range(match.range, in: string) {
+            let prefix = String(string[currentIndex..<range.lowerBound])
+            items.append(prefix)
+
+            let matchedSubstring = String(string[range])
+            items.append(matchedSubstring)
+
+            currentIndex = range.upperBound
         }
-
-        let matches = regex.matches(in: string, range: NSRange(string.startIndex..., in: string))
-        var items: [String] = []
-        
-
-        var currentIndex = string.startIndex
-        for match in matches {
-            if let range = Range(match.range, in: string) {
-
-                let prefix = String(string[currentIndex..<range.lowerBound])
-                items.append(prefix)
-
-                let matchedSubstring = String(string[range])
-                items.append(matchedSubstring)
-
-                currentIndex = range.upperBound
-            }
-        }
-        
-        let remainingText = String(string[currentIndex...])
-        items.append(remainingText)
-        
-        return items
+    }
+    
+    let remainingText = String(string[currentIndex...])
+    items.append(remainingText)
+    
+    print(items)
+    
+    return items
 }

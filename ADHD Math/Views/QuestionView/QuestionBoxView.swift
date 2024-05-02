@@ -6,6 +6,7 @@ struct QuestionBoxView: View {
     let question: QuestionModel
     let isTest: Bool
     @Binding var selectedAnswers: [String]
+    @State var inputtedAnswer: String = ""
     
     var hintAction: () -> Void
     
@@ -34,11 +35,16 @@ struct QuestionBoxView: View {
                         .frame(width: 250)
                     
                 case QuestionType.number:
-                    TextField("", text: $selectedAnswers[0])
+//                    let _ = print("number!")
+                    TextField("", text: $inputtedAnswer)
                         .contentShape(Rectangle()).gesture(DragGesture())
                         .keyboardType(.numberPad)
                         .textFieldStyle(.roundedBorder)
                         .frame(width: 100)
+                        .multilineTextAlignment(.center)
+                        .onChange(of: inputtedAnswer) {
+                            selectedAnswers = [inputtedAnswer]
+                        }
                     
                 default:
                     ForEach(question.options, id: \.self) { option in
@@ -50,25 +56,21 @@ struct QuestionBoxView: View {
  
             }
             .padding(.vertical, 30)
+            .frame(width: 300)
             .background(
                 RoundedRectangle(cornerRadius: 25)
                     .foregroundStyle(Color("Background3Accent"))
                     .frame(width: 350)
             )
-            
-            if !isTest {
-                
-                HStack {
-                    
-                    Spacer()
-                    
+            .overlay(alignment: .topTrailing, content: {
+                if !isTest {
+                        
                     HelpButtonView(hintAction: { hintAction() }, question: question)
+                        .padding(.top, -30)
+                        .padding(.trailing, -30)
                         .contentShape(Rectangle()).gesture(DragGesture())
-                    
                 }
-                .padding(.trailing, 10)
-                .padding(.bottom, 315)
-            }
+            })
             
         }
         
@@ -76,7 +78,7 @@ struct QuestionBoxView: View {
 }
 
 #Preview {
-    let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "noVideo", height: 100, width: 100)]), options: ["option 1 $7\\times2=\\text{?}$", "option 2", "option 3", "option 4"], questionType: .singleChoice, correctAnswers: ["option 2"], videos: ["noVideo"])
+    let question: QuestionModel = QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $5\\div6$ \n[[image 1]]", images: [ImageModel(url: "noVideo", height: 100, width: 100)]), options: ["1", "2", "3"], questionType: .number, correctAnswers: ["option 2"], videos: ["noVideo"])
     @State var selectedAnswers: [String] = []
     
     func noFunc() {

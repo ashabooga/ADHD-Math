@@ -1,213 +1,212 @@
-
 [
-    {
-        "id": 0,
-        "displayTitle": "Division as equal groups",
-        "fileTitle": "5GOhM3jq9Fc",
-        "type": "video",
-        "isCompleted": false
-    },
-    {
-        "id": 1,
-        "displayTitle": "Division with groups of objects",
-        "fileTitle": "division_with_groups_of_objects",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 2,
-        "displayTitle": "Visualizing division with arrays",
-        "fileTitle": "noVideo",
-        "type": "video",
-        "isCompleted": false
-    },
-    {
-        "id": 3,
-        "displayTitle": "Division with arrays",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 4,
-        "displayTitle": "Divide with visuals",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 5,
-        "displayTitle": "Division in context",
-        "fileTitle": "noVideo",
-        "type": "video",
-        "isCompleted": false
-    },
-    {
-        "id": 6,
-        "displayTitle": "Division in contexts",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 7,
-        "displayTitle": "Quiz 1",
-        "fileTitle": "example_lesson",
-        "type": "quiz",
-        "isCompleted": false
-    },
-    {
-        "id": 8,
-        "displayTitle": "Relating division to multiplication",
-        "fileTitle": "noVideo",
-        "type": "video",
-        "isCompleted": false
-    },
-    {
-        "id": 9,
-        "displayTitle": "Relate division to multiplication",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 10,
-        "displayTitle": "Relate multiplication and division equations",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 11,
-        "displayTitle": "Fact families",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 12,
-        "displayTitle": "Multiplication word problem: parking lot",
-        "fileTitle": "noVideo",
-        "type": "video",
-        "isCompleted": false
-    },
-    {
-        "id": 13,
-        "displayTitle": "Division word problem: school building",
-        "fileTitle": "noVideo",
-        "type": "video",
-        "isCompleted": false
-    },
-    {
-        "id": 14,
-        "displayTitle": "Quiz 2",
-        "fileTitle": "example_lesson",
-        "type": "quiz",
-        "isCompleted": false
-    },
-    {
-        "id": 15,
-        "displayTitle": "Divide by 1",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 16,
-        "displayTitle": "Divide by 2",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 17,
-        "displayTitle": "Divide by 4",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 18,
-        "displayTitle": "Quiz 3",
-        "fileTitle": "example_lesson",
-        "type": "quiz",
-        "isCompleted": false
-    },
-    {
-        "id": 19,
-        "displayTitle": "Divide by 5",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 20,
-        "displayTitle": "Divide by 10",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 21,
-        "displayTitle": "Divide by 3",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 22,
-        "displayTitle": "Divide by 6",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 23,
-        "displayTitle": "Quiz 4",
-        "fileTitle": "example_lesson",
-        "type": "quiz",
-        "isCompleted": false
-    },
-    {
-        "id": 24,
-        "displayTitle": "Divide by 7",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 25,
-        "displayTitle": "Divide by 8",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 26,
-        "displayTitle": "Divide by 9",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 27,
-        "displayTitle": "Quiz 5",
-        "fileTitle": "example_lesson",
-        "type": "quiz",
-        "isCompleted": false
-    },
-    {
-        "id": 28,
-        "displayTitle": "Basic division",
-        "fileTitle": "example_lesson",
-        "type": "practice",
-        "isCompleted": false
-    },
-    {
-        "id": 29,
-        "displayTitle": "Unit Test",
-        "fileTitle": "example_lesson",
-        "type": "test",
-        "isCompleted": false
-    }
+  {
+    "id": 0,
+    "displayTitle": "Division as equal groups",
+    "fileTitle": "mGvunan-I-Q",
+    "type": "video",
+    "isCompleted": false
+  },
+  {
+    "id": 1,
+    "displayTitle": "Division with groups of objects",
+    "fileTitle": "testing",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "displayTitle": "Visualizing division with arrays",
+    "fileTitle": "qIAszZBV84s",
+    "type": "video",
+    "isCompleted": false
+  },
+  {
+    "id": 3,
+    "displayTitle": "Division with arrays",
+    "fileTitle": "division_with_arrays",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 4,
+    "displayTitle": "Divide with visuals",
+    "fileTitle": "divide_with_visuals",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 5,
+    "displayTitle": "Division in context",
+    "fileTitle": "vBWuQnmiY3k",
+    "type": "video",
+    "isCompleted": false
+  },
+  {
+    "id": 6,
+    "displayTitle": "Division in contexts",
+    "fileTitle": "division_in_contexts",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 7,
+    "displayTitle": "Quiz 1",
+    "fileTitle": "quiz_1",
+    "type": "quiz",
+    "isCompleted": false
+  },
+  {
+    "id": 8,
+    "displayTitle": "Relating division to multiplication",
+    "fileTitle": "qcMJ1pN36r4",
+    "type": "video",
+    "isCompleted": false
+  },
+  {
+    "id": 9,
+    "displayTitle": "Relate division to multiplication",
+    "fileTitle": "relate_division_to_multiplication",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 10,
+    "displayTitle": "Relate multiplication and division equations",
+    "fileTitle": "relate_multiplication_and_division_equations",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 11,
+    "displayTitle": "Fact families",
+    "fileTitle": "fact_families",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 12,
+    "displayTitle": "Multiplication word problem: parking lot",
+    "fileTitle": "6QZCj4O9sk0",
+    "type": "video",
+    "isCompleted": false
+  },
+  {
+    "id": 13,
+    "displayTitle": "Division word problem: school building",
+    "fileTitle": "5GOhM3jq9Fc",
+    "type": "video",
+    "isCompleted": false
+  },
+  {
+    "id": 14,
+    "displayTitle": "Quiz 2",
+    "fileTitle": "quiz_2",
+    "type": "quiz",
+    "isCompleted": false
+  },
+  {
+    "id": 15,
+    "displayTitle": "Divide by 1",
+    "fileTitle": "divide_by_1",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 16,
+    "displayTitle": "Divide by 2",
+    "fileTitle": "divide_by_2",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 17,
+    "displayTitle": "Divide by 4",
+    "fileTitle": "divide_by_4",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 18,
+    "displayTitle": "Quiz 3",
+    "fileTitle": "quiz_3",
+    "type": "quiz",
+    "isCompleted": false
+  },
+  {
+    "id": 19,
+    "displayTitle": "Divide by 5",
+    "fileTitle": "divide_by_5",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 20,
+    "displayTitle": "Divide by 10",
+    "fileTitle": "divide_by_10",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 21,
+    "displayTitle": "Divide by 3",
+    "fileTitle": "divide_by_3",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 22,
+    "displayTitle": "Divide by 6",
+    "fileTitle": "divide_by_6",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 23,
+    "displayTitle": "Quiz 4",
+    "fileTitle": "quiz_4",
+    "type": "quiz",
+    "isCompleted": false
+  },
+  {
+    "id": 24,
+    "displayTitle": "Divide by 7",
+    "fileTitle": "divide_by_7",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 25,
+    "displayTitle": "Divide by 8",
+    "fileTitle": "divide_by_8",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 26,
+    "displayTitle": "Divide by 9",
+    "fileTitle": "divide_by_9",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 27,
+    "displayTitle": "Quiz 5",
+    "fileTitle": "quiz_5",
+    "type": "quiz",
+    "isCompleted": false
+  },
+  {
+    "id": 28,
+    "displayTitle": "Basic division",
+    "fileTitle": "basic_division",
+    "type": "practice",
+    "isCompleted": false
+  },
+  {
+    "id": 29,
+    "displayTitle": "Unit Test",
+    "fileTitle": "unit_test",
+    "type": "test",
+    "isCompleted": false
+  }
 ]

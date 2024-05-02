@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}18\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e2d8ad511d542491e829d77d8eef586eb2a9574c.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}18\\color{black} \\div \\color{green}2\\color{black} = {9}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}1\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}4\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/2ea35b54a6b43b09ef63cea3fd7a0706db70470b.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}4\\color{black} \\div \\color{green}2\\color{black} = {2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}4\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}16\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e761e95df638bdce52d3b81133dd73a3cc47b88a.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}16\\color{black} \\div \\color{green}2\\color{black} = {8}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}1\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}10\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/83472bf3c61e3068ad4adbb4989165c0fe048589.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}10\\color{black} \\div \\color{green}2\\color{black} = {5}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}1\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}20\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/34885cb9e8ce0979adcd151988482c6d722c9693.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}20\\color{black} \\div \\color{green}2\\color{black} = {10}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}2\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      10
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}8\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/3410d6286ded9d080b2d19e6cf9b8a0324722fdb.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}8\\color{black} \\div \\color{green}2\\color{black} = {4}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}8\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      4
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}14\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/8198f5c51934009a48b54420451a42f1a16132a3.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}14\\color{black} \\div \\color{green}2\\color{black} = {7}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}1\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      7
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}2\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/1b0c00918b79e00af94b1f09f1ceac60cb8c83a4.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}2\\color{black} \\div \\color{green}2\\color{black} = {1}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}2\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      1
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}6\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/a71cb84a54a1a8d5b73902fcce1a351decc4aa1e.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}6\\color{black} \\div \\color{green}2\\color{black} ={3}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}6\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": ["mGvunan-I-Q"]
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\color{black}12\\color{black}$ circles into $\\color{green}2$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/476030892742cc7e736bbfc28aa2ecf791057c02.svg",
+            "width": 473,
+            "height": 108
+          }
+        ]
+      },
+      {
+        "content": "$\\color{blue}\\color{black}12\\color{black} \\div \\color{green}2\\color{black} ={6}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\color{blue}1\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      6
+    ],
+    "videos": ["mGvunan-I-Q"]
+  }
+]

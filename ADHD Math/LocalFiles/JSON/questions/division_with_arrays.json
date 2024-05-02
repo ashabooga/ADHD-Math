@@ -1,0 +1,733 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "$\\color{green}21\\color{black} \\div \\color{purple}7$ equals $\\color{green}21\\color{black}$ total dots split into rows of $\\color{purple}7$.\n",
+        "images": null
+      },
+      {
+        "content": "This array has $\\color{green}21\\color{black}$ total dots split into rows of $\\color{purple}7$.  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/831c3b5d7e9fc6bc967391c097173dd93fa5fc21.svg",
+            "width": 220,
+            "height": 110
+          }
+        ]
+      },
+      {
+        "content": "This image represents $21 \\div 7$:  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e87fa6f63a8cc8ffa2630ad32f212af79a9de4e4.svg",
+            "width": 220,
+            "height": 97
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "**Which image could represent $21 \\div 7?$**  ",
+      "images": null
+    },
+    "options": [
+      "[An array of green dots arranged in 3 rows of 7 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/e87fa6f63a8cc8ffa2630ad32f212af79a9de4e4.svg]]",
+      "[An array of red dots arranged in 7 rows of 4 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/0103f60a1f2232f0900fcf563fc9c6b69995e6f5.svg]]",
+      "[An array of blue dots arranged in 4 rows of 7 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/1231d311c7a77e4382e789256f36d4d95c1d773e.svg]]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[An array of green dots arranged in 3 rows of 7 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/e87fa6f63a8cc8ffa2630ad32f212af79a9de4e4.svg]]"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "There are $\\color{green}42\\color{black}$ carrots with $\\color{purple}7$ carrots in each row.[Same image with the carrots in a row numbered 1 through 7 and horizontal lines between the rows][[https://cdn.kastatic.org/ka-perseus-graphie/3457cc31a2de482ddd6c13a564ab296b3e337be5.svg]]How can we find out how many rows of carrots there are?",
+        "images": null
+      },
+      {
+        "content": "We can find how many rows of carrots there are by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the rows}\\color{black}$So, $\\color{green}42}\\div\\color{purple}7}$",
+        "images": null
+      },
+      {
+        "content": "The following expression will tell us how many rows of carrots there are:- $\\color{green}42\\color{black}\\div\\color{purple}7$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $42$ total carrots split into rows of $7$ carrots. [42 carrots with 7 carrots per row][[https://cdn.kastatic.org/ka-perseus-graphie/4b4eedc16a81518e9b3399a9b82af3d0f5ada169.svg]] **Which expression will tell us how many rows of carrots there are?**",
+      "images": null
+    },
+    "options": [
+      "$42 \\div 7$",
+      "$7\\div 6$",
+      "$42 \\div 8$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$42 \\div 7$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}4$ rows with $\\color{purple}10\\color{black}$ dots in each row.[[image 0]]There are $\\color{green}40\\color{black}$ total dots.",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5e07d88edff5180d156153ef4a3a8c3c33767313.svg",
+            "width": 220,
+            "height": 100
+          }
+        ]
+      },
+      {
+        "content": "\n$\\color{green}40\\color{black}\\text{ total dots}\\div ~\\color{purple}10\\color{black}\\text{ dots in each row}= \\color{blue}4\\text{ rows}$\n$\\color{green}40\\color{black}\\text{ total dots}\\div \\color{blue}4\\text{ rows}  ~=\\color{purple}10\\color{black}\\text{ dots in each row}$\n",
+        "images": null
+      },
+      {
+        "content": "The following expressions represent the array:- $\\color{green}40\\color{black}\\div\\color{purple}10\\color{black}$\n- $\\color{green}40}\\div\\color{blue}4$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/7c8123bc47cf8495df4e3687aecb1551b2dfbd53.svg",
+          "width": 220,
+          "height": 90
+        }
+      ]
+    },
+    "options": [
+      "$40\\div4$",
+      "$40\\div11$",
+      "$40\\div10$",
+      "$10\\div4$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$40\\div4$",
+      "$40\\div10$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "There are $\\color{green}25\\color{black}$ books in $\\color{blue}5$ equal rows.[Same image with the rows numbered 1 through 5 and horizontal lines between the rows][[https://cdn.kastatic.org/ka-perseus-graphie/4da0e35432982cdbafc93b77781b115d508ca8ac.svg]]How can we find out how many books are in each row?",
+        "images": null
+      },
+      {
+        "content": "We can find how many books are in each row by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$So, $\\color{green}25}\\div\\color{blue}5}$",
+        "images": null
+      },
+      {
+        "content": "The following expression will tell us how many books are in each row:- $\\color{green}25\\color{black}\\div\\color{blue}5$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $5$ equal rows of books. There are $25$ total books.[25 books in 5 equal rows][[https://cdn.kastatic.org/ka-perseus-graphie/b6b98282acb82b9d8c58642fcea595fa46ad7b60.svg]] **Which expression will tell us how many books are in each row?**",
+      "images": null
+    },
+    "options": [
+      "$25 \\div 5$",
+      "$5\\div 25$",
+      "$25 \\div 4$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$25 \\div 5$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "$\\color{green}12\\color{black} \\div \\color{blue}6$ equals $\\color{green}12\\color{black}$ total dots split into $\\color{blue}6$ rows.\n",
+        "images": null
+      },
+      {
+        "content": "This array has $\\color{green}12\\color{black}$ total dots split into $\\color{blue}6$ rows.  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/ca3229f5e8198144fd0c69b70d4e79b7f3e924e6.svg",
+            "width": 73,
+            "height": 170
+          }
+        ]
+      },
+      {
+        "content": "This image represents $12 \\div 6$:  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/8870265e8c98eeccb91845480684afccef6f394d.svg",
+            "width": 59,
+            "height": 170
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "**Which image could represent $12 \\div 6?$**  ",
+      "images": null
+    },
+    "options": [
+      "[An array of green dots arranged in 6 rows of 2 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/8870265e8c98eeccb91845480684afccef6f394d.svg]]",
+      "[An array of red dots arranged in 6 rows of 3 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/873d33073aff64707b76df2802da065012583b25.svg]]",
+      "[An array of blue dots arranged in 3 rows of 6 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/b64caefc2a2c7b7df0322817fdd2140b18ba8b8f.svg]]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[An array of green dots arranged in 6 rows of 2 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/8870265e8c98eeccb91845480684afccef6f394d.svg]]"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}5$ rows with $\\color{purple}6$ dots in each row.[[image 0]]There are $\\color{green}30\\color{black}$ total dots.",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/ef876ff30936c2cf5d3395ca1f6dab5ec7e62c30.svg",
+            "width": 220,
+            "height": 189
+          }
+        ]
+      },
+      {
+        "content": "\n$\\color{green}30\\color{black}\\text{ total dots}\\div ~\\color{purple}6\\text{ dots in each row}= \\color{blue}5\\text{ rows}$\n$\\color{green}30\\color{black}\\text{ total dots}\\div \\color{blue}5\\text{ rows}  ~=\\color{purple}6\\text{ dots in each row}$\n",
+        "images": null
+      },
+      {
+        "content": "The following expressions represent the array:- $\\color{green}30\\color{black}\\div\\color{purple}6$\n- $\\color{green}30\\color{black}\\div\\color{blue}5$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/e464985c910eb4ba0ec2bd5b38198d61a072ff69.svg",
+          "width": 220,
+          "height": 184
+        }
+      ]
+    },
+    "options": [
+      "$30\\div5$",
+      "$30\\div3$",
+      "$30\\div6$",
+      "$6\\div5$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$30\\div5$",
+      "$30\\div6$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}6$ rows with $\\color{purple}8$ dots in each row.[[image 0]]There are $\\color{green}48\\color{black}$ total dots.",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/3836975baaa687c69b45772611b8f0e96c3fc22b.svg",
+            "width": 220,
+            "height": 171
+          }
+        ]
+      },
+      {
+        "content": "\n$\\color{green}48\\color{black}\\text{ total dots}\\div ~\\color{purple}8\\text{ dots in each row}= \\color{blue}6\\text{ rows}$\n$\\color{green}48\\color{black}\\text{ total dots}\\div \\color{blue}6\\text{ rows}  ~=\\color{purple}8\\text{ dots in each row}$\n",
+        "images": null
+      },
+      {
+        "content": "The following expressions represent the array:- $\\color{green}48\\color{black}\\div\\color{purple}8$\n- $\\color{green}48\\color{black}\\div\\color{blue}6$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/625bbfa40d02cccb5df5ba7af0a125f2df3d77a9.svg",
+          "width": 220,
+          "height": 166
+        }
+      ]
+    },
+    "options": [
+      "$48\\div6$",
+      "$6\\div8$",
+      "$48\\div8$",
+      "$42\\div8$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$48\\div6$",
+      "$48\\div8$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}3$ rows with $\\color{purple}6$ dots in each row.[[image 0]]There are $\\color{green}18\\color{black}$ total dots.",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/826cc683b6a5592309cd46715ed408abfc876883.svg",
+            "width": 170,
+            "height": 97
+          }
+        ]
+      },
+      {
+        "content": "\n$\\color{green}18\\color{black}\\text{ total dots}\\div ~\\color{purple}6\\text{ dots in each row}= \\color{blue}3\\text{ rows}$\n$\\color{green}18\\color{black}\\text{ total dots}\\div \\color{blue}3\\text{ rows}  ~=\\color{purple}6\\text{ dots in each row}$\n",
+        "images": null
+      },
+      {
+        "content": "The following expressions represent the array:- $\\color{green}18\\color{black}\\div\\color{purple}6$\n- $\\color{green}18\\color{black}\\div\\color{blue}3$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/affcd83ca2e9dfce22ce716fcc6774d2d066a685.svg",
+          "width": 170,
+          "height": 87
+        }
+      ]
+    },
+    "options": [
+      "$18\\div6$",
+      "$6\\div3$",
+      "$18\\div3$",
+      "$18\\div4$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$18\\div6$",
+      "$18\\div3$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "There are $\\color{green}20\\color{black}$ boxes in $\\color{blue}4$ equal rows.[Same image with the rows numbered 1 through 4 and horizontal lines between the rows][[https://cdn.kastatic.org/ka-perseus-graphie/51eafe193502a2b098331835dd9afbe0744f26de.svg]]How can we find out how many boxes are in each row?",
+        "images": null
+      },
+      {
+        "content": "We can find how many boxes are in each row by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$So, $\\color{green}20}\\div\\color{blue}4}$",
+        "images": null
+      },
+      {
+        "content": "The following expression will tell us how many boxes are in each row:- $\\color{green}20\\color{black}\\div\\color{blue}4$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $20$ total boxes split into $4$ equal rows. [20 boxes in 4 equal rows][[https://cdn.kastatic.org/ka-perseus-graphie/1d233fbd952ceed975224617b3ce047b797bb56a.svg]] **Which expression will tell us how many boxes are in each row?**",
+      "images": null
+    },
+    "options": [
+      "$20 \\div 4$",
+      "$4\\div 20$",
+      "$20 \\div 3$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$20 \\div 4$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "$\\color{green}10\\color{black} \\div \\color{blue}2$ equals $\\color{green}10\\color{black}$ total dots split into $\\color{blue}2$ rows.\n",
+        "images": null
+      },
+      {
+        "content": "This array has $\\color{green}10\\color{black}$ total dots split into $\\color{blue}2$ rows.  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/3342d09582f1ac4f861414fc2fbdb30b1148fdbd.svg",
+            "width": 170,
+            "height": 85
+          }
+        ]
+      },
+      {
+        "content": "This image represents $10 \\div 2$:  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5849738ad8660587bfd31fd53fcfdff62a76ce39.svg",
+            "width": 170,
+            "height": 71
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "**Which image could represent $10 \\div 2?$**  ",
+      "images": null
+    },
+    "options": [
+      "[An array of purple dots arranged in 2 rows of 5 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/5849738ad8660587bfd31fd53fcfdff62a76ce39.svg]]",
+      "[An array of green dots arranged in 2 rows of 6 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/c1b25c72f097258c7e06ac8e16703414fb76ad8a.svg]]",
+      "[An array of red dots arranged in 5 rows of 3 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/2e030c164d2b160088d3a056b96a03cb32e8dcbf.svg]]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[An array of purple dots arranged in 2 rows of 5 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/5849738ad8660587bfd31fd53fcfdff62a76ce39.svg]]"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 11,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}2$ rows with $\\color{purple}9$ dots in each row.[[image 0]]There are $\\color{green}18\\color{black}$ total dots.",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/a370661f7da5c431603f4fd39b65514e891ba20c.svg",
+            "width": 220,
+            "height": 66
+          }
+        ]
+      },
+      {
+        "content": "\n$\\color{green}18\\color{black}\\text{ total dots}\\div ~\\color{purple}9\\text{ dots in each row}= \\color{blue}2\\text{ rows}$\n$\\color{green}18\\color{black}\\text{ total dots}\\div \\color{blue}2\\text{ rows}  ~=\\color{purple}9\\text{ dots in each row}$\n",
+        "images": null
+      },
+      {
+        "content": "The following expressions represent the array:- $\\color{green}18\\color{black}\\div\\color{purple}9$\n- $\\color{green}18\\color{black}\\div\\color{blue}2$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/028c582f4248fb2b1449255e794b3131cd0f460c.svg",
+          "width": 220,
+          "height": 52
+        }
+      ]
+    },
+    "options": [
+      "$18\\div2$",
+      "$15\\div3$",
+      "$18\\div9$",
+      "$9\\div18$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$18\\div2$",
+      "$18\\div9$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 12,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "$\\color{green}27\\color{black} \\div \\color{blue}3$ equals $\\color{green}27\\color{black}$ total dots split into $\\color{blue}3$ groups.\n",
+        "images": null
+      },
+      {
+        "content": "This array has $\\color{green}27\\color{black}$ total dots split into $\\color{blue}3$ rows.  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/00741ec9c87a43931be006a0f65ecaf6d794a6c8.svg",
+            "width": 220,
+            "height": 88
+          }
+        ]
+      },
+      {
+        "content": "This image represents $27 \\div 3$:  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/7f84476fa7ee651ff79d944895452c4012933651.svg",
+            "width": 220,
+            "height": 76
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "**Which image could represent $27 \\div 3?$**  ",
+      "images": null
+    },
+    "options": [
+      "[An array of red dots arranged in 3 rows of 9 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/7f84476fa7ee651ff79d944895452c4012933651.svg]]",
+      "[An array of purple dots arranged in 3 rows of 8 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/4d4f558e4ac3f869421f1488bc6b0242e42ff984.svg]]",
+      "[An array of green dots arranged in 10 rows of 3 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/73d90a0f2c37546b3a2b54dfcd1b56a840ce14a3.svg]]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[An array of red dots arranged in 3 rows of 9 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/7f84476fa7ee651ff79d944895452c4012933651.svg]]"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 13,
+    "hints": [
+      {
+        "content": "There are $\\color{green}32\\color{black}$ cups with $\\color{purple}8$ cups in each row.[Same image with the cups in a row numbered 1 through 8 and horizontal lines between the rows][[https://cdn.kastatic.org/ka-perseus-graphie/4cf7657147cde03232968914f1ddd655eeb3d2c1.svg]]How can we find out how many rows of cups there are?",
+        "images": null
+      },
+      {
+        "content": "We can find how many rows of cups there are by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the rows}\\color{black}$So, $\\color{green}32}\\div\\color{purple}8}$",
+        "images": null
+      },
+      {
+        "content": "The following expression will tell us how many rows of cups there are:- $\\color{green}32\\color{black}\\div\\color{purple}8$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $8$ cups in a row. There are $32$ total cups.[32 cups with 8 cups per row][[https://cdn.kastatic.org/ka-perseus-graphie/4ce3efe7644c2b5fe3270ede70821dacc3afd9ff.svg]] **Which expression will tell us how many rows of cups there are?**",
+      "images": null
+    },
+    "options": [
+      "$32 \\div 8$",
+      "$8\\div 32$",
+      "$28 \\div 8$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$32 \\div 8$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 14,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "$\\color{green}20\\color{black} \\div \\color{purple}4$ equals $\\color{green}20\\color{black}$ total dots split into rows of $\\color{purple}4$.\n",
+        "images": null
+      },
+      {
+        "content": "This array has $\\color{green}20\\color{black}$ total dots split into rows of $\\color{purple}4$.  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/16a805d6bffc273c94da47d67684c7c01b7cc240.svg",
+            "width": 183,
+            "height": 220
+          }
+        ]
+      },
+      {
+        "content": "This image represents $20 \\div 4$:  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/f43e589cfb9e9fa0c5bfd3b671047a552e5f9c5d.svg",
+            "width": 137,
+            "height": 170
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "**Which image could represent $20 \\div 4?$**  ",
+      "images": null
+    },
+    "options": [
+      "[An array of twenty green dots arranged in 5 rows of 4 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/f43e589cfb9e9fa0c5bfd3b671047a552e5f9c5d.svg]]",
+      "[An array of sixteen blue dots arranged in 4 rows of 4 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/c1fa361b0d128fcc1d986c6ba5f3303dc9855fdc.svg]]",
+      "[An array of twenty five red dots arranged in 5 rows of 5 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/ce2939c1352e7415cbcf53be9b00ae89be8f5980.svg]]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[An array of twenty green dots arranged in 5 rows of 4 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/f43e589cfb9e9fa0c5bfd3b671047a552e5f9c5d.svg]]"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 15,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "There are $\\color{blue}3$ rows with $\\color{purple}5\\color{black}$ dots in each row.[[image 0]]There are $\\color{green}15\\color{black}$ total dots.",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/bcd3f0783a95a2f2d28e986e6d6566987823f6fb.svg",
+            "width": 220,
+            "height": 147
+          }
+        ]
+      },
+      {
+        "content": "\n$\\color{green}15\\color{black}\\text{ total dots}\\div ~\\color{purple}5\\color{black}\\text{ dots in each row}= \\color{blue}3\\text{ rows}$\n$\\color{green}15\\color{black}\\text{ total dots}\\div \\color{blue}3\\text{ rows}  ~=\\color{purple}5\\color{black}\\text{ dots in each row}$\n",
+        "images": null
+      },
+      {
+        "content": "The following expressions represent the array:- $\\color{green}15\\color{black}\\div\\color{purple}5\\color{black}$\n- $\\color{green}15}\\div\\color{blue}3$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "images": [
+        {
+          "url": "https://cdn.kastatic.org/ka-perseus-graphie/4a7bee24319d1eda825bea0bf278b229bbf3cbb7.svg",
+          "width": 220,
+          "height": 135
+        }
+      ]
+    },
+    "options": [
+      "$15\\div5$",
+      "$12\\div5$",
+      "$15\\div3$",
+      "$5\\div3$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$15\\div5$",
+      "$15\\div3$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 16,
+    "hints": [
+      {
+        "content": "There are $\\color{green}20\\color{black}$ people with $\\color{purple}2$ people in each group.[Same image with the people in a row numbered 1 through 2 and horizontal lines between the rows][[https://cdn.kastatic.org/ka-perseus-graphie/1604e6de4b55503929e7aea4ae550c832609a925.svg]]How can we find out how many groups of people there are?",
+        "images": null
+      },
+      {
+        "content": "We can find how many groups of people there are by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the rows}\\color{black}$So, $\\color{green}20}\\div\\color{purple}2}$",
+        "images": null
+      },
+      {
+        "content": "The following expression will tell us how many groups of people there are:- $\\color{green}20\\color{black}\\div\\color{purple}2$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $20$ total people split into groups of $2$. [20 people with 2 people per row][[https://cdn.kastatic.org/ka-perseus-graphie/9e70f55dd8fd93293cdaeaed89b3add9207856f6.svg]] **Which expression will tell us how many groups of people there are?**",
+      "images": null
+    },
+    "options": [
+      "$20 \\div 2$",
+      "$10\\div 20$",
+      "$2 \\div 10$"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "$20 \\div 2$"
+    ],
+    "videos": ["qIAszZBV84s"]
+  },
+  {
+    "id": 17,
+    "hints": [
+      {
+        "content": "We can relate division to arrays:\n$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}=\\color{purple}\\text{ number of objects in each row}\\color{black}$\n$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ number of objects in each row}\\color{black}=\\color{blue}\\text{ number of rows}}$\n",
+        "images": null
+      },
+      {
+        "content": "$\\color{green}32\\color{black} \\div \\color{purple}8$ equals $\\color{green}32\\color{black}$ total dots split into rows of $\\color{purple}8$.\n",
+        "images": null
+      },
+      {
+        "content": "This array has $\\color{green}32\\color{black}$ total dots split into rows of $\\color{purple}8$.  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/af6c7dabd84547b2c3bc016f0556cd53fda86375.svg",
+            "width": 220,
+            "height": 122
+          }
+        ]
+      },
+      {
+        "content": "This image represents $32 \\div 8$:  [[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/5c903241667467b181cb38d4ad3933be6777c473.svg",
+            "width": 170,
+            "height": 87
+          }
+        ]
+      }
+    ],
+    "question": {
+      "content": "**Which image could represent $32 \\div 8?$**  ",
+      "images": null
+    },
+    "options": [
+      "[An array of orange dots arranged in 4 rows of 8 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/5c903241667467b181cb38d4ad3933be6777c473.svg]]",
+      "[An array of green dots arranged in 3 rows of 8 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/84e99fa3c5648aed54e5cae174acbd405739dfde.svg]]",
+      "[An array of purple dots arranged in 8 rows of 2 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/679f4939471d77c36552fe237d69a7f4429eba41.svg]]"
+    ],
+    "questionType": "single_choice",
+    "correctAnswers": [
+      "[An array of orange dots arranged in 4 rows of 8 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/5c903241667467b181cb38d4ad3933be6777c473.svg]]"
+    ],
+    "videos": ["qIAszZBV84s"]
+  }
+]

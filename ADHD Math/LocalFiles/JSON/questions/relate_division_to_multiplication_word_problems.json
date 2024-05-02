@@ -1,0 +1,518 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "Each row has $\\color{purple}4$ plants.There are $\\color{green}16\\color{black}$ total plants.[[image 0]]How many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b4adcb3d4533e5b62df8e2f55bb931318b174efa.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{purple}\\text{size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$So, $\\color{purple}4\\times\\color{color{blue}}\\text{?}} = \\color{green}16}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the groups}\\color{black}=\\color{color{blue}}\\text{ number of groups}\\color{black} $So, $\\color{green}16\\color{black}\\div \\color{purple}4=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many rows of tomato plants Olivia planted are: - $\\color{purple}4\\times\\color{color{blue}}\\text{?}\\color{black} = \\color{green}16\\color{black}$ \n - $\\color{green}16\\color{black}\\div \\color{purple}4=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Olivia planted $16$ tomato plants in rows in her new garden.  She planted $4$ plants in each row.  **Which equations would help us find out how many rows of tomato plants Olivia planted?**",
+      "images": null
+    },
+    "options": [
+      "$4\\times \\,?=16$",
+      "$4\\times16=\\,?$  ",
+      "$16\\div4=\\,?$",
+      "$4\\div16=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$4\\times \\,?=16$",
+      "$16\\div4=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "There are $\\color{color{blue}}7\\color{black}$ kids.There are $\\color{green}35\\color{black}$ total cookies.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/f564b2b2a019ddcad73ae27f21c6ed31f36a2e4a.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{color{blue}}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\text{ total}\\color{black}$So, $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}} = \\color{green}35}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}35\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many cookies Lance gave each kid are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}35\\color{black}$\n - $\\color{green}35\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Lance baked $35$ cookies to give to the $7$ kids at his bus stop.  He gave each kid the same number of cookies.**Which equations would help us find out how many cookies Lance gave to each kid?**",
+      "images": null
+    },
+    "options": [
+      "$7\\times\\,?=35$",
+      "$35\\times7=\\,?$",
+      "$?\\div7=35$",
+      "$35\\div7=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$7\\times\\,?=35$",
+      "$35\\div7=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "There are $\\color{color{blue}}7\\color{black}$ packs.They sold $\\color{green}14\\color{black}$ total yo-yos.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/4dad5aab25750258322aa36dbdc232608f997790.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{color{blue}}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\text{ total}\\color{black}$So, $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}} = \\color{green}14}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}14\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many yo-yos were in each pack are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}14\\color{black}$\n - $\\color{green}14\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "The Juggler Jack store sold $7$ packs of yo-yos yesterday. That was a total of $14$ yo-yos.  Each pack had the same number of yo-yos.**Which equations would help us find out how many yo-yos are in each pack?**",
+      "images": null
+    },
+    "options": [
+      "$14\\times7=\\,?$",
+      "$7\\times\\,?=14$",
+      "$14\\div7=\\,?$",
+      "$7\\div\\,?=14$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$7\\times\\,?=14$",
+      "$14\\div7=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "Colleen has $\\color{color{blue}}3\\color{black}$ sons.They ate $\\color{green}18\\color{black}$ total nuggets.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b886870db9242db8bc169880bbad710435f65e5d.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{color{blue}}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\text{ total}\\color{black}$So, $\\color{color{blue}}3\\color{black}\\times\\color{purple}\\text{?}} = \\color{green}18}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}18\\color{black}\\div \\color{color{blue}}3}=\\color{purple}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many nuggets each son ate are: - $\\color{color{blue}}3\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}18\\color{black}$\n - $\\color{green}18\\color{black}\\div \\color{color{blue}}3}=\\color{purple}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Colleen made $18$ chicken nuggets for her $3$ sons.  Each son ate the same number of nuggets.  **Which equations would help us find out how many nuggets each son ate?**\n",
+      "images": null
+    },
+    "options": [
+      "$3\\times18=\\,?$",
+      "$3\\times\\,?=18$",
+      "$3\\div18=\\,?$",
+      "$18\\div3=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$3\\times\\,?=18$",
+      "$18\\div3=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "Each aunt gets $\\color{purple}7$ flowers.There are $\\color{green}28\\color{black}$ total flowers.[[image 0]]How many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e3ea9e6891bf092db6dc7a6707c76885e996b694.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{purple}\\text{size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$So, $\\color{purple}7\\times\\color{color{blue}}\\text{?}} = \\color{green}28}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the groups}\\color{black}=\\color{color{blue}}\\text{ number of groups}\\color{black} $So, $\\color{green}28\\color{black}\\div \\color{purple}7=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many aunts Burak has are:   -   $\\color{purple}7\\times\\color{color{blue}}\\text{?}\\color{black} = \\color{green}28\\color{black}$\n - $\\color{green}28\\color{black}\\div \\color{purple}7=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Burak picks $28$ flowers to give to his aunts.  He gives each of his aunts $7$ flowers.**Which equations would help us find out how many aunts Burak has?**",
+      "images": null
+    },
+    "options": [
+      "$28\\times 7 =\\,?$",
+      "$7\\times\\,?=28$  ",
+      "$?\\div28=7$",
+      "$28\\div7=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$7\\times\\,?=28$  ",
+      "$28\\div7=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "There are $\\color{color{blue}}8\\color{black}$ chefs.The made $\\color{green}56\\color{black}$ total meals.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/414048b52f01fe5907ebc7bb80c6ed85bcf468bc.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{color{blue}}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\text{ total}\\color{black}$So, $\\color{color{blue}}8\\color{black}\\times\\color{purple}\\text{?}} = \\color{green}56}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}56\\color{black}\\div \\color{color{blue}}8}=\\color{purple}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many meals each chef made are: - $\\color{color{blue}}8\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}56\\color{black}$\n - $\\color{green}56\\color{black}\\div \\color{color{blue}}8}=\\color{purple}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $8$ chefs. They made $56$ total meals. Each chef made the same number of meals.**Which equations would help us find out how many meals each chef made?**\n",
+      "images": null
+    },
+    "options": [
+      "$56\\times\\,?=8$",
+      "$8\\times\\,?=56$",
+      "$8\\div\\,?=56$",
+      "$56\\div8=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$8\\times\\,?=56$",
+      "$56\\div8=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "Each shelf has $\\color{purple}9$ books.There are $\\color{green}45\\color{black}$ total books.[[image 0]]How many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/fbb5c54ae47b6bee1b9885b62e022ad3beed1290.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{purple}\\text{size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$So, $\\color{purple}9\\times\\color{color{blue}}\\text{?}} = \\color{green}45}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the groups}\\color{black}=\\color{color{blue}}\\text{ number of groups}\\color{black} $So, $\\color{green}45\\color{black}\\div \\color{purple}9=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many shelves are on the bookcase are: - $\\color{purple}9\\times\\color{color{blue}}\\text{?}\\color{black} = \\color{green}45\\color{black}$\n - $\\color{green}45\\color{black}\\div \\color{purple}9=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $45$ books on the bookcase in Riya's bedroom.  Each shelf on the bookcase has $9$ books.   **Which equations would help us find out how many shelves are on the bookcase?**",
+      "images": null
+    },
+    "options": [
+      "$9\\times \\,?=45$",
+      "$9\\times45=\\,?$  ",
+      "$45\\div9=\\,?$",
+      "$9\\div45=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$9\\times \\,?=45$",
+      "$45\\div9=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "There are $\\color{color{blue}}4\\color{black}$ friends.They got $\\color{green}12\\color{black}$ total carrots.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/c976d5d8464a9ee66c2e8144093135f98989fa98.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{color{blue}}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\text{ total}\\color{black}$So, $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}} = \\color{green}12}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}12\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many carrots Rhonda Rabbit gave each friend are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}12\\color{black}$\n - $\\color{green}12\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Rhonda Rabbit found $12$ carrots to give to her $4$ friends.  She gave each friend the same number of carrots. **Which equations would help us find out how many carrots Rhonda Rabbit gave to each friend?**",
+      "images": null
+    },
+    "options": [
+      "$4\\times\\,?=12$",
+      "$4\\times12=\\,?$",
+      "$12\\div4=\\,?$",
+      "$4\\div12=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$4\\times\\,?=12$",
+      "$12\\div4=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "Each chapter is $\\color{purple}9$ pages long.There are $\\color{green}63\\color{black}$ total pages.[[image 0]]\nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/f07778bb0519ffc3a3a2462019a2839a94706b8a.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{purple}\\text{size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$So, $\\color{purple}9\\times\\color{color{blue}}\\text{?}} = \\color{green}63}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the groups}\\color{black}=\\color{color{blue}}\\text{ number of groups}\\color{black} $So, $\\color{green}63\\color{black}\\div \\color{purple}9=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many chapters there are:   -   $\\color{purple}9\\times\\color{color{blue}}\\text{?}\\color{black} = \\color{green}63\\color{black}$\n - $\\color{green}63\\color{black}\\div \\color{purple}9=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "My favorite book has $63$ pages.  Each chapter is $9$ pages long.**Which equations would help us find out how many chapters are in my favorite book?**",
+      "images": null
+    },
+    "options": [
+      "$9\\times \\,?=63$",
+      "$63\\times\\,?=9$  ",
+      "$?\\div9=63$",
+      "$63\\div9=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$9\\times \\,?=63$",
+      "$63\\div9=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "There are $\\color{purple}6$ pencils in a pack.There are $\\color{green}54\\color{black}$ total pencils.[[image 0]]\nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/a89c3f2113a8e739a66e0b3192b90103d7151a4a.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{purple}\\text{size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$So, $\\color{purple}6\\times\\color{color{blue}}\\text{?}} = \\color{green}54}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the groups}\\color{black}=\\color{color{blue}}\\text{ number of groups}\\color{black} $So, $\\color{green}54\\color{black}\\div \\color{purple}6=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many pack of pencils there are:   -   $\\color{purple}6\\times\\color{color{blue}}\\text{?}\\color{black} = \\color{green}54\\color{black}$\n - $\\color{green}54\\color{black}\\div \\color{purple}6=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "The school store has $54$ pencils to sell.  The store sells all pencils in packs of $6$.  **Which equations would help us find out how many packs of pencils the store has?**",
+      "images": null
+    },
+    "options": [
+      "$54\\times 6 =\\,?$",
+      "$6\\times\\,?=54$  ",
+      "$?\\div6=54$",
+      "$54\\div6=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$6\\times\\,?=54$  ",
+      "$54\\div6=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 11,
+    "hints": [
+      {
+        "content": "There are $\\color{purple}7$ kids in each group.There are $\\color{green}56\\color{black}$ total kids.[[image 0]]\nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e78c4557bf32ad86058c8013ac0ceebd87f34d64.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{purple}\\text{size of the group}\\color{black}\\times\\color{color{blue}}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$So, $\\color{purple}7\\times\\color{color{blue}}\\text{?}} = \\color{green}56}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the groups}\\color{black}=\\color{color{blue}}\\text{ number of groups}\\color{black} $So, $\\color{green}56\\color{black}\\div \\color{purple}7=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many groups of kids are at magic camp are:   -   $\\color{purple}7\\times\\color{color{blue}}\\text{?}\\color{black} = \\color{green}56\\color{black}$\n - $\\color{green}56\\color{black}\\div \\color{purple}7=\\color{color{blue}}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "Every group at magic camp is made up of $7$ kids.  There are $56$ total kids at magic camp.**Which equations would help us find out how many groups of kids are at magic camp?**",
+      "images": null
+    },
+    "options": [
+      "$7\\times\\,?=56$",
+      "$56\\times\\,?=7$",
+      "$56\\div7=\\,?$",
+      "$7\\div56=\\,?$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$7\\times\\,?=56$",
+      "$56\\div7=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  },
+  {
+    "id": 12,
+    "hints": [
+      {
+        "content": "There are $\\color{color{blue}}4\\color{black}$ rows.They are $\\color{green}32\\color{black}$ total desks.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?\n",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/02f36dc7137525a1590d0ec47f7270e7c392fe59.svg",
+            "width": 320,
+            "height": 128
+          }
+        ]
+      },
+      {
+        "content": "We can write this as a multiplication problem. $\\color{color{blue}}\\text{ number of groups}\\color{black}\\times\\color{purple}\\text{size of the group}\\color{black}= \\color{green}\\text{ total}\\color{black}$So, $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}} = \\color{green}32}$",
+        "images": null
+      },
+      {
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}32\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "images": null
+      },
+      {
+        "content": "The equations that would help us find out how many desks are in each row are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}32\\color{black}$\n - $\\color{green}32\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "There are $32$ desks in Mr. Klauss's classroom.  The desks are lined up in $4$ rows.  Each row has the same number of desks.  **Which equations would help us find out how many desks are in each row?**\n",
+      "images": null
+    },
+    "options": [
+      "$4\\times\\,?=32$",
+      "$32\\times\\,?=4$",
+      "$32\\div4=\\,?$",
+      "$4\\div\\,?=32$"
+    ],
+    "questionType": "multiple_choice",
+    "correctAnswers": [
+      "$4\\times\\,?=32$",
+      "$32\\div4=\\,?$"
+    ],
+    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+  }
+]

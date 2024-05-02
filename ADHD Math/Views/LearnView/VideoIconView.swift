@@ -36,5 +36,5 @@ struct VideoIconView: View {
 }
 
 #Preview {
-    VideoIconView(fileTitle: "pandaPNG")
+    VideoIconView(fileTitle: "2bae694ff1f095f170e50f5a2e87392f1e46c871")
 }

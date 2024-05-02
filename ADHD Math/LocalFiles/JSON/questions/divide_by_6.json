@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}42\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/ba244644731bee77cafccee96557dfe1fd4bdacb.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}42\\color{black} \\div \\color{green}6} = {7}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{42} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      7
+    ],
+    "videos": []
+  },
+  {
+    "id": 2,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}60\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/be32667c6f9e04ceaf534b6f47547af4f0037f8c.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}60\\color{black} \\div \\color{green}6} = {10}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{60} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      10
+    ],
+    "videos": []
+  },
+  {
+    "id": 3,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}54\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e7a8afd92ce69272382f9d71e092f01301ae4804.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}54\\color{black} \\div \\color{green}6} = {9}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{54} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": []
+  },
+  {
+    "id": 4,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}24\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/07cfd2e9b3ff297c4396894085c0dd41f9c44d18.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}24\\color{black} \\div \\color{green}6} = {4}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{24} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      4
+    ],
+    "videos": []
+  },
+  {
+    "id": 5,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}12\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/480711597802791a2b7dc7ee3c189d65be2c23fc.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}12\\color{black} \\div \\color{green}6} = {2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{12} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": []
+  },
+  {
+    "id": 6,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}18\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/d865e3ad59d2bd86bfde9967c71071429c0a7a70.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}18\\color{black} \\div \\color{green}6} = {3}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{18} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": []
+  },
+  {
+    "id": 7,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}12\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/480711597802791a2b7dc7ee3c189d65be2c23fc.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}12\\color{black} \\div \\color{green}6} = {2}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{12} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      2
+    ],
+    "videos": []
+  },
+  {
+    "id": 8,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}18\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/d865e3ad59d2bd86bfde9967c71071429c0a7a70.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}18\\color{black} \\div \\color{green}6} = {3}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{18} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      3
+    ],
+    "videos": []
+  },
+  {
+    "id": 9,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}36\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b3e17cffd88977fef10f023dd46999edef483bbd.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}36\\color{black} \\div \\color{green}6} = {6}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{36} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      6
+    ],
+    "videos": []
+  },
+  {
+    "id": 10,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}48\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/79f46821e2adc9283da59244af31c20165b8b2cc.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}48\\color{black} \\div \\color{green}6} = {8}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{48} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": []
+  },
+  {
+    "id": 11,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}48\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/79f46821e2adc9283da59244af31c20165b8b2cc.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}48\\color{black} \\div \\color{green}6} = {8}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{48} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      8
+    ],
+    "videos": []
+  },
+  {
+    "id": 12,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}54\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e7a8afd92ce69272382f9d71e092f01301ae4804.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}54\\color{black} \\div \\color{green}6} = {9}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{54} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": []
+  },
+  {
+    "id": 13,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}54\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/e7a8afd92ce69272382f9d71e092f01301ae4804.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}54\\color{black} \\div \\color{green}6} = {9}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{54} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      9
+    ],
+    "videos": []
+  },
+  {
+    "id": 14,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}30\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/b8add5881248bfbdff4f0a5a3ed7ca8dc9e61ea7.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}30\\color{black} \\div \\color{green}6} = {5}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{30} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      5
+    ],
+    "videos": []
+  },
+  {
+    "id": 15,
+    "hints": [
+      {
+        "content": "If we split $\\color{blue}\\\\color{black}6\\color{black}$ circles into $\\color{green}6$ equal rows, how many circles are in each row?[[image 0]]",
+        "images": [
+          {
+            "url": "https://cdn.kastatic.org/ka-perseus-graphie/2ea6a63a7d2552b96b2f362ef69948b3098189c0.svg",
+            "width": 473,
+            "height": 280
+          }
+        ]
+      },
+      {
+        "content": "$\\Large\\color{blue}\\\\color{black}6\\color{black} \\div \\color{green}6} = {1}$",
+        "images": null
+      }
+    ],
+    "question": {
+      "content": "** $\\huge\\blueD{6} \\div \\greenD{6} = {?}$ **",
+      "images": null
+    },
+    "options": [],
+    "questionType": "numeric_input",
+    "correctAnswers": [
+      1
+    ],
+    "videos": []
+  }
+]

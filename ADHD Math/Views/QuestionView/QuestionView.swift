@@ -33,6 +33,8 @@ struct QuestionView: View {
                         
                     viewForString(string: question.question.content, question: question)
                         .padding(.bottom, 30)
+                        .frame(maxWidth: .infinity)
+//                        .frame(width: 375)
 
                     QuestionBoxView(question: question, isTest: isTest, selectedAnswers: $selectedAnswers, hintAction: { self.hintAction() })
                     
@@ -56,7 +58,7 @@ struct QuestionView: View {
                                 .foregroundStyle(.black)
                         }
                     }
-                    .padding(.top, -20)
+                    .padding(.top, 10)
                     .padding(.bottom, 30)
 
                     
@@ -72,8 +74,10 @@ struct QuestionView: View {
                     }
                     
                 }
+                .frame(maxWidth: .infinity)
                 .padding(.top, 20)
             }
+            .frame(maxWidth: .infinity)
             
             
             if showingQuestionAlert {
