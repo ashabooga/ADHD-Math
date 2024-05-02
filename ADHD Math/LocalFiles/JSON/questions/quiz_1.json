@@ -3,7 +3,7 @@
     "id": 1,
     "hints": [
       {
-        "content": "Spot can split the bones up so that there are $8$ bones in each pile:[[image 0]]",
+        "content": "Spot can split the bones up so that there are $8$ bones in each pile: [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/702f9a31c4add3f5417d78dc36128374ce56157a.svg",
@@ -18,7 +18,7 @@
       }
     ],
     "question": {
-      "content": "Spot has $24$ bones in his doghouse. He wants to divide the bones into equal piles so that each pile has $8$ bones.[[image 0]]**How many piles will he make?**$24 \\div 8 =$ [[numeric-input 1]] piles\n",
+      "content": "Spot has $24$ bones in his doghouse. He wants to divide the bones into equal piles so that each pile has $8$ bones. [[image 0]] **How many piles will he make?**$24 \\div 8 =$  []  piles\n",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/8db1f099846b2fda845e05edb27f2646bc4bf717.svg",
@@ -30,7 +30,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      3
+      "3"
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -40,11 +40,11 @@
     "id": 2,
     "hints": [
       {
-        "content": "There are $\\color{green}24\\color{black}$ buses in $\\color{blue}6$ equal rows.[Same image with the rows numbered 1 through 6 and horizontal lines between the rows][[https://cdn.kastatic.org/ka-perseus-graphie/a5f783ca27df5638fa69de0047459092afc6b1f7.svg]]How can we find out how many buses are in each row?",
+        "content": "There are $\\color{green}24\\color{black}$ buses in $\\color{blue}6$ equal rows. [[https://cdn.kastatic.org/ka-perseus-graphie/a5f783ca27df5638fa69de0047459092afc6b1f7.svg]] How can we find out how many buses are in each row?",
         "images": null
       },
       {
-        "content": "We can find how many buses are in each row by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$So, $\\color{green}24}\\div\\color{blue}6}$",
+        "content": "We can find how many buses are in each row by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$So, $\\color{green}24}\\div\\color{blue}6\\color{black}$",
         "images": null
       },
       {
@@ -53,7 +53,7 @@
       }
     ],
     "question": {
-      "content": "There are $6$ equal rows of buses. There are $24$ total buses. [24 buses in 6 equal rows][[https://cdn.kastatic.org/ka-perseus-graphie/2fa42b1519604dd6d154ddc220d4f63fdf6ae95d.svg]] **Which expression will tell us how many buses are in each row?**",
+      "content": "There are $6$ equal rows of buses. There are $24$ total buses.  [[https://cdn.kastatic.org/ka-perseus-graphie/2fa42b1519604dd6d154ddc220d4f63fdf6ae95d.svg]]  **Which expression will tell us how many buses are in each row?**",
       "images": null
     },
     "options": [
@@ -90,7 +90,7 @@
       }
     ],
     "question": {
-      "content": "Kat walks $30$ dogs. She walks $5$ dogs at a time.[[image 0]]**Which expression will tell us how many groups of dogs Kat walks?**",
+      "content": "Kat walks $30$ dogs. She walks $5$ dogs at a time. [[image 0]] **Which expression will tell us how many groups of dogs Kat walks?**",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/1f6af4b1076e7df885cbdb195b0690f3a63fdf09.svg",
@@ -116,7 +116,7 @@
     "id": 4,
     "hints": [
       {
-        "content": "There are $\\color{blue}5$ equal rows:[[image 0]]",
+        "content": "There are $\\color{blue}5$ equal rows: [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/32998544fa4aebfcd8e3f2dffb1dbfb553a703e5.svg",
@@ -131,7 +131,7 @@
       }
     ],
     "question": {
-      "content": "We can find $40\\div8$ by splitting up $40$ dots so that there are $8$ dots in each row:[[image 0]]**How many rows are there?**$40 \\div 8 = $ [[numeric-input 1]]",
+      "content": "We can find $40\\div8$ by splitting up $40$ dots so that there are $8$ dots in each row: [[image 0]] **How many rows are there?**$40 \\div 8 = $  [] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/9d2cee24b495712490aca1890868da9220d826a4.svg",
@@ -143,7 +143,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      5
+      "5"
     ],
     "videos": []
   },
@@ -155,7 +155,7 @@
         "images": null
       },
       {
-        "content": "This image has $\\goldE{15}$ ponies in $\\color{green}3 \\text{ equal-sized groups}\\color{black}$.[[image 0]][[image 1]][[image 2]]\n",
+        "content": "This image has $\\goldE{15}$ ponies in $\\color{green}3 \\text{ equal-sized groups}\\color{black}$. [[image 0]]  [[image 1]]  [[image 2]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/4ba5daed81e7182adf39ad64008604adb1967ce1.svg",
@@ -175,7 +175,7 @@
         ]
       },
       {
-        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]]\n",
+        "content": "Here is  the correct image: [[image 0]]  [[image 1]]  [[image 2]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg",
@@ -200,12 +200,12 @@
       "images": null
     },
     "options": [
-      "[A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]",
-      "[A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 6 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1a177defe81a9a12e6d08f807d00209b78e99a54.svg]][A group of 4 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/de8fb017e818f022f9232bc3ad1cdc1668ab83c7.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1a177defe81a9a12e6d08f807d00209b78e99a54.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/de8fb017e818f022f9232bc3ad1cdc1668ab83c7.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]] "
     ],
     "videos": []
   },
@@ -213,7 +213,7 @@
     "id": 6,
     "hints": [
       {
-        "content": "We can put an apple in each basket until all the apples are in a basket:\n[[image 0]][[image 1]]How many apples will be in each basket?",
+        "content": "We can put an apple in each basket until all the apples are in a basket:\n [[image 0]]  [[image 1]] How many apples will be in each basket?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/1a66f3626d36b0d7fdb49813a303e15e4055a4c7.svg",
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "content": "[[image 0]]$\\redD6$ apples will be in each basket. $18 \\div 3 = \\redD6$",
+        "content": " [[image 0]] $\\redD6$ apples will be in each basket. $18 \\div 3 = \\redD6$",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/6b1e904a265b9831d9a6a469157a0bb864273559.svg",
@@ -239,7 +239,7 @@
       }
     ],
     "question": {
-      "content": "There are $18$ apples. We want to divide them equally into $3$ baskets.[[image 0]][[image 1]]**How many apples will be in each basket?** $18\\div 3 = $ [[numeric-input 1]] apples",
+      "content": "There are $18$ apples. We want to divide them equally into $3$ baskets. [[image 0]]  [[image 1]] **How many apples will be in each basket?** $18\\div 3 = $  []  apples",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/64ff1fef523af91de607f2f17e78c7daf417ff6a.svg",
@@ -256,7 +256,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      6
+      "6"
     ],
     "videos": []
   },
@@ -307,7 +307,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}3$ rows with $\\color{purple}6$ dots in each row.[[image 0]]There are $\\color{green}18\\color{black}$ total dots.",
+        "content": "There are $\\color{blue}3$ rows with $\\color{purple}6$ dots in each row. [[image 0]] There are $\\color{green}18\\color{black}$ total dots.",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/826cc683b6a5592309cd46715ed408abfc876883.svg",
@@ -326,7 +326,7 @@
       }
     ],
     "question": {
-      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "content": "**Which expressions could represent the array shown below?** [[image 0]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/affcd83ca2e9dfce22ce716fcc6774d2d066a685.svg",
@@ -352,7 +352,7 @@
     "id": 9,
     "hints": [
       {
-        "content": "There are $\\color{blue}8$ dots in each row:[[image 0]]",
+        "content": "There are $\\color{blue}8$ dots in each row: [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/428665a63a62876c4439d7ca29d7c1a63ad34537.svg",
@@ -367,7 +367,7 @@
       }
     ],
     "question": {
-      "content": "We can find $48\\div6$ by dividing $48$ dots into $6$ equal rows:[[image 0]]**How many dots are in each row?**$48 \\div 6 =$ [[numeric-input 1]] ",
+      "content": "We can find $48\\div6$ by dividing $48$ dots into $6$ equal rows: [[image 0]] **How many dots are in each row?**$48 \\div 6 =$  []  ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/fa796e8d5a16c5c47002fc89207dbe1816f8aa53.svg",
@@ -379,7 +379,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      8
+      "8"
     ],
     "videos": []
   },
@@ -387,7 +387,7 @@
     "id": 10,
     "hints": [
       {
-        "content": "Spot can split the bones up so that there are $8$ bones in each pile:[[image 0]]",
+        "content": "Spot can split the bones up so that there are $8$ bones in each pile: [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/702f9a31c4add3f5417d78dc36128374ce56157a.svg",
@@ -402,7 +402,7 @@
       }
     ],
     "question": {
-      "content": "Spot has $24$ bones in his doghouse. He wants to divide the bones into equal piles so that each pile has $8$ bones.[[image 0]]**How many piles will he make?**$24 \\div 8 =$ [[numeric-input 1]] piles\n",
+      "content": "Spot has $24$ bones in his doghouse. He wants to divide the bones into equal piles so that each pile has $8$ bones. [[image 0]] **How many piles will he make?**$24 \\div 8 =$  []  piles\n",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/8db1f099846b2fda845e05edb27f2646bc4bf717.svg",
@@ -414,7 +414,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      3
+      "3"
     ],
     "videos": []
   },
@@ -422,7 +422,7 @@
     "id": 11,
     "hints": [
       {
-        "content": "There are $\\color{blue}5$ equal rows:[[image 0]]",
+        "content": "There are $\\color{blue}5$ equal rows: [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/32998544fa4aebfcd8e3f2dffb1dbfb553a703e5.svg",
@@ -437,7 +437,7 @@
       }
     ],
     "question": {
-      "content": "We can find $40\\div8$ by splitting up $40$ dots so that there are $8$ dots in each row:[[image 0]]**How many rows are there?**$40 \\div 8 = $ [[numeric-input 1]]",
+      "content": "We can find $40\\div8$ by splitting up $40$ dots so that there are $8$ dots in each row: [[image 0]] **How many rows are there?**$40 \\div 8 = $  [] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/9d2cee24b495712490aca1890868da9220d826a4.svg",
@@ -449,7 +449,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      5
+      "5"
     ],
     "videos": []
   },
@@ -465,7 +465,7 @@
         "images": null
       },
       {
-        "content": "This array has $\\color{green}36\\color{black}$ total dots split into rows of $\\color{purple}9$.  [[image 0]]",
+        "content": "This array has $\\color{green}36\\color{black}$ total dots split into rows of $\\color{purple}9$.   [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/5a10288e382905deacb0461ca415ec936a57677e.svg",
@@ -475,7 +475,7 @@
         ]
       },
       {
-        "content": "This image represents $36 \\div 9$:  [[image 0]]",
+        "content": "This image represents $36 \\div 9$:   [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/daab46f58d72fc460b88ca991474402dc9033fad.svg",
@@ -490,13 +490,13 @@
       "images": null
     },
     "options": [
-      "[An array of green dots arranged in 4 rows of 9 dots each. ][[https://cdn.kastatic.org/ka-perseus-graphie/daab46f58d72fc460b88ca991474402dc9033fad.svg]]",
-      "[An array of orange dots arranged in 5 rows of 9 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/b3ac5c360c0c6a385e600d1ae9e9aa4a735af89c.svg]]",
-      "[An array of blue dots arranged in 9 rows of 3 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/6bb5eb50fa4c2f024ef9ae116fc52f589179ebc4.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/daab46f58d72fc460b88ca991474402dc9033fad.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/b3ac5c360c0c6a385e600d1ae9e9aa4a735af89c.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/6bb5eb50fa4c2f024ef9ae116fc52f589179ebc4.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[An array of green dots arranged in 4 rows of 9 dots each. ][[https://cdn.kastatic.org/ka-perseus-graphie/daab46f58d72fc460b88ca991474402dc9033fad.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/daab46f58d72fc460b88ca991474402dc9033fad.svg]] "
     ],
     "videos": []
   },
@@ -504,11 +504,11 @@
     "id": 13,
     "hints": [
       {
-        "content": "There are $\\color{green}12\\color{black}$ cans in $\\color{blue}3$ equal rows.[Same image with the rows numbered 1 through 3 and horizontal lines between the rows][[https://cdn.kastatic.org/ka-perseus-graphie/89294a792d2e1721cffdb87a93c5fcc46b2a5941.svg]]How can we find out how many cans are in each row?",
+        "content": "There are $\\color{green}12\\color{black}$ cans in $\\color{blue}3$ equal rows. [[https://cdn.kastatic.org/ka-perseus-graphie/89294a792d2e1721cffdb87a93c5fcc46b2a5941.svg]] How can we find out how many cans are in each row?",
         "images": null
       },
       {
-        "content": "We can find how many cans are in each row by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$So, $\\color{green}12}\\div\\color{blue}3}$",
+        "content": "We can find how many cans are in each row by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{blue}\\text{ number of rows}\\color{black}$So, $\\color{green}12}\\div\\color{blue}3\\color{black}$",
         "images": null
       },
       {
@@ -517,7 +517,7 @@
       }
     ],
     "question": {
-      "content": "There are $12$ soup cans placed in $3$ equal rows.[12 cans in 3 equal rows][[https://cdn.kastatic.org/ka-perseus-graphie/3d20f11a72ec87741a71f0a010e1a51c90b05854.svg]] **Which expression will tell us how many soup cans are in each row?**",
+      "content": "There are $12$ soup cans placed in $3$ equal rows. [[https://cdn.kastatic.org/ka-perseus-graphie/3d20f11a72ec87741a71f0a010e1a51c90b05854.svg]]  **Which expression will tell us how many soup cans are in each row?**",
       "images": null
     },
     "options": [
@@ -543,7 +543,7 @@
         "images": null
       },
       {
-        "content": "This array has $\\color{green}12\\color{black}$ total dots split into $\\color{blue}6$ rows.  [[image 0]]",
+        "content": "This array has $\\color{green}12\\color{black}$ total dots split into $\\color{blue}6$ rows.   [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/ca3229f5e8198144fd0c69b70d4e79b7f3e924e6.svg",
@@ -553,7 +553,7 @@
         ]
       },
       {
-        "content": "This image represents $12 \\div 6$:  [[image 0]]",
+        "content": "This image represents $12 \\div 6$:   [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/8870265e8c98eeccb91845480684afccef6f394d.svg",
@@ -568,13 +568,13 @@
       "images": null
     },
     "options": [
-      "[An array of green dots arranged in 6 rows of 2 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/8870265e8c98eeccb91845480684afccef6f394d.svg]]",
-      "[An array of red dots arranged in 6 rows of 3 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/873d33073aff64707b76df2802da065012583b25.svg]]",
-      "[An array of blue dots arranged in 3 rows of 6 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/b64caefc2a2c7b7df0322817fdd2140b18ba8b8f.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/8870265e8c98eeccb91845480684afccef6f394d.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/873d33073aff64707b76df2802da065012583b25.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/b64caefc2a2c7b7df0322817fdd2140b18ba8b8f.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[An array of green dots arranged in 6 rows of 2 dots each.][[https://cdn.kastatic.org/ka-perseus-graphie/8870265e8c98eeccb91845480684afccef6f394d.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/8870265e8c98eeccb91845480684afccef6f394d.svg]] "
     ],
     "videos": []
   },
@@ -586,7 +586,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}7$ rows with $\\color{purple}5$ dots in each row.[[image 0]]There are $\\color{green}35\\color{black}$ total dots.",
+        "content": "There are $\\color{blue}7$ rows with $\\color{purple}5$ dots in each row. [[image 0]] There are $\\color{green}35\\color{black}$ total dots.",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/eaa0c51d341beb38565bdfd5ddbb07a469df6ef5.svg",
@@ -605,7 +605,7 @@
       }
     ],
     "question": {
-      "content": "**Which expressions could represent the array shown below?**[[image 0]]",
+      "content": "**Which expressions could represent the array shown below?** [[image 0]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/a069ebd0e0a13483e5a89d53890f6c7de578dac4.svg",
@@ -670,7 +670,7 @@
         "images": null
       },
       {
-        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]]",
+        "content": "Here is  the correct image: [[image 0]]  [[image 1]]  [[image 2]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg",
@@ -695,13 +695,13 @@
       "images": null
     },
     "options": [
-      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]",
-      "[A group of three elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/cc10ff544e74b6bc3aa40096ebb23bda044a939f.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/0c33f3dad87967ba81b225732818cac2c3910998.svg]]",
-      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/cc10ff544e74b6bc3aa40096ebb23bda044a939f.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/0c33f3dad87967ba81b225732818cac2c3910998.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]] "
     ],
     "videos": []
   },
@@ -726,7 +726,7 @@
       }
     ],
     "question": {
-      "content": "[[image 0]]There are $8$ bananas divided evenly into $2$ bunches.**Which expression will tell us how many bananas are in each bunch?**",
+      "content": " [[image 0]] There are $8$ bananas divided evenly into $2$ bunches.**Which expression will tell us how many bananas are in each bunch?**",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/6638644060a6e15915d1f9d8216b9d416d1f7165.svg",

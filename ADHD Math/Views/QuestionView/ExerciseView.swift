@@ -22,7 +22,7 @@ struct ExerciseView: View {
     
     var body: some View {
         
-        let questions = exerciseViewModel.fetchQuestions(num: lesson.type == LessonType.test ? 7 : 3)
+        let questions = exerciseViewModel.fetchQuestions(num: lesson.type == LessonType.test ? 7 : lesson.type == LessonType.quiz ? 5 : 3)
         
         NavigationStack {
             ZStack {
@@ -35,7 +35,7 @@ struct ExerciseView: View {
                         .contentShape(Rectangle()).gesture(DragGesture())
                         .tag(0)
                     ForEach(Array(questions.enumerated()), id: \.element.id) { (index, question) in
-                        QuestionView(question: question, isTest: lesson.type == LessonType.test, incrementIndex: self.incrementTabIndex, exerciseResults: $exerciseResults)
+                        QuestionView(question: question, isTest: lesson.type == LessonType.test || lesson.type == LessonType.quiz, incrementIndex: self.incrementTabIndex, exerciseResults: $exerciseResults)
                             .contentShape(Rectangle()).gesture(DragGesture())
                             .tag(index + 1)
                     }

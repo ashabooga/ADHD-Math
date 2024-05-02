@@ -34,7 +34,7 @@ struct QuestionView: View {
                         
                     viewForString(string: question.question.content, question: question)
                         .padding(.bottom, 30)
-                        .frame(maxWidth: .infinity)
+                        .frame(maxWidth: 375)
                         .frame(minHeight: 250)
                     
                     if question.questionType == QuestionType.multipleChoice {
@@ -53,7 +53,10 @@ struct QuestionView: View {
                         
                     
                     Button {
-                        isFocused = false
+                        withAnimation {
+                            isFocused = false
+                        }
+                        
                         if isCorrect {
                             withAnimation(.spring) {
                                 showingQuestionAlert = false

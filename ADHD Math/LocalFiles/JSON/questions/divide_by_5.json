@@ -3,7 +3,7 @@
     "id": 1,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}45\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}45\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/a342e6924a31e777b69f26a57eee80ccec40c3dd.svg",
@@ -24,15 +24,17 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      9
+      "9"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 2,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}25\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}25\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/f293a4741c5ec0c3006f4c16d80e78656e457392.svg",
@@ -53,15 +55,17 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      5
+      "5"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 3,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}30\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}30\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/f28a0cba468a8ee23d8ac03af6cf291587c6fe21.svg",
@@ -82,15 +86,17 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      6
+      "6"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 4,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}40\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}40\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/c371314950fd7c8a986bfd03d8d7233d4fc3679b.svg",
@@ -111,15 +117,17 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      8
+      "8"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 5,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}50\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}50\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/eeeb8d7119096511841d344270bb98044cbc592b.svg",
@@ -140,15 +148,17 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      10
+      "10"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 6,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}5\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}5\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/5fa6c22e913a5505d1ff2b6e82e586b78c86342e.svg",
@@ -163,21 +173,23 @@
       }
     ],
     "question": {
-      "content": "** $\\color{blue}5}\\color{black}\\div \\color{green}5\\color{black} = {?}$ **",
+      "content": "** $\\color{blue}5\\color{black}\\color{black}\\div \\color{green}5\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      1
+      "1"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 7,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}10\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}10\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/b33e3c4b640804f54ceb72120cba896fc49a7ce6.svg",
@@ -198,15 +210,17 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      2
+      "2"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 8,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}35\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}35\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/9e2422976cbedbc7a3eca5bfc9710e85fe0bcfc4.svg",
@@ -227,15 +241,17 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      7
+      "7"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 9,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}15\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}15\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/0da30ada4668bf4cf7079fada4db9bba26c0aa6f.svg",
@@ -256,15 +272,17 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      3
+      "3"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   },
   {
     "id": 10,
     "hints": [
       {
-        "content": "If we split $\\color{blue}\\color{black}20\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row?[[image 0]]",
+        "content": "If we split $\\color{blue}\\color{black}20\\color{black}$ circles into $\\color{green}5$ equal rows, how many circles are in each row? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/0be04cf5d867f824ad004021ea1681f30890c5c7.svg",
@@ -285,8 +303,10 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      4
+      "4"
     ],
-    "videos": ["mGvunan-I-Q"]
+    "videos": [
+      "mGvunan-I-Q"
+    ]
   }
 ]

@@ -3,7 +3,7 @@
     "id": 1,
     "hints": [
       {
-        "content": "Draw $24$ circles, with $3$ to each row.[[image 0]]",
+        "content": "Draw $24$ circles, with $3$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/f5efefde8604f38abf2103bbb43fb9fdf17630dd.svg",
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/bd179d45785f54c8fe68c4186333463144360a9b.svg",
@@ -34,7 +34,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      8
+      "8"
     ],
     "videos": []
   },
@@ -42,7 +42,7 @@
     "id": 2,
     "hints": [
       {
-        "content": "Draw $40$ circles, with $10$ to each row.[[image 0]]",
+        "content": "Draw $40$ circles, with $10$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/265a3a4cff73cb2e0196d8d5528a05ff121ef023.svg",
@@ -52,7 +52,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/fda5b0fc675f793f2836335e76fa437636c4e619.svg",
@@ -73,7 +73,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      4
+      "4"
     ],
     "videos": []
   },
@@ -81,7 +81,7 @@
     "id": 3,
     "hints": [
       {
-        "content": "Draw $6$ circles, with $1$ in each row.[[image 0]]",
+        "content": "Draw $6$ circles, with $1$ in each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/4167df94f00cb39e174d4020ffcb11307b42f341.svg",
@@ -91,7 +91,7 @@
         ]
       },
       {
-        "content": " How many rows are there?[[image 0]]",
+        "content": " How many rows are there? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/39e815401501fdc408b6ab25c8a82f31965451fa.svg",
@@ -112,7 +112,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      6
+      "6"
     ],
     "videos": []
   },
@@ -120,7 +120,7 @@
     "id": 4,
     "hints": [
       {
-        "content": "Draw $6$ circles, with $2$ to each row.[[image 0]]",
+        "content": "Draw $6$ circles, with $2$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/fb5318a7bed689df219ce31f3228d689f69e263a.svg",
@@ -130,7 +130,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/405226c3d48d0158b4de970c9bb74f085d40f036.svg",
@@ -151,7 +151,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      3
+      "3"
     ],
     "videos": []
   },
@@ -159,7 +159,7 @@
     "id": 5,
     "hints": [
       {
-        "content": "Draw $30$ circles, with $5$ to each row.[[image 0]]",
+        "content": "Draw $30$ circles, with $5$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/5664d53dfc8d0d68b37c3282ac6ce5065a17f16d.svg",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/ec4c124152ab714de5ceb680b03661c1670713a9.svg",
@@ -190,7 +190,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      6
+      "6"
     ],
     "videos": []
   },
@@ -198,7 +198,7 @@
     "id": 6,
     "hints": [
       {
-        "content": "Draw $10$ circles, with $2$ to each row.[[image 0]]",
+        "content": "Draw $10$ circles, with $2$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/e878db1801dfaf066e6914d2cbcc14a9e13e3f52.svg",
@@ -208,7 +208,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/43757f841b8de18b98875e6b7a8bfb5ac9147ecd.svg",
@@ -229,7 +229,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      5
+      "5"
     ],
     "videos": []
   },
@@ -237,7 +237,7 @@
     "id": 7,
     "hints": [
       {
-        "content": "Draw $10$ circles, with $1$ in each row.[[image 0]]",
+        "content": "Draw $10$ circles, with $1$ in each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/0311bd13b751c4365bb1fbc6d6dac58129aefab1.svg",
@@ -247,7 +247,7 @@
         ]
       },
       {
-        "content": " How many rows are there?[[image 0]]",
+        "content": " How many rows are there? [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/a35698802d763d08cea21a68d9cb1a36bd59e0af.svg",
@@ -268,7 +268,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      10
+      "10"
     ],
     "videos": []
   },
@@ -276,7 +276,7 @@
     "id": 8,
     "hints": [
       {
-        "content": "Draw $18$ circles, with $2$ to each row.[[image 0]]",
+        "content": "Draw $18$ circles, with $2$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/ca48f55a8228196214560c4cd08c8b7213d84572.svg",
@@ -286,7 +286,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/deb338cc46a643f5e50963bb2599f6b046fc07f7.svg",
@@ -307,7 +307,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      9
+      "9"
     ],
     "videos": []
   },
@@ -315,7 +315,7 @@
     "id": 9,
     "hints": [
       {
-        "content": "Draw $21$ circles, with $3$ to each row.[[image 0]]",
+        "content": "Draw $21$ circles, with $3$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/1318d40be613ff3202c7dd2fea0ae1fbf238365b.svg",
@@ -325,7 +325,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/c907483a6f1f03b3f3814c1632a8bf6c42328b7f.svg",
@@ -346,7 +346,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      7
+      "7"
     ],
     "videos": []
   },
@@ -354,7 +354,7 @@
     "id": 10,
     "hints": [
       {
-        "content": "Draw $12$ circles, with $2$ to each row.[[image 0]]",
+        "content": "Draw $12$ circles, with $2$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/2fda7cc37f943667ff09011bddbd25463dc6772d.svg",
@@ -364,7 +364,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/b95bc10cdb589c4bbdba8ba3e757d04180f9b991.svg",
@@ -385,7 +385,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      6
+      "6"
     ],
     "videos": []
   },
@@ -393,7 +393,7 @@
     "id": 11,
     "hints": [
       {
-        "content": "Draw $90$ circles, with $10$ to each row.[[image 0]]",
+        "content": "Draw $90$ circles, with $10$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/292cea5e6113d916589984fbb365699a0a9caa3d.svg",
@@ -403,7 +403,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/a4bc292d9f91a6ee49f1b96d1d789cdc53740a1b.svg",
@@ -424,7 +424,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      9
+      "9"
     ],
     "videos": []
   },
@@ -432,7 +432,7 @@
     "id": 12,
     "hints": [
       {
-        "content": "Draw $12$ circles, with $3$ to each row.[[image 0]]",
+        "content": "Draw $12$ circles, with $3$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/e48eb1340125552e5fceec05bd88c0c63ab21cc2.svg",
@@ -442,7 +442,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/be5170c3690cfd93629dd534d490bc630feecfa0.svg",
@@ -463,7 +463,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      4
+      "4"
     ],
     "videos": []
   },
@@ -471,7 +471,7 @@
     "id": 13,
     "hints": [
       {
-        "content": "Draw $50$ circles, with $5$ to each row.[[image 0]]",
+        "content": "Draw $50$ circles, with $5$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/5a97c4119ea319f49757e4a481cc9d9e089f32bb.svg",
@@ -481,7 +481,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/3769908f2b0c00b26424747226d2a6d55674c8bf.svg",
@@ -502,7 +502,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      10
+      "10"
     ],
     "videos": []
   },
@@ -510,7 +510,7 @@
     "id": 14,
     "hints": [
       {
-        "content": "Draw $30$ circles, with $10$ to each row.[[image 0]]",
+        "content": "Draw $30$ circles, with $10$ to each row. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/1e63050d8a49dbdd628b335f1ceaed4a78d60729.svg",
@@ -520,7 +520,7 @@
         ]
       },
       {
-        "content": "[[image 0]] How many rows are there?",
+        "content": " [[image 0]]  How many rows are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/7c5ec030b590e347dcfc0fa0a280aaf7f6b24c03.svg",
@@ -541,7 +541,7 @@
     "options": [],
     "questionType": "numeric_input",
     "correctAnswers": [
-      3
+      "3"
     ],
     "videos": []
   }

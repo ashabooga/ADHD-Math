@@ -11,7 +11,7 @@
         "images": null
       },
       {
-        "content": "This image represents the situation:[[image 0]]\n",
+        "content": "This image represents the situation: [[image 0]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/92f25a334f0be5522458928d8ccc498607c290e0.svg",
@@ -26,13 +26,13 @@
       "images": null
     },
     "options": [
-      "[Two groups of 8 acorns. Each group of acorns has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6e605b965ff3cad65cddc7f8e897b7751ca56f94.svg]]",
-      "[Three groups of 8 acorns. Each group of acorns has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/92f25a334f0be5522458928d8ccc498607c290e0.svg]]",
-      "[Eight groups of 2 acorns. Each group of acorns has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/f11d169db208c8a21df0b492baa6980329af50fe.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/6e605b965ff3cad65cddc7f8e897b7751ca56f94.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/92f25a334f0be5522458928d8ccc498607c290e0.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/f11d169db208c8a21df0b492baa6980329af50fe.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[Three groups of 8 acorns. Each group of acorns has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/92f25a334f0be5522458928d8ccc498607c290e0.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/92f25a334f0be5522458928d8ccc498607c290e0.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -46,7 +46,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}30\\color{black}$ total apples divided into $\\color{green}5$ equal groups.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}30\\color{black}$ total apples divided into $\\color{green}5$ equal groups. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/f8547fa289d1ba7b9664949fc81e73a061b823b4.svg",
@@ -80,7 +80,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{maroon}\\text{Number of apples in each group}\\color{black}$There are $\\color{blue}30\\color{black}$ apples total divided into groups of $\\color{maroon}6$ apples.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+        "content": "### $\\color{maroon}\\text{Number of apples in each group}\\color{black}$There are $\\color{blue}30\\color{black}$ apples total divided into groups of $\\color{maroon}6$ apples. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/3b6ba55d3b68e7cec379e13763b056f962c04aa7.svg",
@@ -119,7 +119,7 @@
       }
     ],
     "question": {
-      "content": "**Which expressions could represent the picture shown below?**[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+      "content": "**Which expressions could represent the picture shown below?** [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/e57fccfb343e72b90c167bdfa52afcbe37b3d03d.svg",
@@ -170,7 +170,7 @@
         "images": null
       },
       {
-        "content": "This image has $\\redD{20}$ apples with $\\color{blue}4 \\text{ apples in every group}\\color{black}$.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+        "content": "This image has $\\redD{20}$ apples with $\\color{blue}4 \\text{ apples in every group}\\color{black}$. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/f0fc9a53e0fe96adb821d2d52e6f4402c34c9ddb.svg",
@@ -200,7 +200,7 @@
         ]
       },
       {
-        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+        "content": "Here is  the correct image: [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg",
@@ -235,12 +235,12 @@
       "images": null
     },
     "options": [
-      "[A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]\n[A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]][A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]][A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]][A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]",
-      "[A group of 5 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/3af1e9d9da530a6e66e4ccf7837aa9f239b84ab6.svg]][A group of 5 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/3af1e9d9da530a6e66e4ccf7837aa9f239b84ab6.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]] \n [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/3af1e9d9da530a6e66e4ccf7837aa9f239b84ab6.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/3af1e9d9da530a6e66e4ccf7837aa9f239b84ab6.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]\n[A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]][A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]][A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]][A group of 4 apples has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]] \n [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c5d920737842017d65c91f93451ff8e9da8d439b.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -267,7 +267,7 @@
       }
     ],
     "question": {
-      "content": "There are $12$ eggs divided evenly in $3$ baskets.[[image 0]]**Which expression will tell us how many eggs are in each basket?**",
+      "content": "There are $12$ eggs divided evenly in $3$ baskets. [[image 0]] **Which expression will tell us how many eggs are in each basket?**",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/cb625535c7f86bf92c346398556b81759e272c6c.svg",
@@ -310,7 +310,7 @@
       }
     ],
     "question": {
-      "content": "[[image 0]]There are $63$ milk cartons. Each box holds $7$ milk cartons.**Which expression will tell us how many boxes of milk cartons there are?**  ",
+      "content": " [[image 0]] There are $63$ milk cartons. Each box holds $7$ milk cartons.**Which expression will tell us how many boxes of milk cartons there are?**  ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/9ff871c0a487cb598b6ea4586b1db8169bc69eda.svg",
@@ -340,7 +340,7 @@
         "images": null
       },
       {
-        "content": "This image has $\\goldE{15}$ ponies in $\\color{green}3 \\text{ equal-sized groups}\\color{black}$.[[image 0]][[image 1]][[image 2]]\n",
+        "content": "This image has $\\goldE{15}$ ponies in $\\color{green}3 \\text{ equal-sized groups}\\color{black}$. [[image 0]]  [[image 1]]  [[image 2]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/4ba5daed81e7182adf39ad64008604adb1967ce1.svg",
@@ -360,7 +360,7 @@
         ]
       },
       {
-        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]]\n",
+        "content": "Here is  the correct image: [[image 0]]  [[image 1]]  [[image 2]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg",
@@ -385,12 +385,12 @@
       "images": null
     },
     "options": [
-      "[A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]",
-      "[A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 6 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1a177defe81a9a12e6d08f807d00209b78e99a54.svg]][A group of 4 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/de8fb017e818f022f9232bc3ad1cdc1668ab83c7.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1a177defe81a9a12e6d08f807d00209b78e99a54.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/de8fb017e818f022f9232bc3ad1cdc1668ab83c7.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]][A group of 5 ponies has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1e151cb3ac22091d35a6c34eb8767f2368c074c4.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -404,11 +404,11 @@
         "images": null
       },
       {
-        "content": "We have a $\\color{green}\\text{total}\\color{black}$ of $\\color{green}6$ eggs.The $\\color{blue}\\text{number of groups}\\color{black}$ of eggs is $\\color{blue}3$.  Which image shows $\\color{green}6\\color{black}$ eggs divided  evenly in $\\color{blue}3}$ groups?",
+        "content": "We have a $\\color{green}\\text{total}\\color{black}$ of $\\color{green}6$ eggs.The $\\color{blue}\\text{number of groups}\\color{black}$ of eggs is $\\color{blue}3$.  Which image shows $\\color{green}6\\color{black}$ eggs divided  evenly in $\\color{blue}3\\color{black}$ groups?",
         "images": null
       },
       {
-        "content": "This image represents the situation:[[image 0]]\n",
+        "content": "This image represents the situation: [[image 0]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/a92331bdf10c5fda0ec2f7055f3a9b9a01bc4ee2.svg",
@@ -423,13 +423,13 @@
       "images": null
     },
     "options": [
-      "[Two groups of 6 eggs. Each group of eggs has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/aba3133187fd3834bbe30ead61ba31fd5dee47c9.svg]]",
-      "[Three groups of 2 eggs. Each group of eggs has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/a92331bdf10c5fda0ec2f7055f3a9b9a01bc4ee2.svg]]",
-      "[Three groups of 3 eggs. Each group of eggs has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/441b04efea9fd46743b581fbfef5faa0bc0970ba.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/aba3133187fd3834bbe30ead61ba31fd5dee47c9.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/a92331bdf10c5fda0ec2f7055f3a9b9a01bc4ee2.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/441b04efea9fd46743b581fbfef5faa0bc0970ba.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[Three groups of 2 eggs. Each group of eggs has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/a92331bdf10c5fda0ec2f7055f3a9b9a01bc4ee2.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/a92331bdf10c5fda0ec2f7055f3a9b9a01bc4ee2.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -443,11 +443,11 @@
         "images": null
       },
       {
-        "content": "We have a $\\color{green}\\text{total}\\color{black}$ of $\\color{green}14\\color{black}$ hens.The $\\color{blue}\\text{number of groups}\\color{black}$ of hens is $\\color{blue}7$.  Which image shows $\\color{green}14\\color{black}$ hens divided  evenly in $\\color{blue}7}$ groups?",
+        "content": "We have a $\\color{green}\\text{total}\\color{black}$ of $\\color{green}14\\color{black}$ hens.The $\\color{blue}\\text{number of groups}\\color{black}$ of hens is $\\color{blue}7$.  Which image shows $\\color{green}14\\color{black}$ hens divided  evenly in $\\color{blue}7\\color{black}$ groups?",
         "images": null
       },
       {
-        "content": "This image represents the situation:[[image 0]]",
+        "content": "This image represents the situation: [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/09d8e1bd5af5eff66d936fb3e9d8193f68f10db9.svg",
@@ -462,13 +462,13 @@
       "images": null
     },
     "options": [
-      "[Six groups of 2 hens. Each group of hens has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/ab7175aa1c45411a6d8e1ba02cd6f9fc3a320d03.svg]]",
-      "[Seven groups of 2 hens. Each group of hens has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/09d8e1bd5af5eff66d936fb3e9d8193f68f10db9.svg]]",
-      "[Two groups of 6 hens. Each group of hens has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/977a0de5f72e0897ec1b11a151a2849cd9ba4565.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/ab7175aa1c45411a6d8e1ba02cd6f9fc3a320d03.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/09d8e1bd5af5eff66d936fb3e9d8193f68f10db9.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/977a0de5f72e0897ec1b11a151a2849cd9ba4565.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[Seven groups of 2 hens. Each group of hens has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/09d8e1bd5af5eff66d936fb3e9d8193f68f10db9.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/09d8e1bd5af5eff66d936fb3e9d8193f68f10db9.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -482,7 +482,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}50\\color{black}$ total acorns divided into $\\color{green}5$ equal groups.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}50\\color{black}$ total acorns divided into $\\color{green}5$ equal groups. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/c2e6ffcb526ca25ab7820a9d01b4a5b518eabb3e.svg",
@@ -512,7 +512,7 @@
         ]
       },
       {
-        "content": " $\\color{blue}50\\color{black}$ divided into $\\color{green}5$ equal groups is $\\color{blue}50\\color{black}\\div\\color{green}5$.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+        "content": " $\\color{blue}50\\color{black}$ divided into $\\color{green}5$ equal groups is $\\color{blue}50\\color{black}\\div\\color{green}5$. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/e263ae8cb968a49b496f90a133726b31a6117bf4.svg",
@@ -542,7 +542,7 @@
         ]
       },
       {
-        "content": "### $\\color{maroon}\\text{Number of acorns in each group}\\color{black}$There are $\\color{blue}50\\color{black}$ acorns total divided into groups of $\\color{maroon}10\\color{black}$ acorns.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+        "content": "### $\\color{maroon}\\text{Number of acorns in each group}\\color{black}$There are $\\color{blue}50\\color{black}$ acorns total divided into groups of $\\color{maroon}10\\color{black}$ acorns. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/7131dd0b4cefaeec47caeea1c914c0c6904ffa31.svg",
@@ -581,7 +581,7 @@
       }
     ],
     "question": {
-      "content": "**Which expressions could represent the picture shown below?**[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]]",
+      "content": "**Which expressions could represent the picture shown below?** [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/c2e6ffcb526ca25ab7820a9d01b4a5b518eabb3e.svg",
@@ -632,7 +632,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}28\\color{black}$ total ladybugs divided into $\\color{green}7$ equal groups.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]][[image 6]]",
+        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}28\\color{black}$ total ladybugs divided into $\\color{green}7$ equal groups. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]]  [[image 6]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/af3a022a638f11d855dcf4812a00d9a3672b1b6e.svg",
@@ -676,7 +676,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{maroon}\\text{Number of ladybugs in each group}\\color{black}$There are $\\color{blue}28\\color{black}$ ladybugs total divided into groups of $\\color{maroon}4$ ladybugs.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]][[image 6]]",
+        "content": "### $\\color{maroon}\\text{Number of ladybugs in each group}\\color{black}$There are $\\color{blue}28\\color{black}$ ladybugs total divided into groups of $\\color{maroon}4$ ladybugs. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]]  [[image 6]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/b1167db323e95b8b7f6372b4b247f50ffaf55a58.svg",
@@ -725,7 +725,7 @@
       }
     ],
     "question": {
-      "content": "**Which expressions could represent the picture shown below?**[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]][[image 6]]",
+      "content": "**Which expressions could represent the picture shown below?** [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]]  [[image 6]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/57e29cc10bb50a79cfcb13c3837f00109a8b66ba.svg",
@@ -786,7 +786,7 @@
         "images": null
       },
       {
-        "content": "This image has $\\color{maroon}12\\color{black}$ flowers in $\\color{green}6\\text{ equal-sized groups}\\color{black}$.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]]",
+        "content": "This image has $\\color{maroon}12\\color{black}$ flowers in $\\color{green}6\\text{ equal-sized groups}\\color{black}$. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/6178fab9a254fa7950e5180eb1a8cc75538ce354.svg",
@@ -821,7 +821,7 @@
         ]
       },
       {
-        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]]\n",
+        "content": "Here is  the correct image: [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg",
@@ -861,12 +861,12 @@
       "images": null
     },
     "options": [
-      "[A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]",
-      "[A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 1 flower has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/9697a50eac0de785160abcf1d4d58f55cf0dda76.svg]][A group of 4 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c3ee5b51d839f9800f244d24b763bce9c8691e56.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 1 flower has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1ce867c301f1255fd3170cf40b758e7d12fc0af9.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/9697a50eac0de785160abcf1d4d58f55cf0dda76.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c3ee5b51d839f9800f244d24b763bce9c8691e56.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1ce867c301f1255fd3170cf40b758e7d12fc0af9.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]][A group of 2 flowers has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/44a896eed5d58fdd6e0a453c1290d181b1db73cb.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -893,7 +893,7 @@
       }
     ],
     "question": {
-      "content": "There are $10$ cookies divided evenly into groups of $2$ cookies.[[image 0]]**Which expression will tell us how many equal groups of cookies there are?**",
+      "content": "There are $10$ cookies divided evenly into groups of $2$ cookies. [[image 0]] **Which expression will tell us how many equal groups of cookies there are?**",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/4e501112bf77a11d49081dc2dad6f8b23abc3904.svg",
@@ -936,7 +936,7 @@
       }
     ],
     "question": {
-      "content": "There are $40$ hot dogs divided evenly into $4$ packs.[[image 0]]**Which expression will tell us how many hot dogs are in each pack?**",
+      "content": "There are $40$ hot dogs divided evenly into $4$ packs. [[image 0]] **Which expression will tell us how many hot dogs are in each pack?**",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/1cafbe3b29f79ac709ce72f08233bee933250ecc.svg",
@@ -966,7 +966,7 @@
         "images": null
       },
       {
-        "content": "This image has $\\color{blue}16\\color{black}$ squirrels with $\\color{purple}2 \\text{ squirrels in every group}\\color{black}$.[[image 0]][[image 1]][[image 2]][[image 3]]\n[[image 4]][[image 5]][[image 6]][[image 7]]\n",
+        "content": "This image has $\\color{blue}16\\color{black}$ squirrels with $\\color{purple}2 \\text{ squirrels in every group}\\color{black}$. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]] \n [[image 4]]  [[image 5]]  [[image 6]]  [[image 7]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/564069955e995983a0b1335a536968f705c15975.svg",
@@ -1011,7 +1011,7 @@
         ]
       },
       {
-        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]][[image 3]]\n[[image 4]][[image 5]][[image 6]][[image 7]]\n",
+        "content": "Here is  the correct image: [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]] \n [[image 4]]  [[image 5]]  [[image 6]]  [[image 7]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg",
@@ -1061,12 +1061,12 @@
       "images": null
     },
     "options": [
-      "[A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]",
-      "[A group of 4 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1150b37326985c0ca92151f310a8efe8e0a59805.svg]][A group of 4 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1150b37326985c0ca92151f310a8efe8e0a59805.svg]][A group of 4 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1150b37326985c0ca92151f310a8efe8e0a59805.svg]][A group of 4 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/1150b37326985c0ca92151f310a8efe8e0a59805.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/1150b37326985c0ca92151f310a8efe8e0a59805.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1150b37326985c0ca92151f310a8efe8e0a59805.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1150b37326985c0ca92151f310a8efe8e0a59805.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/1150b37326985c0ca92151f310a8efe8e0a59805.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]][A group of 2 squirrels has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/6d810ae88eb372518a885155191a9679738e5d5c.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -1080,7 +1080,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}32\\color{black}$ total monkeys divided into $\\color{green}4$ equal groups.[[image 0]][[image 1]][[image 2]][[image 3]]",
+        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}32\\color{black}$ total monkeys divided into $\\color{green}4$ equal groups. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/0bd4b34ab330477d893ea9c064b0201bf941c493.svg",
@@ -1109,7 +1109,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{maroon}\\text{Number of monkeys in each group}\\color{black}$There are $\\color{blue}32\\color{black}$ monkeys total divided into groups of $\\color{maroon}8$ monkeys.[[image 0]][[image 1]][[image 2]][[image 3]]",
+        "content": "### $\\color{maroon}\\text{Number of monkeys in each group}\\color{black}$There are $\\color{blue}32\\color{black}$ monkeys total divided into groups of $\\color{maroon}8$ monkeys. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/e1663cd22cf6c1ad9c89273916622aff1b629d5e.svg",
@@ -1143,7 +1143,7 @@
       }
     ],
     "question": {
-      "content": "**Which expressions could represent the picture shown below?**[[image 0]][[image 1]][[image 2]][[image 3]]",
+      "content": "**Which expressions could represent the picture shown below?** [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/1ba433ff6ede07df496e418572f3041951af667e.svg",
@@ -1193,7 +1193,7 @@
         "images": null
       },
       {
-        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]]",
+        "content": "Here is  the correct image: [[image 0]]  [[image 1]]  [[image 2]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg",
@@ -1218,13 +1218,13 @@
       "images": null
     },
     "options": [
-      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]",
-      "[A group of three elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/cc10ff544e74b6bc3aa40096ebb23bda044a939f.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/0c33f3dad87967ba81b225732818cac2c3910998.svg]]",
-      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/cc10ff544e74b6bc3aa40096ebb23bda044a939f.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/0c33f3dad87967ba81b225732818cac2c3910998.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]] "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]][A group of seven elephants has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/e2d25bc15d426b85c77e4d7ce18d6bffddd364d8.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -1251,7 +1251,7 @@
       }
     ],
     "question": {
-      "content": "[[image 0]]There are $8$ bananas divided evenly into $2$ bunches.**Which expression will tell us how many bananas are in each bunch?**",
+      "content": " [[image 0]] There are $8$ bananas divided evenly into $2$ bunches.**Which expression will tell us how many bananas are in each bunch?**",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/6638644060a6e15915d1f9d8216b9d416d1f7165.svg",
@@ -1281,7 +1281,7 @@
         "images": null
       },
       {
-        "content": "This image has $\\goldE{36}$ foxes in $\\color{green}6 \\text{ equal-sized groups}\\color{black}$.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]]\n",
+        "content": "This image has $\\goldE{36}$ foxes in $\\color{green}6 \\text{ equal-sized groups}\\color{black}$. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]] \n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/be5a8aa05384182829e435130658127afa44d0fe.svg",
@@ -1316,7 +1316,7 @@
         ]
       },
       {
-        "content": "Here is  the correct image:[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]]",
+        "content": "Here is  the correct image: [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg",
@@ -1356,12 +1356,12 @@
       "images": null
     },
     "options": [
-      "[A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]][A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  \n[A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]][A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  \n[A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]][A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]",
-      "[A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c9dc9d157a5a6ee71c7e6c3640917ca2db0918b4.svg]][A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c9dc9d157a5a6ee71c7e6c3640917ca2db0918b4.svg]]  \n[A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c9dc9d157a5a6ee71c7e6c3640917ca2db0918b4.svg]][A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/c9dc9d157a5a6ee71c7e6c3640917ca2db0918b4.svg]]     \n"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]   \n [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]   \n [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/c9dc9d157a5a6ee71c7e6c3640917ca2db0918b4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c9dc9d157a5a6ee71c7e6c3640917ca2db0918b4.svg]]   \n [[https://cdn.kastatic.org/ka-perseus-graphie/c9dc9d157a5a6ee71c7e6c3640917ca2db0918b4.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/c9dc9d157a5a6ee71c7e6c3640917ca2db0918b4.svg]]      \n"
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]][A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  \n[A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]][A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  \n[A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]][A group of 6 foxes has a rectangle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]   \n [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]   \n [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]]  [[https://cdn.kastatic.org/ka-perseus-graphie/8af554763cdbb4d3eb41d94ed5d12a8cd8b5d1d1.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -1379,7 +1379,7 @@
         "images": null
       },
       {
-        "content": "This image represents the situation:[[image 0]]",
+        "content": "This image represents the situation: [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/dd20485e14d20ad39312b050e5d8f5a18b02f383.svg",
@@ -1394,13 +1394,13 @@
       "images": null
     },
     "options": [
-      "[Three groups of 3 flowers. Each group of flowers has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/343a7f3277762fc687cda99ce135954252c508bc.svg]]",
-      "[Four groups of 3 flowers. Each group of flowers has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/dd20485e14d20ad39312b050e5d8f5a18b02f383.svg]]",
-      "[Four groups of 2 flowers. Each group of flowers has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/4fe0de9b11c135d50b87bde3d0e472571c9c98c8.svg]] "
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/343a7f3277762fc687cda99ce135954252c508bc.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/dd20485e14d20ad39312b050e5d8f5a18b02f383.svg]] ",
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/4fe0de9b11c135d50b87bde3d0e472571c9c98c8.svg]]  "
     ],
     "questionType": "single_choice",
     "correctAnswers": [
-      "[Four groups of 3 flowers. Each group of flowers has a circle around it.][[https://cdn.kastatic.org/ka-perseus-graphie/dd20485e14d20ad39312b050e5d8f5a18b02f383.svg]]"
+      " [[https://cdn.kastatic.org/ka-perseus-graphie/dd20485e14d20ad39312b050e5d8f5a18b02f383.svg]] "
     ],
     "videos": [
       "mGvunan-I-Q"
@@ -1414,7 +1414,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}18\\color{black}$ total whales divided into $\\color{green}6$ equal groups.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]]",
+        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}18\\color{black}$ total whales divided into $\\color{green}6$ equal groups. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/c075e1802a28b77ad4ee98493ca80a4a44d45882.svg",
@@ -1453,7 +1453,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{maroon}\\text{Number of whales in each group}\\color{black}$There are $\\color{blue}18\\color{black}$ total whales divided into groups of $\\color{maroon}3$ whales.[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]]",
+        "content": "### $\\color{maroon}\\text{Number of whales in each group}\\color{black}$There are $\\color{blue}18\\color{black}$ total whales divided into groups of $\\color{maroon}3$ whales. [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/304df1a51b08c1d22cc15c0ef23b04ceffdddcb8.svg",
@@ -1497,7 +1497,7 @@
       }
     ],
     "question": {
-      "content": "**Which expressions could represent the picture shown below?**[[image 0]][[image 1]][[image 2]][[image 3]][[image 4]][[image 5]]",
+      "content": "**Which expressions could represent the picture shown below?** [[image 0]]  [[image 1]]  [[image 2]]  [[image 3]]  [[image 4]]  [[image 5]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/2bae694ff1f095f170e50f5a2e87392f1e46c871.svg",
@@ -1553,7 +1553,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}24\\color{black}$ total mice divided into $\\color{green}3$ equal groups.[[image 0]][[image 1]][[image 2]]",
+        "content": "### $\\color{green}\\text{Number of equal-sized groups}\\color{black}$There are $\\color{blue}24\\color{black}$ total mice divided into $\\color{green}3$ equal groups. [[image 0]]  [[image 1]]  [[image 2]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/1c2c2cbd30d61e2ce623b9aad3adbf8631e7abe6.svg",
@@ -1577,7 +1577,7 @@
         "images": null
       },
       {
-        "content": "### $\\color{maroon}\\text{Number of mice in each group}\\color{black}$There are $\\color{blue}24\\color{black}$ mice total divided into groups of $\\color{maroon}8$ mice.[[image 0]][[image 1]][[image 2]]",
+        "content": "### $\\color{maroon}\\text{Number of mice in each group}\\color{black}$There are $\\color{blue}24\\color{black}$ mice total divided into groups of $\\color{maroon}8$ mice. [[image 0]]  [[image 1]]  [[image 2]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/863f253917fa45e744c79a9b186189be0f69bd6e.svg",
@@ -1606,7 +1606,7 @@
       }
     ],
     "question": {
-      "content": "**Which expressions could represent the picture shown below?**[[image 0]][[image 1]][[image 2]]",
+      "content": "**Which expressions could represent the picture shown below?** [[image 0]]  [[image 1]]  [[image 2]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/311398ecf4ce407e010af4ea03dec5fa192c8d36.svg",

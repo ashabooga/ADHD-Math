@@ -11,7 +11,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}9$ groups of $\\color{purple}7$.$\\underbrace{\\color{purple}7} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7}}_{\\color{blue}9}\\color{purple}\\text{ sevens}}} = \\color{green}63}$",
+        "content": "There are $\\color{blue}9$ groups of $\\color{purple}7$.$\\underbrace{\\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7\\color{black}}_{\\color{blue}9\\color{black}\\color{purple}\\text{ sevens}}} = \\color{green}63}$",
         "images": null
       },
       {
@@ -32,7 +32,9 @@
     "correctAnswers": [
       "$9$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 2,
@@ -46,7 +48,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{blue}7}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
+        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{blue}7\\color{black}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
         "images": null
       },
       {
@@ -67,7 +69,9 @@
     "correctAnswers": [
       "$7$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 3,
@@ -81,7 +85,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}4$ groups of $\\color{purple}4$.$\\underbrace{\\color{purple}4} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black}\\color{black}_{\\color{blue}4}\\color{purple}\\text{ fours}}} = \\color{green}16}$",
+        "content": "There are $\\color{blue}4$ groups of $\\color{purple}4$.$\\underbrace{\\color{purple}4\\color{black} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black}\\color{black}_{\\color{blue}4\\color{black}\\color{purple}\\text{ fours}}} = \\color{green}16}$",
         "images": null
       },
       {
@@ -102,7 +106,9 @@
     "correctAnswers": [
       "$4$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 4,
@@ -116,7 +122,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{green}24\\color{black}$ total.$\\underbrace{\\color{purple}8} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_{\\color{blue}3}\\color{purple}\\text{ eights}}} = \\color{green}24}$",
+        "content": "There are $\\color{green}24\\color{black}$ total.$\\underbrace{\\color{purple}8\\color{black} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_{\\color{blue}3\\color{black}\\color{purple}\\text{ eights}}} = \\color{green}24}$",
         "images": null
       },
       {
@@ -137,7 +143,9 @@
     "correctAnswers": [
       "$24$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 5,
@@ -151,7 +159,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{green}24\\color{black}$ total.$\\underbrace{\\color{purple}8} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_{\\color{blue}3}\\color{purple}\\text{ eights}}} = \\color{green}24}$",
+        "content": "There are $\\color{green}24\\color{black}$ total.$\\underbrace{\\color{purple}8\\color{black} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_{\\color{blue}3\\color{black}\\color{purple}\\text{ eights}}} = \\color{green}24}$",
         "images": null
       },
       {
@@ -172,7 +180,9 @@
     "correctAnswers": [
       "$24$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 6,
@@ -186,7 +196,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}6$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+\\color{purple}5\\color{black} + \\color{purple}5\\color{black}\\color{black}_{\\color{blue}6}\\color{purple}\\text{ fives}}} = \\color{green}30}$",
+        "content": "There are $\\color{blue}6$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+\\color{purple}5\\color{black} + \\color{purple}5\\color{black}\\color{black}_{\\color{blue}6\\color{black}\\color{purple}\\text{ fives}}} = \\color{green}30}$",
         "images": null
       },
       {
@@ -207,7 +217,9 @@
     "correctAnswers": [
       "$5$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 7,
@@ -221,22 +233,24 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}8$ groups of $\\color{purple}6$.$\\underbrace{\\color{purple}6} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}+\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6}}_{\\color{blue}8}\\color{purple}\\text{ sixes}}} = \\color{green}48}$",
+        "content": "There are $\\color{blue}8$ groups of $\\color{purple}6$.$\\underbrace{\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}+\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}}_{\\color{blue}8\\color{black}\\color{purple}\\text{ sixes}}} = \\color{green}48}$",
         "images": null
       },
       {
-        "content": "$\\color{green}48\\color{black}\\div\\color{purple}6\\color{black} = \\fbox{\\color{blue}8}\\color{black}$ $~~$ because  $~~$ $\\fbox{\\color{blue}8}\\times\\color{purple}6=\\color{green}48}$.",
+        "content": "$\\color{green}48\\color{black}\\div\\color{purple}6\\color{black} = \\fbox{\\color{blue}8\\color{black}\\color{black}$ $~~$ because  $~~$ $\\fbox{\\color{blue}8\\color{black}\\times\\color{purple}6=\\color{green}48}$.",
         "images": null
       }
     ],
     "question": {
-      "content": "**Fill in the blanks.**$48 \\div 6 =~$[[input-number 3]]  $~~$ because  $~~$  [[input-number 4]]${}~\\times 6=48$.",
+      "content": "**Fill in the blanks.**$48 \\div 6 =~$ []   $~~$ because  $~~$   [] ${}~\\times 6=48$.",
       "images": null
     },
     "options": [],
     "questionType": "",
     "correctAnswers": [],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 8,
@@ -250,7 +264,7 @@
         "images": null
       },
       {
-        "content": "There is $\\color{blue}1$ group of $\\color{purple}3$.$\\underbrace{\\color{purple}3}\\color{black}_{\\color{blue}1}\\color{purple}\\text{ three}\\color{black}} = \\color{green}3}$",
+        "content": "There is $\\color{blue}1$ group of $\\color{purple}3$.$\\underbrace{\\color{purple}3\\color{black}\\color{black}_{\\color{blue}1\\color{black}\\color{purple}\\text{ three}\\color{black}} = \\color{green}3\\color{black}$",
         "images": null
       },
       {
@@ -271,7 +285,9 @@
     "correctAnswers": [
       "$1$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 9,
@@ -285,7 +301,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{blue}7}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
+        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{blue}7\\color{black}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
         "images": null
       },
       {
@@ -306,6 +322,8 @@
     "correctAnswers": [
       "$7$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   }
 ]

@@ -36,7 +36,9 @@
     "correctAnswers": [
       "Number of flowers in each vase"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 2,
@@ -75,7 +77,9 @@
     "correctAnswers": [
       "There are $60$ bikes parked in the bike racks at Billy's school. If there are $6$ bikes parked at each bike rack, how many bike racks are there?"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 3,
@@ -114,7 +118,9 @@
     "correctAnswers": [
       "Tatsu needs $9$ lemons to make a pitcher of lemonade. If Tatsu has $63$ lemons, how many pitchers of lemonade can he make?"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 4,
@@ -145,7 +151,9 @@
     "correctAnswers": [
       "$25\\div5$"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 5,
@@ -184,7 +192,9 @@
     "correctAnswers": [
       "Number of rooms on each floor"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 6,
@@ -215,7 +225,9 @@
     "correctAnswers": [
       "$42\\div7$"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 7,
@@ -254,7 +266,9 @@
     "correctAnswers": [
       "Marco has $64$ toy cars. He divides them into $8$ equal groups. How many cars are in each group?"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 8,
@@ -285,7 +299,9 @@
     "correctAnswers": [
       "$54\\div9$"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 9,
@@ -316,7 +332,9 @@
     "correctAnswers": [
       "$12\\div3$"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 10,
@@ -326,7 +344,7 @@
         "images": null
       },
       {
-        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}40\\color{black}$ pieces of candy.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}5}$ pieces of candy per bag.",
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}40\\color{black}$ pieces of candy.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}5\\color{black}$ pieces of candy per bag.",
         "images": null
       },
       {
@@ -355,7 +373,9 @@
     "correctAnswers": [
       "Number of bags"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 11,
@@ -394,7 +414,9 @@
     "correctAnswers": [
       "LaTasha has $27$ rabbit stickers. She splits the stickers evenly among $3$ pieces of paper. How many stickers did LaTasha put on each piece of paper?"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 12,
@@ -404,7 +426,7 @@
         "images": null
       },
       {
-        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}24\\color{black}$ lemons.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}6}$ lemons per jar.",
+        "content": "We know the $\\color{green}\\text{total}\\color{black}$:There are $\\color{green}24\\color{black}$ lemons.And we know the $\\color{purple}\\text{size of the groups}\\color{black}$:There are $\\color{purple}6\\color{black}$ lemons per jar.",
         "images": null
       },
       {
@@ -433,7 +455,9 @@
     "correctAnswers": [
       "Number of jars"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 13,
@@ -472,7 +496,9 @@
     "correctAnswers": [
       "Leslie ran for $42$ minutes total in one week. If she ran the same number of minutes each day, how many minutes did Leslie run in one day?"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 14,
@@ -503,7 +529,9 @@
     "correctAnswers": [
       "$30\\div6$"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 15,
@@ -534,7 +562,9 @@
     "correctAnswers": [
       "$16\\div4$"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   },
   {
     "id": 16,
@@ -573,6 +603,8 @@
     "correctAnswers": [
       "Number of ice cubes in each cup"
     ],
-    "videos": ["vBWuQnmiY3k"]
+    "videos": [
+      "vBWuQnmiY3k"
+    ]
   }
 ]

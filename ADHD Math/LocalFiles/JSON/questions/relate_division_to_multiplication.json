@@ -28,7 +28,9 @@
     "correctAnswers": [
       "$7 \\times 7 = \\color{blue}\\square\\color{black}$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 2,
@@ -38,11 +40,11 @@
         "images": null
       },
       {
-        "content": "In ${\\color{green}4}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{maroon}{9}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}4\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9}\\color{black}$.[Tape diagram showing question mark is equal to 4 equal groups of 9][[https://cdn.kastatic.org/ka-perseus-graphie/cbd6b25fd98290ea45963548600d23f1bbbf8b16.svg]]The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
+        "content": "In ${\\color{green}4\\color{black}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{maroon}{9}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}4\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9\\color{black}\\color{black}$. [[https://cdn.kastatic.org/ka-perseus-graphie/cbd6b25fd98290ea45963548600d23f1bbbf8b16.svg]] The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
         "images": null
       },
       {
-        "content": "Kiley can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}4\\color{black} \\times \\color{maroon}{9}\\color{black}$\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9} \\times \\color{green}{4}}$",
+        "content": "Kiley can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}4\\color{black} \\times \\color{maroon}{9}\\color{black}$\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9\\color{black} \\times \\color{green}{4}}$",
         "images": null
       }
     ],
@@ -61,7 +63,9 @@
       "${?} = 4 \\times 9$",
       "${?} = 9 \\times 4$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 3,
@@ -71,11 +75,11 @@
         "images": null
       },
       {
-        "content": "In this fact family, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}9\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}8}\\color{black}$.[Tape diagram showing question mark is equal to 9 equal groups of 8][[https://cdn.kastatic.org/ka-perseus-graphie/9633294bf38711b44854aa315c1fe1e7e508d072.svg]]The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
+        "content": "In this fact family, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}9\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}8\\color{black}\\color{black}$. [[https://cdn.kastatic.org/ka-perseus-graphie/9633294bf38711b44854aa315c1fe1e7e508d072.svg]] The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
         "images": null
       },
       {
-        "content": "The equation $\\color{purple}{?}\\color{black} = \\color{green}9\\color{black} \\times {\\color{maroon}8}\\color{black}$ can help us find the unknown number.",
+        "content": "The equation $\\color{purple}{?}\\color{black} = \\color{green}9\\color{black} \\times {\\color{maroon}8\\color{black}\\color{black}$ can help us find the unknown number.",
         "images": null
       }
     ],
@@ -96,7 +100,9 @@
       "8",
       "?"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 4,
@@ -106,11 +112,11 @@
         "images": null
       },
       {
-        "content": "In ${\\color{maroon}9}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{green}{6}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}6\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9}\\color{black}$.[Tape diagram showing question mark is equal to 6 equal groups of 9][[https://cdn.kastatic.org/ka-perseus-graphie/d7c2700709200e98cc30f84e8ca6e17aa1cc6bb7.svg]]The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
+        "content": "In ${\\color{maroon}9\\color{black}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{green}{6}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}6\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9\\color{black}\\color{black}$. [[https://cdn.kastatic.org/ka-perseus-graphie/d7c2700709200e98cc30f84e8ca6e17aa1cc6bb7.svg]] The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
         "images": null
       },
       {
-        "content": "Tony can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}6\\color{black} \\times \\color{maroon}{9}\\color{black} $\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9} \\times \\color{green}{6}}$",
+        "content": "Tony can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}6\\color{black} \\times \\color{maroon}{9}\\color{black} $\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9\\color{black} \\times \\color{green}{6}}$",
         "images": null
       }
     ],
@@ -129,7 +135,9 @@
       "${?} = 6 \\times 9$",
       "${?} = 9 \\times 6$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 5,
@@ -160,7 +168,9 @@
     "correctAnswers": [
       "$\\color{blue}\\blacklozenge\\color{black} \\times 7= 21$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 6,
@@ -191,7 +201,9 @@
     "correctAnswers": [
       "$7 \\times 7 = \\color{blue}\\square\\color{black}$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 7,
@@ -222,7 +234,9 @@
     "correctAnswers": [
       "$\\color{blue}\\square\\color{black} \\times 7 = 63$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   },
   {
     "id": 8,
@@ -232,11 +246,11 @@
         "images": null
       },
       {
-        "content": "In ${\\color{green}4}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{maroon}{9}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}4\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9}\\color{black}$.[Tape diagram showing question mark is equal to 4 equal groups of 9][[https://cdn.kastatic.org/ka-perseus-graphie/cbd6b25fd98290ea45963548600d23f1bbbf8b16.svg]]The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
+        "content": "In ${\\color{green}4\\color{black}\\color{black} = \\color{purple}{?}\\color{black} \\div \\color{maroon}{9}\\color{black}$, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}4\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is ${\\color{maroon}9\\color{black}\\color{black}$. [[https://cdn.kastatic.org/ka-perseus-graphie/cbd6b25fd98290ea45963548600d23f1bbbf8b16.svg]] The $\\color{purple}\\text{total}}$ is $\\color{purple}?}$.",
         "images": null
       },
       {
-        "content": "Kiley can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}4\\color{black} \\times \\color{maroon}{9}\\color{black}$\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9} \\times \\color{green}{4}}$",
+        "content": "Kiley can use these multiplication equations:- $\\color{purple}{?}\\color{black} = \\color{green}4\\color{black} \\times \\color{maroon}{9}\\color{black}$\n- $\\color{purple}{?}\\color{black} = \\color{maroon}9\\color{black} \\times \\color{green}{4}}$",
         "images": null
       }
     ],
@@ -255,6 +269,8 @@
       "${?} = 4 \\times 9$",
       "${?} = 9 \\times 4$"
     ],
-    "videos": ["qcMJ1pN36r4"]
+    "videos": [
+      "qcMJ1pN36r4"
+    ]
   }
 ]

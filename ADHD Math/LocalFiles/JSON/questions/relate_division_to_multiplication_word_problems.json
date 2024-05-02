@@ -3,7 +3,7 @@
     "id": 1,
     "hints": [
       {
-        "content": "Each row has $\\color{purple}4$ plants.There are $\\color{green}16\\color{black}$ total plants.[[image 0]]How many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "content": "Each row has $\\color{purple}4$ plants.There are $\\color{green}16\\color{black}$ total plants. [[image 0]] How many $\\color{color{blue}}\\text{groups}}$ are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/b4adcb3d4533e5b62df8e2f55bb931318b174efa.svg",
@@ -40,13 +40,18 @@
       "$4\\times \\,?=16$",
       "$16\\div4=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 2,
     "hints": [
       {
-        "content": "There are $\\color{color{blue}}7\\color{black}$ kids.There are $\\color{green}35\\color{black}$ total cookies.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "content": "There are $\\color{color{blue}}7\\color{black}$ kids.There are $\\color{green}35\\color{black}$ total cookies. [[image 0]] What is the $\\color{purple}\\text{size of the groups}}$?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/f564b2b2a019ddcad73ae27f21c6ed31f36a2e4a.svg",
@@ -60,11 +65,11 @@
         "images": null
       },
       {
-        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}35\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}35\\color{black}\\div \\color{color{blue}}7\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       },
       {
-        "content": "The equations that would help us find out how many cookies Lance gave each kid are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}35\\color{black}$\n - $\\color{green}35\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "content": "The equations that would help us find out how many cookies Lance gave each kid are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}35\\color{black}$\n - $\\color{green}35\\color{black}\\div \\color{color{blue}}7\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       }
     ],
@@ -83,13 +88,18 @@
       "$7\\times\\,?=35$",
       "$35\\div7=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 3,
     "hints": [
       {
-        "content": "There are $\\color{color{blue}}7\\color{black}$ packs.They sold $\\color{green}14\\color{black}$ total yo-yos.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "content": "There are $\\color{color{blue}}7\\color{black}$ packs.They sold $\\color{green}14\\color{black}$ total yo-yos. [[image 0]] What is the $\\color{purple}\\text{size of the groups}}$?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/4dad5aab25750258322aa36dbdc232608f997790.svg",
@@ -103,11 +113,11 @@
         "images": null
       },
       {
-        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}14\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}14\\color{black}\\div \\color{color{blue}}7\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       },
       {
-        "content": "The equations that would help us find out how many yo-yos were in each pack are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}14\\color{black}$\n - $\\color{green}14\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "content": "The equations that would help us find out how many yo-yos were in each pack are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}14\\color{black}$\n - $\\color{green}14\\color{black}\\div \\color{color{blue}}7\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       }
     ],
@@ -126,13 +136,18 @@
       "$7\\times\\,?=14$",
       "$14\\div7=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 4,
     "hints": [
       {
-        "content": "Colleen has $\\color{color{blue}}3\\color{black}$ sons.They ate $\\color{green}18\\color{black}$ total nuggets.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "content": "Colleen has $\\color{color{blue}}3\\color{black}$ sons.They ate $\\color{green}18\\color{black}$ total nuggets. [[image 0]] What is the $\\color{purple}\\text{size of the groups}}$?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/b886870db9242db8bc169880bbad710435f65e5d.svg",
@@ -146,11 +161,11 @@
         "images": null
       },
       {
-        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}18\\color{black}\\div \\color{color{blue}}3}=\\color{purple}\\text{?}}$",
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}18\\color{black}\\div \\color{color{blue}}3\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       },
       {
-        "content": "The equations that would help us find out how many nuggets each son ate are: - $\\color{color{blue}}3\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}18\\color{black}$\n - $\\color{green}18\\color{black}\\div \\color{color{blue}}3}=\\color{purple}\\text{?}}$",
+        "content": "The equations that would help us find out how many nuggets each son ate are: - $\\color{color{blue}}3\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}18\\color{black}$\n - $\\color{green}18\\color{black}\\div \\color{color{blue}}3\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       }
     ],
@@ -169,13 +184,18 @@
       "$3\\times\\,?=18$",
       "$18\\div3=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 5,
     "hints": [
       {
-        "content": "Each aunt gets $\\color{purple}7$ flowers.There are $\\color{green}28\\color{black}$ total flowers.[[image 0]]How many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "content": "Each aunt gets $\\color{purple}7$ flowers.There are $\\color{green}28\\color{black}$ total flowers. [[image 0]] How many $\\color{color{blue}}\\text{groups}}$ are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/e3ea9e6891bf092db6dc7a6707c76885e996b694.svg",
@@ -212,13 +232,18 @@
       "$7\\times\\,?=28$  ",
       "$28\\div7=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 6,
     "hints": [
       {
-        "content": "There are $\\color{color{blue}}8\\color{black}$ chefs.The made $\\color{green}56\\color{black}$ total meals.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "content": "There are $\\color{color{blue}}8\\color{black}$ chefs.The made $\\color{green}56\\color{black}$ total meals. [[image 0]] What is the $\\color{purple}\\text{size of the groups}}$?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/414048b52f01fe5907ebc7bb80c6ed85bcf468bc.svg",
@@ -232,11 +257,11 @@
         "images": null
       },
       {
-        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}56\\color{black}\\div \\color{color{blue}}8}=\\color{purple}\\text{?}}$",
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}56\\color{black}\\div \\color{color{blue}}8\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       },
       {
-        "content": "The equations that would help us find out how many meals each chef made are: - $\\color{color{blue}}8\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}56\\color{black}$\n - $\\color{green}56\\color{black}\\div \\color{color{blue}}8}=\\color{purple}\\text{?}}$",
+        "content": "The equations that would help us find out how many meals each chef made are: - $\\color{color{blue}}8\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}56\\color{black}$\n - $\\color{green}56\\color{black}\\div \\color{color{blue}}8\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       }
     ],
@@ -255,13 +280,18 @@
       "$8\\times\\,?=56$",
       "$56\\div8=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 7,
     "hints": [
       {
-        "content": "Each shelf has $\\color{purple}9$ books.There are $\\color{green}45\\color{black}$ total books.[[image 0]]How many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "content": "Each shelf has $\\color{purple}9$ books.There are $\\color{green}45\\color{black}$ total books. [[image 0]] How many $\\color{color{blue}}\\text{groups}}$ are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/fbb5c54ae47b6bee1b9885b62e022ad3beed1290.svg",
@@ -298,13 +328,18 @@
       "$9\\times \\,?=45$",
       "$45\\div9=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 8,
     "hints": [
       {
-        "content": "There are $\\color{color{blue}}4\\color{black}$ friends.They got $\\color{green}12\\color{black}$ total carrots.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "content": "There are $\\color{color{blue}}4\\color{black}$ friends.They got $\\color{green}12\\color{black}$ total carrots. [[image 0]] What is the $\\color{purple}\\text{size of the groups}}$?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/c976d5d8464a9ee66c2e8144093135f98989fa98.svg",
@@ -318,11 +353,11 @@
         "images": null
       },
       {
-        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}12\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}12\\color{black}\\div \\color{color{blue}}4\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       },
       {
-        "content": "The equations that would help us find out how many carrots Rhonda Rabbit gave each friend are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}12\\color{black}$\n - $\\color{green}12\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "content": "The equations that would help us find out how many carrots Rhonda Rabbit gave each friend are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}12\\color{black}$\n - $\\color{green}12\\color{black}\\div \\color{color{blue}}4\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       }
     ],
@@ -341,13 +376,18 @@
       "$4\\times\\,?=12$",
       "$12\\div4=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 9,
     "hints": [
       {
-        "content": "Each chapter is $\\color{purple}9$ pages long.There are $\\color{green}63\\color{black}$ total pages.[[image 0]]\nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "content": "Each chapter is $\\color{purple}9$ pages long.There are $\\color{green}63\\color{black}$ total pages. [[image 0]] \nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/f07778bb0519ffc3a3a2462019a2839a94706b8a.svg",
@@ -384,13 +424,18 @@
       "$9\\times \\,?=63$",
       "$63\\div9=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 10,
     "hints": [
       {
-        "content": "There are $\\color{purple}6$ pencils in a pack.There are $\\color{green}54\\color{black}$ total pencils.[[image 0]]\nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "content": "There are $\\color{purple}6$ pencils in a pack.There are $\\color{green}54\\color{black}$ total pencils. [[image 0]] \nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/a89c3f2113a8e739a66e0b3192b90103d7151a4a.svg",
@@ -427,13 +472,18 @@
       "$6\\times\\,?=54$  ",
       "$54\\div6=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 11,
     "hints": [
       {
-        "content": "There are $\\color{purple}7$ kids in each group.There are $\\color{green}56\\color{black}$ total kids.[[image 0]]\nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "content": "There are $\\color{purple}7$ kids in each group.There are $\\color{green}56\\color{black}$ total kids. [[image 0]] \nHow many $\\color{color{blue}}\\text{groups}}$ are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/e78c4557bf32ad86058c8013ac0ceebd87f34d64.svg",
@@ -470,13 +520,18 @@
       "$7\\times\\,?=56$",
       "$56\\div7=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   },
   {
     "id": 12,
     "hints": [
       {
-        "content": "There are $\\color{color{blue}}4\\color{black}$ rows.They are $\\color{green}32\\color{black}$ total desks.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?\n",
+        "content": "There are $\\color{color{blue}}4\\color{black}$ rows.They are $\\color{green}32\\color{black}$ total desks. [[image 0]] What is the $\\color{purple}\\text{size of the groups}}$?\n",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/02f36dc7137525a1590d0ec47f7270e7c392fe59.svg",
@@ -490,11 +545,11 @@
         "images": null
       },
       {
-        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}32\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}32\\color{black}\\div \\color{color{blue}}4\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       },
       {
-        "content": "The equations that would help us find out how many desks are in each row are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}32\\color{black}$\n - $\\color{green}32\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "content": "The equations that would help us find out how many desks are in each row are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}32\\color{black}$\n - $\\color{green}32\\color{black}\\div \\color{color{blue}}4\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       }
     ],
@@ -513,6 +568,11 @@
       "$4\\times\\,?=32$",
       "$32\\div4=\\,?$"
     ],
-    "videos": ["QXNg_u5Tv8Q", "iqpDFKIREBo", "5GOhM3jq9Fc", "6QZCj4O9sk0"]
+    "videos": [
+      "QXNg_u5Tv8Q",
+      "iqpDFKIREBo",
+      "5GOhM3jq9Fc",
+      "6QZCj4O9sk0"
+    ]
   }
 ]

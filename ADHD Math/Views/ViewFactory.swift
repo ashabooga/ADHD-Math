@@ -11,6 +11,8 @@ struct CustomTextView: View {
 
     var body: some View {
         let items: [String] = getItemsInString(text)
+        var isBold: Bool = false
+        
         
         VStack {
             
@@ -19,12 +21,35 @@ struct CustomTextView: View {
                 
                 if item.starts(with: "[[") {
                     
-                    let image = getImageFromItem(text: text, item: item, question: question)
+                    getImageFromItem(text: text, item: item, question: question)
                     
-                    image
+                    
                 } else {
-                    LaTeX(item)
-                        .imageRenderingMode(.original)
+                    if item == "" || item == " " {
+                        EmptyView()
+                    } else if item == "**" {
+                        let _ = isBold = true
+                    } else if item == "%%" {
+                        let _ = isBold = false
+                    } else if item.contains("$") {
+                        LaTeX(item)
+                            .imageRenderingMode(.original)
+                            .frame(alignment: .leading)
+                            .padding(.top)
+                    } else {
+                        let _ = print(item)
+                        if isBold {
+                            let _ = print(item)
+                            Text(item)
+                                .fontWeight(.bold)
+                                .frame(alignment: .leading)
+                                .padding(.top)
+                        } else {
+                            Text(item)
+                                .frame(alignment: .leading)
+                                .padding(.top)
+                        }
+                    }
                 }
                 
             }
@@ -74,7 +99,7 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
         imageURL = String(imageURL.dropFirst(graphiePrefix.count - 2).dropLast(4))
     }
     
-    let image: Image = Image(uiImage: UIImage(named: imageURL) ?? UIImage(named: "noImage")!)
+    let image: some View = Image(uiImage: UIImage(named: imageURL) ?? UIImage(named: "noImage")!).resizable().scaledToFit()
     
     return image
 }
@@ -106,7 +131,31 @@ func getItemsInString(_ string: String) -> [String] {
     let remainingText = String(string[currentIndex...])
     items.append(remainingText)
     
-    print(items)
+    var finalItems: [String] = []
+    for item in items {
+        if item.contains("**") {
+            let splitItems = item.components(separatedBy: "**")
+            var isOpener: Bool = true
+            
+            for (index, item) in splitItems.enumerated() {
+                finalItems.append(item)
+                if index < splitItems.count - 1 {
+                    
+                    if isOpener {
+                        finalItems.append("**")
+                    } else {
+                        finalItems.append("%%")
+                    }
+                    
+                    isOpener.toggle()
+                }
+            }
+        } else {
+            finalItems.append(item)
+        }
+    }
     
-    return items
+    print(finalItems)
+    
+    return finalItems
 }

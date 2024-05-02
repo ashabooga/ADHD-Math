@@ -7,7 +7,7 @@
         "images": null
       },
       {
-        "content": "The image has $\\color{green}30\\color{black}$ total cheese triangles.[[image 0]]They are in $\\color{blue}D6$ groups of $\\color{purple}5$ cheese triangles.",
+        "content": "The image has $\\color{green}30\\color{black}$ total cheese triangles. [[image 0]] They are in $\\color{blue}D6$ groups of $\\color{purple}5$ cheese triangles.",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/7115fe2045a25cf9ff3661f4e3f505d1b97f3129.svg",
@@ -21,12 +21,12 @@
         "images": null
       },
       {
-        "content": "Here is the completed table: | | | | |\n:-: | :-: | :-: | :-: | :-:\n$\\color{blue}D6$| $\\times$| $\\fbox{\\color{purple}5}$ | $=$ | $\\color{green}30\\color{black}$\n$\\color{green}30\\color{black}$ |$\\div$ | $\\fbox{\\color{purple}5}$ | $=$ | $\\color{blue}D6$",
+        "content": "Here is the completed table: | | | | |\n:-: | :-: | :-: | :-: | :-:\n$\\color{blue}D6$| $\\times$| $\\fbox{\\color{purple}5\\color{black}$ | $=$ | $\\color{green}30\\color{black}$\n$\\color{green}30\\color{black}$ |$\\div$ | $\\fbox{\\color{purple}5\\color{black}$ | $=$ | $\\color{blue}D6$",
         "images": null
       }
     ],
     "question": {
-      "content": "**Fill in the blanks to complete the table.**  \n*Hint: Use the image to help you solve.* | | | | |\n:-: | :-: | :-: | :-: | :-:\n$6$| $\\times$ | [[input-number 2]]|$=$ | $30$\n$30$ | $\\div$ |  [[input-number 5]]  | $=$ | $6$[[image 0]]",
+      "content": "**Fill in the blanks to complete the table.**  \n*Hint: Use the image to help you solve.* | | | | |\n:-: | :-: | :-: | :-: | :-:\n$6$| $\\times$ |  [] |$=$ | $30$\n$30$ | $\\div$ |   []   | $=$ | $6$ [[image 0]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/2c3f27003fd07e2d6937ac8f2a6ea0837f12e009.svg",
@@ -52,7 +52,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}D7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{color{blue}}7}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
+        "content": "There are $\\color{blue}D7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{color{blue}}7\\color{black}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
         "images": null
       },
       {
@@ -83,7 +83,7 @@
         "images": null
       },
       {
-        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}15\\color{black}$.The $\\color{color{blue}}\\text{number of the groups}\\color{black}$ is $\\color{blue}E5$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}3$.[[image 0]]",
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}15\\color{black}$.The $\\color{color{blue}}\\text{number of the groups}\\color{black}$ is $\\color{blue}E5$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}3$. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/3e8e9159337ef2d870aaeeba3f2c215d248b4c4e.svg",
@@ -93,7 +93,7 @@
         ]
       },
       {
-        "content": "So,\n$\\color{purple}15\\color{black} = \\color{maroon}3\\color{black} \\times \\color{color{blue}}5\\color{black}$\n$\\color{purple}15\\color{black}\\div\\color{color{blue}}5}=\\color{maroon}3}$\n",
+        "content": "So,\n$\\color{purple}15\\color{black} = \\color{maroon}3\\color{black} \\times \\color{color{blue}}5\\color{black}$\n$\\color{purple}15\\color{black}\\div\\color{color{blue}}5\\color{black}=\\color{maroon}3\\color{black}$\n",
         "images": null
       },
       {
@@ -122,7 +122,7 @@
     "id": 4,
     "hints": [
       {
-        "content": "There are $\\color{color{blue}}7\\color{black}$ rows.They are $\\color{green}42\\color{black}$ total bricks.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "content": "There are $\\color{color{blue}}7\\color{black}$ rows.They are $\\color{green}42\\color{black}$ total bricks. [[image 0]] What is the $\\color{purple}\\text{size of the groups}}$?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/9b01f3d73ba306f2d0136fbca512043e2fe2d3e0.svg",
@@ -136,11 +136,11 @@
         "images": null
       },
       {
-        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}42\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}42\\color{black}\\div \\color{color{blue}}7\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       },
       {
-        "content": "The equations that would help us find out how many bricks are in each row are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}42\\color{black}$\n - $\\color{green}42\\color{black}\\div \\color{color{blue}}7}=\\color{purple}\\text{?}}$",
+        "content": "The equations that would help us find out how many bricks are in each row are:   - $\\color{color{blue}}7\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}42\\color{black}$\n - $\\color{green}42\\color{black}\\div \\color{color{blue}}7\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       }
     ],
@@ -165,7 +165,7 @@
     "id": 5,
     "hints": [
       {
-        "content": "There are $\\color{color{blue}}4\\color{black}$ friends.They got $\\color{green}12\\color{black}$ total carrots.[[image 0]]What is the $\\color{purple}\\text{size of the groups}}$?",
+        "content": "There are $\\color{color{blue}}4\\color{black}$ friends.They got $\\color{green}12\\color{black}$ total carrots. [[image 0]] What is the $\\color{purple}\\text{size of the groups}}$?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/c976d5d8464a9ee66c2e8144093135f98989fa98.svg",
@@ -179,11 +179,11 @@
         "images": null
       },
       {
-        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}12\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "content": "We can also write this as a division problem. $\\color{green}\\text{total}\\color{black}\\div\\color{color{blue}}\\text{ number of groups}\\color{black}=\\color{purple}\\text{ size of the groups}\\color{black}$So, $\\color{green}12\\color{black}\\div \\color{color{blue}}4\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       },
       {
-        "content": "The equations that would help us find out how many carrots Rhonda Rabbit gave each friend are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}12\\color{black}$\n - $\\color{green}12\\color{black}\\div \\color{color{blue}}4}=\\color{purple}\\text{?}}$",
+        "content": "The equations that would help us find out how many carrots Rhonda Rabbit gave each friend are:   - $\\color{color{blue}}4\\color{black}\\times\\color{purple}\\text{?}\\color{black} = \\color{green}12\\color{black}$\n - $\\color{green}12\\color{black}\\div \\color{color{blue}}4\\color{black}=\\color{purple}\\text{?}}$",
         "images": null
       }
     ],
@@ -208,11 +208,11 @@
     "id": 6,
     "hints": [
       {
-        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black}$\nSo, $\\color{green}9\\color{black}\\times\\color{maroon}6} = \\color{purple}54}$ is one way to represent this image.",
+        "content": "We can relate the tape diagram to multiplication:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black}$\nSo, $\\color{green}9\\color{black}\\times\\color{maroon}6\\color{black} = \\color{purple}54}$ is one way to represent this image.",
         "images": null
       },
       {
-        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}54\\color{black}$.The $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}9$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}6$.[[image 0]]",
+        "content": "In this fact family, the $\\color{purple}\\text{total}\\color{black}$ is $\\color{purple}54\\color{black}$.The $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}9$.The $\\color{maroon}\\text{size of each group}\\color{black}$ is $\\color{maroon}6$. [[image 0]] ",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/43e373f5ad98adedd468b81528caf5a71a250797.svg",
@@ -222,16 +222,16 @@
         ]
       },
       {
-        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}54\\color{black} \\div \\color{green}9} = \\color{maroon}6}$ is another way to represent this image.\n",
+        "content": "We can also relate the tape diagram to division.\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total}\\color{black} \\div \\color{maroon}\\text{size of groups}\\color{black} =\\color{green}\\text{number of groups}\\color{black}$\nSo, $\\color{purple}54\\color{black} \\div \\color{green}9\\color{black} = \\color{maroon}6\\color{black}$ is another way to represent this image.\n",
         "images": null
       },
       {
-        "content": "\nMultiplication: $\\color{green}9\\color{black}\\times\\color{maroon}6\\color{black}=\\color{purple}54\\color{black}$Division: $\\color{purple}54\\color{black} \\div \\color{green}9} = \\color{maroon}6}$",
+        "content": "\nMultiplication: $\\color{green}9\\color{black}\\times\\color{maroon}6\\color{black}=\\color{purple}54\\color{black}$Division: $\\color{purple}54\\color{black} \\div \\color{green}9\\color{black} = \\color{maroon}6\\color{black}$",
         "images": null
       }
     ],
     "question": {
-      "content": "**Which equations can the tape diagram represent?**[[image 0]]",
+      "content": "**Which equations can the tape diagram represent?** [[image 0]] ",
       "images": [
         {
           "url": "https://cdn.kastatic.org/ka-perseus-graphie/43e373f5ad98adedd468b81528caf5a71a250797.svg",
@@ -265,7 +265,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}D6$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+\\color{purple}5\\color{black} + \\color{purple}5\\color{black}\\color{black}_{\\color{color{blue}}6}\\color{purple}\\text{ fives}}} = \\color{green}30}$",
+        "content": "There are $\\color{blue}D6$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+\\color{purple}5\\color{black} + \\color{purple}5\\color{black}\\color{black}_{\\color{color{blue}}6\\color{black}\\color{purple}\\text{ fives}}} = \\color{green}30}$",
         "images": null
       },
       {
@@ -292,7 +292,7 @@
     "id": 8,
     "hints": [
       {
-        "content": "Each row has $\\color{purple}4$ plants.There are $\\color{green}16\\color{black}$ total plants.[[image 0]]How many $\\color{color{blue}}\\text{groups}}$ are there?",
+        "content": "Each row has $\\color{purple}4$ plants.There are $\\color{green}16\\color{black}$ total plants. [[image 0]] How many $\\color{color{blue}}\\text{groups}}$ are there?",
         "images": [
           {
             "url": "https://cdn.kastatic.org/ka-perseus-graphie/b4adcb3d4533e5b62df8e2f55bb931318b174efa.svg",
