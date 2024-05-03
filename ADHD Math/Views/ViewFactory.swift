@@ -19,10 +19,9 @@ struct CustomTextView: View {
                 
             ForEach(Array(items.enumerated()), id: \.offset) { index, item in
                 
-                if item.starts(with: "[[") {
+                if item.contains("[[") {
                     
                     getImageFromItem(text: text, item: item, question: question)
-                    
                     
                 } else {
                     if item == "" || item == " " {
@@ -32,14 +31,20 @@ struct CustomTextView: View {
                     } else if item == "%%" {
                         let _ = isBold = false
                     } else if item.contains("$") {
-                        LaTeX(item)
-                            .imageRenderingMode(.original)
-                            .multilineTextAlignment(.leading)
-                            .padding(.top)
-                    } else {
-                        let _ = print(item)
                         if isBold {
-                            let _ = print(item)
+                            LaTeX(item)
+                                .bold()
+                                .frame(maxWidth: .infinity, alignment: .leading)
+                                .multilineTextAlignment(.leading)
+                                .padding(.top)
+                        } else {
+                            LaTeX(item)
+                                .frame(maxWidth: .infinity, alignment: .leading)
+                                .multilineTextAlignment(.leading)
+                                .padding(.top)
+                        }
+                    } else {
+                        if isBold {
                             Text(item)
                                 .fontWeight(.bold)
                                 .frame(maxWidth: .infinity, alignment: .leading)
@@ -66,12 +71,21 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
     
     let graphiePrefix: String = "[[https://cdn.kastatic.org/ka-perseus-graphie/"
     let imagePrefix: String = "[[image "
+    var item = item
     
-    var imageURL: String = "noImage"
+    var imageURLs: [String] = ["noImage"]
+    
+    if item.contains(graphiePrefix) {
+        item = item.replacingOccurrences(of: " ", with: "")
+    }
+    
+    
 
-    if item.starts(with: graphiePrefix) {
-        let trimmedItem = String(item.dropFirst(graphiePrefix.count).dropLast(6))
-        imageURL = trimmedItem
+    if item.contains(graphiePrefix) {
+        let trimmedItem = item.replacingOccurrences(of: graphiePrefix, with: "").replacingOccurrences(of: ".svg]]", with: "")
+        let trimmedItems = trimmedItem.components(separatedBy: .whitespaces).filter({ $0 != "" && $0 != "\n" })
+        print(trimmedItems)
+        imageURLs = trimmedItems
         
     } else if item.starts(with: imagePrefix) {
         
@@ -97,13 +111,22 @@ func getImageFromItem(text: String, item: String, question: QuestionModel) -> so
             }
         }
         
-        imageURL = image.url
-        imageURL = String(imageURL.dropFirst(graphiePrefix.count - 2).dropLast(4))
+        imageURLs = [image.url]
+        imageURLs = [String(imageURLs[0].dropFirst(graphiePrefix.count - 2).dropLast(4))]
     }
     
-    let image: some View = Image(uiImage: UIImage(named: imageURL) ?? UIImage(named: "noImage")!).resizable().scaledToFit()
+    var content: AnyView = AnyView(EmptyView())
     
-    return image
+    if imageURLs.count == 1 {
+        content = AnyView(Image(uiImage: UIImage(named: imageURLs[0]) ?? UIImage(named: "noImage")!).resizable().scaledToFit())
+    } else {
+        content = AnyView(VStack {
+            ForEach(Array(imageURLs.enumerated()), id: \.offset) { index, url in
+                Image(uiImage: UIImage(named: url) ?? UIImage(named: "noImage")!).resizable().scaledToFit()
+            }}.frame(maxWidth: 225))
+    }
+    
+    return content
 }
 
 func getItemsInString(_ string: String) -> [String] {

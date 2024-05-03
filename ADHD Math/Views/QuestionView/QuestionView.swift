@@ -159,6 +159,6 @@ struct QuestionView: View {
     
     @State var exerciseResults: [Bool] = []
     
-    return QuestionView(question: QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "Amy has $16$ video games. She puts them into stacks of $4$ games each.**Which expression helps us find out how many stacks of games there are?", images: [ImageModel(url: "pandaPNG", height: 250, width: 300)]), options: ["option 1", "option 2", "option 3", "option 4"], questionType: .multipleChoice, correctAnswers: ["option 2", "option 3"], videos: ["noVideo"]), isTest: false, incrementIndex: { noFunc() }, exerciseResults: $exerciseResults)
+    return QuestionView(question: QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "There are $10$ jumping monkeys. We want to divide them equally onto $2$ beds. [[image 0]]  [[image 1]] **How many monkeys will be on each bed?** $10\\div 2 = $  []  monkeys", images: [ImageModel(url: "https://cdn.kastatic.org/ka-perseus-graphie/b8e8151ec27f0a6180461dd6e5eba47abe0a4630.svg", height: 250, width: 300), ImageModel(url: "https://cdn.kastatic.org/ka-perseus-graphie/134969db805097e699cce9df2bbde61e728847e8.svg", height: 450, width: 80)]), options: [], questionType: .number, correctAnswers: ["5"], videos: ["mGvunan-I-Q"]), isTest: false, incrementIndex: { noFunc() }, exerciseResults: $exerciseResults)
         .background(Color.background3.ignoresSafeArea())
 }

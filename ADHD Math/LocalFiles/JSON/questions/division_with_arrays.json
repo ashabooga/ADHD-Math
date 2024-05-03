@@ -683,39 +683,6 @@
     ]
   },
   {
-    "id": 16,
-    "hints": [
-      {
-        "content": "There are $\\color{green}20\\color{black}$ people with $\\color{purple}2$ people in each group.  [[https://cdn.kastatic.org/ka-perseus-graphie/1604e6de4b55503929e7aea4ae550c832609a925.svg]] How can we find out how many groups of people there are?",
-        "images": null
-      },
-      {
-        "content": "We can find how many groups of people there are by dividing:$\\color{green}\\text{total}\\color{black}\\div\\color{purple}\\text{ size of the rows}\\color{black}$So, $\\color{green}20}\\div\\color{purple}2\\color{black}$",
-        "images": null
-      },
-      {
-        "content": "The following expression will tell us how many groups of people there are:- $\\color{green}20\\color{black}\\div\\color{purple}2$",
-        "images": null
-      }
-    ],
-    "question": {
-      "content": "There are $20$ total people split into groups of $2$.  [[https://cdn.kastatic.org/ka-perseus-graphie/9e70f55dd8fd93293cdaeaed89b3add9207856f6.svg]]  **Which expression will tell us how many groups of people there are?**",
-      "images": null
-    },
-    "options": [
-      "$20 \\div 2$",
-      "$10\\div 20$",
-      "$2 \\div 10$"
-    ],
-    "questionType": "single_choice",
-    "correctAnswers": [
-      "$20 \\div 2$"
-    ],
-    "videos": [
-      "qIAszZBV84s"
-    ]
-  },
-  {
     "id": 17,
     "hints": [
       {
