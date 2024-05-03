@@ -18,7 +18,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{7} \\div \\greenD{1} = {?}$ **",
+      "content": "** $\\color{blue}7\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -47,7 +47,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{14} \\div \\greenD{2} = {?}$ **",
+      "content": "** $\\color{blue}14} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -76,7 +76,7 @@
       }
     ],
     "question": {
-      "content": "**$\\blueD{12} \\div \\greenD{4} =$** ",
+      "content": "**$\\color{blue}12} \\div \\color{green}4\\color{black} =$** ",
       "images": null
     },
     "options": [],
@@ -105,7 +105,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{9} \\div \\greenD{1} = {?}$ **",
+      "content": "** $\\color{blue}9\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -134,7 +134,7 @@
       }
     ],
     "question": {
-      "content": "**$\\blueD{28} \\div \\greenD{4}=$** ",
+      "content": "**$\\color{blue}28} \\div \\color{green}4\\color{black}=$** ",
       "images": null
     },
     "options": [],
@@ -163,7 +163,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{8} \\div \\greenD{2} = {?}$ **",
+      "content": "** $\\color{blue}8\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -192,7 +192,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{20} \\div \\greenD{2} = {?}$ **",
+      "content": "** $\\color{blue}20} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -221,7 +221,7 @@
       }
     ],
     "question": {
-      "content": "**$\\blueD{36} \\div \\greenD{4} =$** ",
+      "content": "**$\\color{blue}36} \\div \\color{green}4\\color{black} =$** ",
       "images": null
     },
     "options": [],
@@ -250,7 +250,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{3} \\div \\greenD{1} = {?}$ **",
+      "content": "** $\\color{blue}3\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -279,7 +279,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{6} \\div \\greenD{2} = {?}$ **",
+      "content": "** $\\color{blue}6\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -308,7 +308,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{9} \\div \\greenD{1} = {?}$ **",
+      "content": "** $\\color{blue}9\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -347,7 +347,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{2} \\div \\greenD{1} = {?}$ **",
+      "content": "** $\\color{blue}2\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -376,7 +376,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{7} \\div \\greenD{1} = {?}$ **",
+      "content": "** $\\color{blue}7\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -405,7 +405,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{16} \\div \\greenD{2} = {?}$ **",
+      "content": "** $\\color{blue}16} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -434,7 +434,7 @@
       }
     ],
     "question": {
-      "content": "**$\\blueD{20} \\div \\greenD{4} =$** ",
+      "content": "**$\\color{blue}20} \\div \\color{green}4\\color{black} =$** ",
       "images": null
     },
     "options": [],
@@ -463,7 +463,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{6} \\div \\greenD{1} = {?}$ **",
+      "content": "** $\\color{blue}6\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -492,7 +492,7 @@
       }
     ],
     "question": {
-      "content": "**$\\blueD{32} \\div \\greenD{4}=$** ",
+      "content": "**$\\color{blue}32} \\div \\color{green}4\\color{black}=$** ",
       "images": null
     },
     "options": [],
@@ -521,7 +521,7 @@
       }
     ],
     "question": {
-      "content": "**$\\blueD{24} \\div \\greenD{4}=$** ",
+      "content": "**$\\color{blue}24} \\div \\color{green}4\\color{black}=$** ",
       "images": null
     },
     "options": [],
@@ -550,7 +550,7 @@
       }
     ],
     "question": {
-      "content": "**$\\blueD{40} \\div \\greenD{4} =$** ",
+      "content": "**$\\color{blue}40} \\div \\color{green}4\\color{black} =$** ",
       "images": null
     },
     "options": [],
@@ -579,7 +579,7 @@
       }
     ],
     "question": {
-      "content": "**$\\blueD{8} \\div \\greenD{4} =$** ",
+      "content": "**$\\color{blue}8\\color{black} \\div \\color{green}4\\color{black} =$** ",
       "images": null
     },
     "options": [],
@@ -608,7 +608,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{8} \\div \\greenD{2} = {?}$ **",
+      "content": "** $\\color{blue}8\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -637,7 +637,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{4} \\div \\greenD{2} = {?}$ **",
+      "content": "** $\\color{blue}4\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -666,7 +666,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{12} \\div \\greenD{2} = {?}$ **",
+      "content": "** $\\color{blue}12} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -695,7 +695,7 @@
       }
     ],
     "question": {
-      "content": "** $\\blueD{4} \\div \\greenD{1} = {?}$ **",
+      "content": "** $\\color{blue}4\\color{black} \\div \\color{green}1\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],

@@ -3,47 +3,6 @@
     "id": 1,
     "hints": [
       {
-        "content": "We can relate the image to multiplication and division:\n$\\color{color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{color{blue}\\text{ number of groups} $\n",
-        "images": null
-      },
-      {
-        "content": "The image has $\\color{green}30\\color{black}$ total cheese triangles. [[image 0]] They are in $\\color{blue}D6$ groups of $\\color{purple}5$ cheese triangles.",
-        "images": [
-          {
-            "url": "https://cdn.kastatic.org/ka-perseus-graphie/7115fe2045a25cf9ff3661f4e3f505d1b97f3129.svg",
-            "width": 320,
-            "height": 302
-          }
-        ]
-      },
-      {
-        "content": "\n$\\color{blue}D6\\text{ groups}\\times ~\\color{purple}5\\text{  in each group}= \\color{green}30\\color{black}\\text{ total}$\n$\\color{green}30\\color{black}\\text{ total }\\div ~\\color{purple}5\\text{ in each group}= \\color{blue}D6\\text{ groups}$\n",
-        "images": null
-      },
-      {
-        "content": "Here is the completed table:\n$\\color{blue}D6$$\\times$ $\\color{purple}5\\color{black}= \\color{green}30\\color{black}\n\\color{green}30\\color{black}\\div \\color{purple}5\\color{black}=\\color{blue}D6$",
-        "images": null
-      }
-    ],
-    "question": {
-      "content": "**Fill in the blanks to complete the table.**  \n*Hint: [[image 0]] ",
-      "images": [
-        {
-          "url": "https://cdn.kastatic.org/ka-perseus-graphie/2c3f27003fd07e2d6937ac8f2a6ea0837f12e009.svg",
-          "width": 318,
-          "height": 320
-        }
-      ]
-    },
-    "options": [],
-    "questionType": "",
-    "correctAnswers": [],
-    "videos": []
-  },
-  {
-    "id": 2,
-    "hints": [
-      {
         "content": "We can relate multiplication and division:\n$\\color{color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{color{blue}\\text{ number of groups} $\n",
         "images": null
       },
