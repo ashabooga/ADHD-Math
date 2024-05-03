@@ -3,7 +3,7 @@
     "id": 1,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -11,7 +11,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}9$ groups of $\\color{purple}7$.$\\underbrace{\\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7\\color{black}}_{\\color{blue}9\\color{black}\\color{purple}\\text{ sevens}}} = \\color{green}63}$",
+        "content": "There are $\\color{blue}9$ groups of $\\color{purple}7$.$\\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7\\color{black} + \\color{purple}7\\color{black}+ \\color{purple}7\\color{black} + \\color{purple}7\\color{black}_\\color{blue}9\\color{black}\\color{purple}\\text{ sevens} = \\color{green}63}$",
         "images": null
       },
       {
@@ -40,7 +40,7 @@
     "id": 2,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -48,7 +48,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{blue}7\\color{black}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
+        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}_\\color{blue}7\\color{black}\\color{purple}\\text{ fives} = \\color{green}35}$",
         "images": null
       },
       {
@@ -77,7 +77,7 @@
     "id": 3,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -85,7 +85,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}4$ groups of $\\color{purple}4$.$\\underbrace{\\color{purple}4\\color{black} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black}\\color{black}_{\\color{blue}4\\color{black}\\color{purple}\\text{ fours}}} = \\color{green}16}$",
+        "content": "There are $\\color{blue}4$ groups of $\\color{purple}4$.$\\color{purple}4\\color{black} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black} + \\color{purple}4\\color{black}\\color{black}_\\color{blue}4\\color{black}\\color{purple}\\text{ fours} = \\color{green}16}$",
         "images": null
       },
       {
@@ -114,7 +114,7 @@
     "id": 4,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -122,7 +122,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{green}24\\color{black}$ total.$\\underbrace{\\color{purple}8\\color{black} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_{\\color{blue}3\\color{black}\\color{purple}\\text{ eights}}} = \\color{green}24}$",
+        "content": "There are $\\color{green}24\\color{black}$ total.$\\color{purple}8\\color{black} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_\\color{blue}3\\color{black}\\color{purple}\\text{ eights} = \\color{green}24}$",
         "images": null
       },
       {
@@ -151,7 +151,7 @@
     "id": 5,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -159,7 +159,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{green}24\\color{black}$ total.$\\underbrace{\\color{purple}8\\color{black} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_{\\color{blue}3\\color{black}\\color{purple}\\text{ eights}}} = \\color{green}24}$",
+        "content": "There are $\\color{green}24\\color{black}$ total.$\\color{purple}8\\color{black} + \\color{purple}8\\color{black} + \\color{purple}8\\color{black}\\color{black}_\\color{blue}3\\color{black}\\color{purple}\\text{ eights} = \\color{green}24}$",
         "images": null
       },
       {
@@ -188,7 +188,7 @@
     "id": 6,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -196,7 +196,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}6$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+\\color{purple}5\\color{black} + \\color{purple}5\\color{black}\\color{black}_{\\color{blue}6\\color{black}\\color{purple}\\text{ fives}}} = \\color{green}30}$",
+        "content": "There are $\\color{blue}6$ groups of $\\color{purple}5$.$\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+\\color{purple}5\\color{black} + \\color{purple}5\\color{black}\\color{black}_\\color{blue}6\\color{black}\\color{purple}\\text{ fives} = \\color{green}30}$",
         "images": null
       },
       {
@@ -225,7 +225,7 @@
     "id": 7,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -233,11 +233,11 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}8$ groups of $\\color{purple}6$.$\\underbrace{\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}+\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}}_{\\color{blue}8\\color{black}\\color{purple}\\text{ sixes}}} = \\color{green}48}$",
+        "content": "There are $\\color{blue}8$ groups of $\\color{purple}6$.$\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}+\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}_\\color{blue}8\\color{black}\\color{purple}\\text{ sixes} = \\color{green}48}$",
         "images": null
       },
       {
-        "content": "$\\color{green}48\\color{black}\\div\\color{purple}6\\color{black} = \\fbox{\\color{blue}8\\color{black}\\color{black}$ $~~$ because  $~~$ $\\fbox{\\color{blue}8\\color{black}\\times\\color{purple}6=\\color{green}48}$.",
+        "content": "$\\color{green}48\\color{black}\\div\\color{purple}6\\color{black} = \\fbox\\color{blue}8\\color{black}\\color{black}$ $~~$ because  $~~$ $\\fbox\\color{blue}8\\color{black}\\times\\color{purple}6=\\color{green}48}$.",
         "images": null
       }
     ],
@@ -256,7 +256,7 @@
     "id": 8,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -264,7 +264,7 @@
         "images": null
       },
       {
-        "content": "There is $\\color{blue}1$ group of $\\color{purple}3$.$\\underbrace{\\color{purple}3\\color{black}\\color{black}_{\\color{blue}1\\color{black}\\color{purple}\\text{ three}\\color{black}} = \\color{green}3\\color{black}$",
+        "content": "There is $\\color{blue}1$ group of $\\color{purple}3$.$\\color{purple}3\\color{black}\\color{black}_\\color{blue}1\\color{black}\\color{purple}\\text{ three}\\color{black} = \\color{green}3\\color{black}$",
         "images": null
       },
       {
@@ -293,7 +293,7 @@
     "id": 9,
     "hints": [
       {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}}\\div\\color{purple}\\text{ size of the groups}}=\\color{blue}\\text{ number of groups}} $\n",
+        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
         "images": null
       },
       {
@@ -301,7 +301,7 @@
         "images": null
       },
       {
-        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\underbrace{\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}}_{\\color{blue}7\\color{black}\\color{purple}\\text{ fives}}} = \\color{green}35}$",
+        "content": "There are $\\color{blue}7$ groups of $\\color{purple}5$.$\\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}+ \\color{purple}5\\color{black} + \\color{purple}5\\color{black} + \\color{purple}5\\color{black}_\\color{blue}7\\color{black}\\color{purple}\\text{ fives} = \\color{green}35}$",
         "images": null
       },
       {
