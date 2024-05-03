@@ -111,7 +111,7 @@
       }
     ],
     "question": {
-      "content": "**$\\color{blue}4\\color{black}\\div \\gcolor{green}\\color{black}=$** ",
+      "content": "**$\\color{blue}4\\color{black}\\div \\color{green}\\color{black}=$** ",
       "images": null
     },
     "options": [],
@@ -266,7 +266,7 @@
       }
     ],
     "question": {
-      "content": "**$\\color{blue}8\\color{black}\\color{black}\\div \\gcolor{green}\\color{black}=$** ",
+      "content": "**$\\color{blue}8\\color{black}\\color{black}\\div \\color{green}\\color{black}=$** ",
       "images": null
     },
     "options": [],

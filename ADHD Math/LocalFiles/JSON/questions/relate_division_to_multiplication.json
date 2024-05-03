@@ -68,43 +68,6 @@
     ]
   },
   {
-    "id": 3,
-    "hints": [
-      {
-        "content": "Multiplication and division are related:\n$\\color{green}\\text{number of groups}\\color{black} \\times \\color{maroon}\\text{size of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n$\\color{maroon}\\text{size of groups}\\color{black} \\times \\color{green}\\text{number of groups}\\color{black} = \\color{purple}\\text{total}\\color{black} $\n\n$\\color{purple}\\text{total}\\color{black} \\div \\color{green}\\text{number of groups}\\color{black} =\\color{maroon}\\text{size of groups}\\color{black} $\n$\\color{purple}\\text{total} \\div \\color{maroon}\\text{size of groups} =\\color{green}\\text{number of groups}$\n",
-        "images": null
-      },
-      {
-        "content": "In this fact family, the $\\color{green}\\text{number of the groups}\\color{black}$ is $\\color{green}9\\color{black}$.The $\\color{maroon}\\text{size of the groups}\\color{black}$ is $\\color{maroon}8\\color{black}\\color{black}$. [[https://cdn.kastatic.org/ka-perseus-graphie/9633294bf38711b44854aa315c1fe1e7e508d072.svg]] The $\\color{purple}\\text{total}$ is $\\color{purple}{?}$.",
-        "images": null
-      },
-      {
-        "content": "The equation $\\color{purple}{?}\\color{black} = \\color{green}9\\color{black} \\times \\color{maroon}8\\color{black}\\color{black}$ can help us find the unknown number.",
-        "images": null
-      }
-    ],
-    "question": {
-      "content": "**Create an equation to help us find the unknown number in ${?} \\div 9 = 8$ .** $= 9\\times{}$",
-      "images": null
-    },
-    "options": [
-      "9",
-      "8",
-      "?",
-      "9",
-      "8",
-      "?"
-    ],
-    "questionType": "dropdown",
-    "correctAnswers": [
-      "8",
-      "?"
-    ],
-    "videos": [
-      "qcMJ1pN36r4"
-    ]
-  },
-  {
     "id": 4,
     "hints": [
       {

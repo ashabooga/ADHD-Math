@@ -222,37 +222,6 @@
     ]
   },
   {
-    "id": 7,
-    "hints": [
-      {
-        "content": "We can relate multiplication and division:\n$\\color{blue}\\text{Number of groups}\\color{black}\\times\\color{purple}\\text{ size of the group}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$\\color{purple}\\text{Size of the group}\\color{black}\\times\\color{blue}\\text{ number of groups}\\color{black} = \\color{green}\\text{ total}\\color{black}$\n$ \\color{green}\\text{Total}\\color{black}\\div\\color{blue}\\text{ number of groups}\\color{black} =\\color{purple}\\text{ size of the groups}\\color{black}$\n$ \\color{green}\\text{Total}\\div\\color{purple}\\text{ size of the groups}=\\color{blue}\\text{ number of groups} $\n",
-        "images": null
-      },
-      {
-        "content": "How many groups of $\\color{purple}6$ do we need to make a total of $\\color{green}48\\color{black}$?",
-        "images": null
-      },
-      {
-        "content": "There are $\\color{blue}8$ groups of $\\color{purple}6$.$\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}+\\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black} + \\color{purple}6\\color{black}_\\color{blue}8\\color{black}\\color{purple}\\text{ sixes} = \\color{green}48}$",
-        "images": null
-      },
-      {
-        "content": "$\\color{green}48\\color{black}\\div\\color{purple}6\\color{black} = \\fbox\\color{blue}8\\color{black}\\color{black}$ $~~$ because  $~~$ $\\fbox\\color{blue}8\\color{black}\\times\\color{purple}6=\\color{green}48}$.",
-        "images": null
-      }
-    ],
-    "question": {
-      "content": "**Fill in the blanks.**$48 \\div 6 =~$ []   $~~$ because  $~~$   [] ${}~\\times 6=48$.",
-      "images": null
-    },
-    "options": [],
-    "questionType": "",
-    "correctAnswers": [],
-    "videos": [
-      "qcMJ1pN36r4"
-    ]
-  },
-  {
     "id": 8,
     "hints": [
       {

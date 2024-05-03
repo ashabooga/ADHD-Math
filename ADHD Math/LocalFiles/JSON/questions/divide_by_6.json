@@ -18,7 +18,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{42} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}42\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -47,7 +47,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{60} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}60\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -76,7 +76,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{54} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}54\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -105,7 +105,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{24} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}24\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -134,7 +134,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{12} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}12\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -163,7 +163,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{18} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}18\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -192,7 +192,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{12} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}12\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -221,7 +221,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{18} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}18\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -250,7 +250,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{36} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}36\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -279,7 +279,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{48} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}48\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -308,7 +308,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{48} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}48\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -337,7 +337,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{54} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}54\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -366,7 +366,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{54} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}54\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -395,7 +395,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{30} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}30\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -424,7 +424,7 @@
       }
     ],
     "question": {
-      "content": "** $\\huge\\blueD{6} \\div \\greenD{6} = {?}$ **",
+      "content": "** $\\color{blue}6\\color{black} \\div \\color{green}6\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],

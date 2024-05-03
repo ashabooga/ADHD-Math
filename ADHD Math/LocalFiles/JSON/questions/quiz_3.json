@@ -47,7 +47,7 @@
       }
     ],
     "question": {
-      "content": "** $\\color{blue}14} \\div \\color{green}2\\color{black} = {?}$ **",
+      "content": "** $\\color{blue}14\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -76,7 +76,7 @@
       }
     ],
     "question": {
-      "content": "**$\\color{blue}12} \\div \\color{green}4\\color{black} =$** ",
+      "content": "**$\\color{blue}12\\color{black} \\div \\color{green}4\\color{black} =$** ",
       "images": null
     },
     "options": [],
@@ -134,7 +134,7 @@
       }
     ],
     "question": {
-      "content": "**$\\color{blue}28} \\div \\color{green}4\\color{black}=$** ",
+      "content": "**$\\color{blue}28\\color{black} \\div \\color{green}4\\color{black}=$** ",
       "images": null
     },
     "options": [],
@@ -192,7 +192,7 @@
       }
     ],
     "question": {
-      "content": "** $\\color{blue}20} \\div \\color{green}2\\color{black} = {?}$ **",
+      "content": "** $\\color{blue}20\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -405,7 +405,7 @@
       }
     ],
     "question": {
-      "content": "** $\\color{blue}16} \\div \\color{green}2\\color{black} = {?}$ **",
+      "content": "** $\\color{blue}16\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],
@@ -434,7 +434,7 @@
       }
     ],
     "question": {
-      "content": "**$\\color{blue}20} \\div \\color{green}4\\color{black} =$** ",
+      "content": "**$\\color{blue}20\\color{black} \\div \\color{green}4\\color{black} =$** ",
       "images": null
     },
     "options": [],
@@ -550,7 +550,7 @@
       }
     ],
     "question": {
-      "content": "**$\\color{blue}40} \\div \\color{green}4\\color{black} =$** ",
+      "content": "**$\\color{blue}40\\color{black} \\div \\color{green}4\\color{black} =$** ",
       "images": null
     },
     "options": [],
@@ -666,7 +666,7 @@
       }
     ],
     "question": {
-      "content": "** $\\color{blue}12} \\div \\color{green}2\\color{black} = {?}$ **",
+      "content": "** $\\color{blue}12\\color{black} \\div \\color{green}2\\color{black} = {?}$ **",
       "images": null
     },
     "options": [],

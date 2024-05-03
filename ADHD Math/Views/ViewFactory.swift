@@ -34,7 +34,6 @@ struct CustomTextView: View {
                     } else if item.contains("$") {
                         LaTeX(item)
                             .imageRenderingMode(.original)
-                            .frame(maxWidth: 350, alignment: .leading)
                             .multilineTextAlignment(.leading)
                             .padding(.top)
                     } else {
@@ -43,12 +42,12 @@ struct CustomTextView: View {
                             let _ = print(item)
                             Text(item)
                                 .fontWeight(.bold)
-                                .frame(maxWidth: 350, alignment: .leading)
+                                .frame(maxWidth: .infinity, alignment: .leading)
                                 .multilineTextAlignment(.leading)
                                 .padding(.top)
                         } else {
                             Text(item)
-                                .frame(maxWidth: 350, alignment: .leading)
+                                .frame(maxWidth: .infinity, alignment: .leading)
                                 .multilineTextAlignment(.leading)
                                 .padding(.top)
                         }

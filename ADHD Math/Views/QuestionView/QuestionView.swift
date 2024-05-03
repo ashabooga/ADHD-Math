@@ -34,6 +34,7 @@ struct QuestionView: View {
                         
                     viewForString(string: question.question.content, question: question)
                         .padding(.bottom, 30)
+                        .frame(width: 375)
                         .frame(maxWidth: 375)
                         .frame(minHeight: 250)
                     
@@ -158,6 +159,6 @@ struct QuestionView: View {
     
     @State var exerciseResults: [Bool] = []
     
-    return QuestionView(question: QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "here is an example content $\\color{blue}5\\div6$", images: [ImageModel(url: "pandaPNG", height: 250, width: 300)]), options: ["option 1", "option 2", "option 3", "option 4"], questionType: .multipleChoice, correctAnswers: ["option 2", "option 3"], videos: ["noVideo"]), isTest: false, incrementIndex: { noFunc() }, exerciseResults: $exerciseResults)
+    return QuestionView(question: QuestionModel(id: 0, hints: [HintModel(content: "Hint 1")], question: QuestionContentModel(content: "Amy has $16$ video games. She puts them into stacks of $4$ games each.**Which expression helps us find out how many stacks of games there are?", images: [ImageModel(url: "pandaPNG", height: 250, width: 300)]), options: ["option 1", "option 2", "option 3", "option 4"], questionType: .multipleChoice, correctAnswers: ["option 2", "option 3"], videos: ["noVideo"]), isTest: false, incrementIndex: { noFunc() }, exerciseResults: $exerciseResults)
         .background(Color.background3.ignoresSafeArea())
 }
